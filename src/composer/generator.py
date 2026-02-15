@@ -17,7 +17,9 @@ def generate_buddy_reply(
     analysis: Optional[Dict] = None,
     policy: Optional[Dict] = None,
     rag_knowledge: Optional[Dict] = None,
-    persona: Optional[Dict] = None
+    persona: Optional[Dict] = None,
+    memory: Optional[Dict] = None,
+    meta: Optional[Dict] = None
 ) -> str:
     """
     Generate final Buddy response using Claude.
@@ -27,26 +29,32 @@ def generate_buddy_reply(
     - Social analysis (emotion, relationship, conflict_risk)
     - Behavior policy (mode, tone, humor_level, etc.)
     - RAG knowledge (cultural patterns, do's and don'ts)
-    - Persona memory (optional - for future use)
+    - Persona memory (user preferences and context)
+    - Memory (learned traits for consistency)
+    - Meta (real-world context: city, place, time)
 
     Args:
         user_input: The user's message
         analysis: Social analysis dict from analyze_social_context()
         policy: Behavior policy dict from generate_behavior_policy()
         rag_knowledge: Retrieved behavior knowledge
-        persona: User-specific preferences (optional, future use)
+        persona: User-specific preferences (optional)
+        memory: User memory with learned traits (optional)
+        meta: Real-world context (city, place, time, event)
 
     Returns:
         Generated response text
 
     Example:
         >>> reply = generate_buddy_reply(
-        ...     user_input="My boss yelled at me in meeting",
-        ...     analysis={'primary_emotion': 'anger', 'relationship': 'authority'},
-        ...     policy={'mode': 'diplomatic_advisor', 'tone': 'calm_reassuring'},
-        ...     rag_knowledge={'do': ['validate', 'suggest diplomatic wording']}
+        ...     user_input="Bhai train chut gayi",
+        ...     analysis={'primary_emotion': 'frustration', 'relationship': 'friend'},
+        ...     policy={'mode': 'chill_companion', 'tone': 'casual_supportive'},
+        ...     rag_knowledge={'do': ['validate', 'suggest alternatives']},
+        ...     memory={'learned_patterns': ['needs_validation']},
+        ...     meta={'city': 'Bangalore', 'place': 'railway_station', 'time': 'evening'}
         ... )
-        >>> print(reply)
+        >>> print(reply)  # Context-aware response about Bangalore
     """
 
     # Get API key
@@ -68,6 +76,26 @@ def generate_buddy_reply(
         user_input,
         ""
     ]
+
+    # Add user personality traits (MEMORY INJECTION)
+    if memory and memory.get('learned_patterns'):
+        context_parts.append("=== USER PERSONALITY TRAITS ===")
+        context_parts.append("Based on past interactions, this user:")
+        for trait in memory.get('learned_patterns', []):
+            trait_description = {
+                'avoids_conflict': '- Avoids confrontation, prefers diplomatic approach',
+                'needs_validation': '- Needs emotional validation before advice',
+                'reassurance_seeking': '- Seeks reassurance and calm guidance',
+                'high_anxiety_baseline': '- Frequently anxious, needs steady calm tone',
+                'humor_responsive': '- Responds well to appropriate humor',
+                'solution_oriented': '- Prefers actionable, practical solutions',
+                'needs_emotional_support': '- Needs empathy before problem-solving',
+                'workplace_stress_prone': '- Sensitive to workplace stress, be extra supportive'
+            }.get(trait, f'- {trait}')
+            context_parts.append(trait_description)
+        context_parts.append("")
+        context_parts.append("Adapt your tone and approach accordingly to maintain consistency.")
+        context_parts.append("")
 
     # Add social analysis
     if analysis:
@@ -158,7 +186,8 @@ def generate_reply(
     user_input: str,
     analysis: Optional[Any] = None,
     policy: Optional[Any] = None,
-    rag_knowledge: Optional[Dict] = None
+    rag_knowledge: Optional[Dict] = None,
+    memory: Optional[Dict] = None
 ) -> str:
     """
     Simplified interface for generate_buddy_reply.
@@ -170,6 +199,7 @@ def generate_reply(
         analysis: SocialAnalysis object or dict
         policy: BehaviorPolicy object or dict
         rag_knowledge: Retrieved knowledge dict
+        memory: User memory with learned traits (dict)
 
     Returns:
         Generated response text
@@ -194,6 +224,7 @@ def generate_reply(
         user_input=user_input,
         analysis=analysis_dict,
         policy=policy_dict,
-        rag_knowledge=rag_knowledge
+        rag_knowledge=rag_knowledge,
+        memory=memory
     )
 

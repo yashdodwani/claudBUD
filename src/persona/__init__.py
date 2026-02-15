@@ -9,7 +9,9 @@ from .user_context import (
     save_memory,
     get_user_profile,
     update_user_traits,
-    get_user_traits
+    get_user_traits,
+    log_interaction,
+    get_interaction_stats
 )
 
 __all__ = [
@@ -23,6 +25,8 @@ __all__ = [
     "save_memory",
     "get_user_profile",
     "update_user_traits",
-    "get_user_traits"
+    "get_user_traits",
+    "log_interaction",
+    "get_interaction_stats"
 ]
 

@@ -382,3 +382,172 @@ def get_user_traits(user_id: str) -> list:
     return profile.get('learned_patterns', [])
 
 
+def log_interaction(
+    user_id: str,
+    scenario: str,
+    emotion: str,
+    mode: str,
+    metadata: Optional[Dict[str, Any]] = None
+) -> bool:
+    """
+    Log interaction outcome for adaptive learning.
+
+    Stores interaction patterns to help Buddy learn preferences over time.
+    Does NOT store message content - only behavioral metadata.
+
+    Args:
+        user_id: User identifier
+        scenario: Scenario type (e.g., 'workplace_conflict', 'exam_stress')
+        emotion: Detected emotion
+        mode: Response mode used (e.g., 'diplomatic_advisor', 'venting_listener')
+        metadata: Optional additional data (response_length, humor_used, etc.)
+
+    Returns:
+        True if logged successfully
+
+    Example:
+        >>> log_interaction(
+        ...     user_id="user_123",
+        ...     scenario="workplace_conflict",
+        ...     emotion="anxiety",
+        ...     mode="diplomatic_advisor",
+        ...     metadata={'response_length': 'medium', 'humor_level': 0}
+        ... )
+        True
+    """
+
+    users_collection = get_users_collection()
+
+    # Get interactions collection
+    db = users_collection.database
+    interactions = db["interactions"]
+
+    # Create interaction log entry
+    interaction = {
+        "user_id": user_id,
+        "timestamp": datetime.utcnow(),
+        "scenario": scenario,
+        "emotion": emotion,
+        "mode": mode,
+        "metadata": metadata or {},
+        "type": "interaction_log"
+    }
+
+    # Insert interaction log
+    result = interactions.insert_one(interaction)
+
+    # Update user's interaction count (already done in load_user_context, but ensure consistency)
+    users_collection.update_one(
+        {"user_id": user_id},
+        {
+            "$inc": {"total_interactions": 1},
+            "$set": {"last_interaction": datetime.utcnow()}
+        },
+        upsert=True
+    )
+
+    return result.acknowledged
+
+
+def get_interaction_stats(user_id: str) -> Dict[str, Any]:
+    """
+    Get interaction statistics for a user.
+
+    Analyzes past interactions to show learning and adaptation.
+
+    Args:
+        user_id: User identifier
+
+    Returns:
+        Dict with interaction statistics
+
+    Example:
+        >>> stats = get_interaction_stats("user_123")
+        >>> print(stats)
+        {
+            'total_interactions': 47,
+            'common_scenarios': ['workplace_conflict', 'exam_stress'],
+            'common_emotions': ['anxiety', 'frustration'],
+            'preferred_modes': ['diplomatic_advisor', 'venting_listener'],
+            'adaptations_learned': [
+                'Buddy learned you prefer short replies',
+                'Buddy adapted to your workplace stress patterns'
+            ]
+        }
+    """
+
+    users_collection = get_users_collection()
+    db = users_collection.database
+    interactions = db["interactions"]
+
+    # Get all interactions for user
+    user_interactions = list(interactions.find({"user_id": user_id}))
+
+    if not user_interactions:
+        return {
+            'total_interactions': 0,
+            'common_scenarios': [],
+            'common_emotions': [],
+            'preferred_modes': [],
+            'adaptations_learned': []
+        }
+
+    # Analyze patterns
+    scenarios = {}
+    emotions = {}
+    modes = {}
+
+    for interaction in user_interactions:
+        scenario = interaction.get('scenario', 'unknown')
+        emotion = interaction.get('emotion', 'unknown')
+        mode = interaction.get('mode', 'unknown')
+
+        scenarios[scenario] = scenarios.get(scenario, 0) + 1
+        emotions[emotion] = emotions.get(emotion, 0) + 1
+        modes[mode] = modes.get(mode, 0) + 1
+
+    # Get top 3 of each
+    common_scenarios = sorted(scenarios.items(), key=lambda x: x[1], reverse=True)[:3]
+    common_emotions = sorted(emotions.items(), key=lambda x: x[1], reverse=True)[:3]
+    preferred_modes = sorted(modes.items(), key=lambda x: x[1], reverse=True)[:3]
+
+    # Generate adaptation messages
+    adaptations = []
+
+    # Get learned traits
+    traits = get_user_traits(user_id)
+
+    if 'avoids_conflict' in traits:
+        adaptations.append("Buddy learned you prefer diplomatic approaches")
+    if 'needs_validation' in traits:
+        adaptations.append("Buddy adapted to validate your emotions first")
+    if 'solution_oriented' in traits:
+        adaptations.append("Buddy learned you prefer actionable solutions")
+    if 'reassurance_seeking' in traits:
+        adaptations.append("Buddy provides more reassurance based on your patterns")
+    if 'humor_responsive' in traits:
+        adaptations.append("Buddy uses appropriate humor when suitable")
+    if 'workplace_stress_prone' in traits:
+        adaptations.append("Buddy is extra supportive for work-related stress")
+
+    # Check metadata for preferences
+    recent_interactions = user_interactions[-10:] if len(user_interactions) > 10 else user_interactions
+    response_lengths = [i.get('metadata', {}).get('response_length') for i in recent_interactions if i.get('metadata', {}).get('response_length')]
+
+    if response_lengths:
+        from collections import Counter
+        most_common_length = Counter(response_lengths).most_common(1)[0][0]
+        if most_common_length == 'short':
+            adaptations.append("Buddy learned you prefer concise replies")
+        elif most_common_length == 'long':
+            adaptations.append("Buddy learned you appreciate detailed responses")
+
+    return {
+        'total_interactions': len(user_interactions),
+        'common_scenarios': [s[0] for s in common_scenarios],
+        'common_emotions': [e[0] for e in common_emotions],
+        'preferred_modes': [m[0] for m in preferred_modes],
+        'adaptations_learned': adaptations
+    }
+
+
