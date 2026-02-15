@@ -77,14 +77,19 @@ All errors are caught and return safe fallback:
 ```json
 {
     "user_id": "demo_user",
-    "message": "Bhai train late ho gayi"
+    "message": "Bhai train late ho gayi",
+    "meta": {
+        "city": "Bangalore",
+        "place": "railway_station",
+        "time": "evening"
+    }
 }
 ```
 
 **Response:**
 ```json
 {
-    "reply": "Ugh yaar, typical Indian Railways timing...",
+    "reply": "Ugh yaar, typical Bangalore traffic affecting train schedules...",
     "mode": "chill_companion",
     "emotion": "frustration",
     "intensity": 5,
@@ -93,6 +98,17 @@ All errors are caught and return safe fallback:
     "error": null
 }
 ```
+
+**Meta Field (Optional but Powerful):**
+- `city`: User's city (e.g., "Bangalore", "Mumbai", "Delhi")
+- `place`: Current location type (e.g., "railway_station", "workplace", "home")
+- `time`: Time of day (e.g., "morning", "evening", "night")
+- `event`: Specific event if relevant (e.g., "exam", "interview")
+
+**Why Meta Matters:**
+- Prevents hallucination (won't suggest Delhi metro when user is in Bangalore)
+- Grounds responses in local context
+- Makes Buddy feel like a real local friend, not a generic AI
 
 ### 2. POST /chat/whatsapp - WhatsApp Import
 
@@ -168,20 +184,48 @@ gunicorn main:app -w 4 -k uvicorn.workers.UvicornWorker
 ### JavaScript/TypeScript Example
 
 ```typescript
-// Normal chat
-async function sendMessage(userId: string, message: string) {
+// Normal chat with context
+async function sendMessage(
+    userId: string, 
+    message: string,
+    meta?: {city?: string, place?: string, time?: string}
+) {
     const response = await fetch('http://localhost:8000/chat', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
             user_id: userId,
-            message: message
+            message: message,
+            meta: meta  // Optional context
         })
     });
     
     const data = await response.json();
     return data;
 }
+
+// Usage with context
+const result = await sendMessage(
+    'user_123', 
+    'Bhai train chut gayi',
+    {
+        city: 'Bangalore',
+        place: 'railway_station',
+        time: 'evening'
+    }
+);
+
+console.log(result.reply);     // Bangalore-specific response!
+console.log(result.learning);  // Show to user!
+
+// Get location from browser (optional)
+if (navigator.geolocation) {
+    navigator.geolocation.getCurrentPosition((position) => {
+        // Reverse geocode to get city
+        // Then include in meta
+    });
+}
+```
 
 // Get learning insights
 async function getLearning(userId: string) {

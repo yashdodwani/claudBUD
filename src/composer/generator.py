@@ -97,6 +97,28 @@ def generate_buddy_reply(
         context_parts.append("Adapt your tone and approach accordingly to maintain consistency.")
         context_parts.append("")
 
+    # Add real-world context (CRITICAL for grounding!)
+    if meta:
+        context_parts.append("=== REAL WORLD CONTEXT ===")
+        city = meta.get('city', 'unknown')
+        place = meta.get('place', 'unknown')
+        time = meta.get('time', 'unknown')
+        event = meta.get('event', None)
+
+        context_parts.append(f"City: {city}")
+        context_parts.append(f"Place: {place}")
+        context_parts.append(f"Time: {time}")
+        if event:
+            context_parts.append(f"Event: {event}")
+        context_parts.append("")
+        context_parts.append("CRITICAL RULES:")
+        context_parts.append("- NEVER assume a different city than stated")
+        context_parts.append("- If city is unknown, speak generically")
+        context_parts.append("- If city is known, ground suggestions locally (e.g., Bangalore metro, Mumbai local trains)")
+        context_parts.append("- Use place context to make response realistic")
+        context_parts.append("- Adapt advice to local infrastructure and culture")
+        context_parts.append("")
+
     # Add social analysis
     if analysis:
         context_parts.append("=== SOCIAL ANALYSIS ===")
@@ -187,7 +209,8 @@ def generate_reply(
     analysis: Optional[Any] = None,
     policy: Optional[Any] = None,
     rag_knowledge: Optional[Dict] = None,
-    memory: Optional[Dict] = None
+    memory: Optional[Dict] = None,
+    meta: Optional[Dict] = None
 ) -> str:
     """
     Simplified interface for generate_buddy_reply.
@@ -200,6 +223,7 @@ def generate_reply(
         policy: BehaviorPolicy object or dict
         rag_knowledge: Retrieved knowledge dict
         memory: User memory with learned traits (dict)
+        meta: Real-world context (city, place, time)
 
     Returns:
         Generated response text
@@ -225,6 +249,7 @@ def generate_reply(
         analysis=analysis_dict,
         policy=policy_dict,
         rag_knowledge=rag_knowledge,
-        memory=memory
+        memory=memory,
+        meta=meta
     )
 
