@@ -437,6 +437,11 @@ def log_interaction(
 
     users_collection = get_users_collection()
 
+    # If MongoDB unavailable, return False
+    if users_collection is None:
+        print("Warning: MongoDB unavailable, cannot log interaction")
+        return False
+
     # Get interactions collection
     db = users_collection.database
     interactions = db["interactions"]
