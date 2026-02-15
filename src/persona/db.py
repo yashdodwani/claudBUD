@@ -44,9 +44,13 @@ class MongoDB:
             raise ValueError("MONGO_URI not found in environment")
 
         # Connect with proper configuration for MongoDB Atlas
+        # Use certifi for SSL certificates to avoid handshake issues
         try:
+            import certifi
+
             cls._client = MongoClient(
                 uri,
+                tlsCAFile=certifi.where(),  # Use certifi certificates
                 serverSelectionTimeoutMS=5000,
                 connectTimeoutMS=5000,
                 socketTimeoutMS=5000
@@ -54,6 +58,7 @@ class MongoDB:
 
             # Test connection
             cls._client.admin.command('ping')
+            print("[MongoDB] Successfully connected to MongoDB Atlas!")
 
         except Exception as e:
             print(f"MongoDB connection error: {e}")
