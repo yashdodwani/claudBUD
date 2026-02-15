@@ -59,6 +59,33 @@ claudBUD/
 
 ## 🎉 ALL PHASES COMPLETE!
 
+## Optional: User Personalization (Persona Module)
+
+Add user-specific context and memory:
+
+```bash
+# 1. Set up MongoDB (local or Atlas)
+# 2. Add to .env:
+MONGO_URI=mongodb://localhost:27017/buddy_ai
+
+# 3. Use personalization
+from persona import load_user_context
+user_context = load_user_context(user_id="user_123")
+
+# 4. Generate personalized response
+response = generate_buddy_reply(
+    user_input=message,
+    analysis=analysis,
+    policy=policy,
+    rag_knowledge=knowledge,
+    persona=user_context  # Adds personalization!
+)
+```
+
+**Note**: System works perfectly without MongoDB. Persona module is optional.
+
+See `docs/PERSONA_MODULE.md` for setup and usage.
+
 ## Quick Start
 
 ```bash
