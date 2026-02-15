@@ -1,10 +1,23 @@
-anthropic>=0.18.0
-python-dotenv>=1.0.0
-pydantic>=2.0.0
-chromadb>=0.4.0
-sentence-transformers>=2.2.0
-numpy>=1.24.0
-pymongo>=4.6.0
+# Core API Framework
 fastapi>=0.109.0
 uvicorn[standard]>=0.27.0
+pydantic>=2.0.0
+
+# Environment & Config
+python-dotenv>=1.0.0
+
+# Claude API
+anthropic>=0.18.0
+
+# Database (Optional - for learning features)
+pymongo>=4.6.0
+
+# HTTP Client (for API calls)
+httpx>=0.27.0
+
+# JSON Performance
+orjson>=3.9.0
+
+# Logging (Optional but nice)
+rich>=13.0.0
 
