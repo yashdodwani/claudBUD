@@ -1,0 +1,1032 @@
+[
+  {
+    "text": "Isi liye bekar hai ye jim orignal body achi hai",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Body wapas chali jati hai 😂😂😂 jim chodne ke bad",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Main workout kar rahe ho",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Gum hi meri jaan hai",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Ma wo bnda Jo workout ka Bina ik din nhi reh skta tha 🥹",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Mujhay shoulder injury ho Gai ha or ma ik mahina sa gym nhi ja pa rha 😔",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Bhai phele meri body bhot jada thi lekin mene 6 months tak workout chod diya tha to body bhot kam ho gai hai ab fur se start karta hu workout",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Kya 3-4 months ka break lene ke baad hair loss jaise problems ko face karna pad sakta h",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Please solution bataen bahut buri halat ho gai hai 😥😥😥",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Mere ko Jim chhode 1 sal ho gaya hai pahle Jaise pump nahin body banane mein dikkat ho rahi hai 🥺🥺😥😥",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Bilkul mere sath yahi hua,kitne hi video pe yahi sawal Kiya tha, ittefaq se Abhi ye video mera jawab mila.✍️ Thanks bro. Q. \"Meri umra 59 ke aapas hai, par jo 30 -35 me jitna workout karta tha utni hi iss umra me bhi karta hun.umra bhul chuka Hun, kuch pahle bimar,Tress ke chalte 5 mahine Mai dur raha, yogabhyas kabhi kabhar hi kar leta tha natija mai kafi Dubla patla ho Gaya. Ab vapas pahle jaisa sharir banana chahta hun. (Desi vyayam karta hun.) Kya apka wtsup no. Mil sakta. Aaj 14 May 2024 ha",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Maine 7 month regular gym karne ke baad 20 days ka break le liya hai",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Sir mai jab workout karta tha to mera bp normal tha par chodne par badh gya",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Mainu 23 saal ho gye gym kardeya main je chaad ta te maar jaanga",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Kya sakal bhi change hota chehera pai pehle Joe Noor tha woh nahin hai chehera poorie tarika sai change hoe jyaada",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "mei ek hafte se gym nhi gya fir mera 3 kg kam ho gya",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Aise me to workout kaarna bhi jhund hai kyonki Janaab hum to skinny boy hain aur hum yahi aas lagaye hain kin kab hamari body attractive bane aur hum bhi achhae dikhe lekin iske sath hum student bhi hain hume kuchh paane ke liye kuchh khona padta hain",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Are ya meri maskulaar body 3 hafte chhorne se sukkha chhuhara ban gaya main",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Workout se aacha to yoga karna chaiye sahi baat he reply me",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "2 month ke baad main demotavate ho jaata hoo kya kru please suggestion me",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Hamlok kiya legs warkout karne se kiya Testosterone boost kar sakte hai.",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Me mma player hu mene 1 years thk choda tha par mare body me khuch nh hua👍",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Bhai gym jana chor de to kya pet bhar a ajata he kya",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Ab to adat si hai mujhe ko ayese jine me 🤣😂",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Ye bilkul jhoot h bhai mene 4 mahine se gym band kar rakhi h or aisa kuchh jyada mass loss nhi hua h or na hi thakan mahsoos hoti h ye channel 100%me se 80% jhoot bolta h report karo esko sale ko negativ miyth ghusata h mind m logo ke chutiya 🥺🥺🥺report this video",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Bhai mene 1 saal ke gym chod diya tha kuch nahi hua meri body ko",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Bhai 30 din baad 10 killo ka dumble bhi 25 ka lagta hai par acchi baat ye hai ki 4,5 din mai normal ho jaata hai 😂🔱",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "1 ghnte se kuch nhi hota...diet bhi maintain krna pdti",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Tach team ko bulao 🥀🗣️ not tuff bro 🥀",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Hatttt bonla sayad bhul gaya😅",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Par bhai aapki physique kahan hai 😅",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Isko dekh ka lagta nahi 😂",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Bhai ye agar gym jaata hai to meine bhi powerlifting kar rakhi hai 😂",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "2saal se subha 4baje uthta hu , yeh toh baat hi maat karo ki subha gym Jana achi cheez hai body stress ke baad padhne ke time neendh aati hai , 11th aspirants avoid this reel",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Bhaiya please JEE 2027 ke bare me video bnao... taki 10th to 11th going student ka 1 din bhi waste na ho... I am preparing for 10th board and will start jee prep just after boards from march end... I am thinking of taking onlinr batch of esaral and my parents are agree so that i can dummy... please please please tell..",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Gym jaake kya krega jab ghar vapis aake dab dab 💀",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Mugha isko dhak kar lag nhi Raha gym Jaa Raha hai😂😂😂😂",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Bhai ek dm choti si pyaari si smile aayi bro ke mu pe❤❤❤",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Mera toh 1 ghante me ho jata gai but mai 6 dinn jata hu week me ?",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Bhai gym chorde 🥲 baki in detail m smjha skta hu agar koi bahot confused h plz bhai yahi time krlena na gym bas 2 sal chordo bas",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "iss bacche ko kuch nhi aata😂😂",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Bhai thanks bhai apni mummy ko vedio dikhs doonga",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Meri bhi gym ki yehi timing hai par shaam ko should i continue bhaiya ?",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Bhaiya school jaau ya nahi Yaha school achi hai KDARFS JAMNAGAR hai yaha sai log school + coaching karke bhi IIT gaye hai har saal abhi bhaiya mai 10th mai hu kya karu ?? And bhaiya I am really serious about this ki mujhe IIT hi karna hai aur bata du ki maine 9th aur 10th kai jitne chapters hai un mai sai most of the chapters Olympiad level jitne kiye hai mtlb ache khase kiye hai",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "BHAIYA EK BAAT BATAIYE, AAPNE NOTES TOH BANAYE NAHI THE TOH AAP REVISE KARTE KAISE THE ??",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Sir ye to Bata do offline coaching tha ya online",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Mera room partner bhi ese hi karta hai 😅😅",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Mera abhi 3 din hua hai bhut dard ho rha hai Thik kab tak hoga koi batay",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Sir ab kya kare dard ho raha h",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Bhai chest aur trysepse day kr liya sidha Jake hi 1 month ka break leke but pain elbow main hi rha hai",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Bhai... yeh video phle kyu nhi mili...., sch me bhut pain ho rha hai...",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "aisi taisi Hui padi hai 💔💔",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Sar aap crime petrol mein kam karte The kya",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Mera abhi yhi haal hai..haat bhi nhi utha pa rha ..laga kahi toot to nhi gya ...😢",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Same bhai bhoot dard hori hai yaar 😂🥺",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Gym trainer toh sala pehle hi din karva leta hai",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Guruji aapki vaadi itna accha hai mann krta hai aapki class attand kro but pta hi nhi hai ki aap koun si subject padhate hai",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Dear Sir Aap Ka Samjhane Ka Andaz Bahoot Acha Hai. ❤ Aap Ke Liye 💐💐💐",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Dear Sir Aap Ka Samjhane Ka Andaz Bahoot Acha Hai. ❤ Aap Ke Liye 💐💐💐",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Sir uric acid hota hai,",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Massst , thankyou sir , and team masst bgm hai",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Sachai ko ek dam sammne laa kar rakkh diya hai aap ne",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Aapse science pdhne k bad to sir lgta hi ni ki hm science background k student nhi h",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Gym bekar hai😂😂 gym karo tab sahi chodo to wapas dhile😂😂",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Gym chodane ke baad sharir kharaab ho jayega , agar nahi karoge to abhi se hi kharab hona shuru ho jayega",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Mera sharir kharab ho gya gym chodne bad",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Bhai mene 8 months workout kiya aur ab mene chhod diya uska 3 months ho gaye he aur abhi muje left hand me aur heart me thoda thoda dard ho raha hai to me kya karu",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Ham log aise hi theek hai gym jakar kya fayda hoga",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Mera 1 sal hogaya gym chorne ka lakin Mera wazan Kam horahara Kya waja hai",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Sir high bp ki problem ho gai he muze gym chodane se weight loss bhi hua hai kya karu",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Kya hum phir start kr skte h after 1 year plzz reply",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Gym chhodne ke baad sirf 1 ghanta running karenge to koi dikkat hai. important question.🙋",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Bhai 2 year complete hone vale but boddy me koi fark nahi trainer roj nai nai chije btate ords crition+ gainer sab le raha but koi fark nahi pllz reply",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "27 January ko kon dekh raha ha",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "To Pani ki bottle kyu lekar jate hai Gym me?",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Kam se kam aap ne ye mana ki nonveg me zyada protein h",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Bhes ka dudh pi sakte hai",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Bhai bhas ke dhudh me protein nahi hota hai 😂",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Bhai asbghanda le sakte hai kya",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Ajj kon kon dekh rahe hai coment Karo ❤",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Ye galat bata raha hai",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Sir ji workout nahane se pahle kreee ya nahane k bad plz Tell me ? It's urgent because I'm beginner 😢",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Bhai mereko cow milk se allergy hai tb kya jaroori hai peena",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Bro apne jo sudhh sakahari ki bat ki haii na vo muje bohot pasand ayi main aapki chanal ko subscribe kar ta hu 🙏🏻🙏🏻👌🏻",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "bhai ek aur nayi video bana do is topic par",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Bhai varkaut ke bad so😴 liya to kya hoga ❤❤",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Mein bhi yahi sochkar bolkar apne ap ko 4 baje utha deta hu or sab kuch krke 1 ghanta 20 daily exercise krta hu",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Bhai meat ki bina exercise nhi hoti",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Morning m zym k baad sone k liye time ni milta to kya kre",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Jaldi marne ke liye Bakri Ki Tarah aapko lagta hai sorry aapko dant Bakri Ki Tarah",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Mujhe sher ki tarah do dant hai aapko🤭",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Aaabe bolna kya chata hai seda bol na Muslim ka liya nahi hai tera chhanel",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Matlab bhai tum vegitarian ke liye hi apna channel banaya hai ???",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Har set mein failure ya only in last set",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Itna gyaan deta h khud pe bhi thoda use karle",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Best two intelligent guy collaboration maza aa gaya bhai",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Iske uper tehda kyu ho jata h",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Sir soyabean khane se men boobs aate he? Ki safe he? Khana chahiye ki nahi?",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "New study padho bhaiyo....failure se 3-4 rep pehle rukna aur failure aane pe rukne mein koi difference nahi hai.",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Inka collab bhi aa gya gtaVI se pehle 😂",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Bhai aap Ankit Gour ko jante unki training apko kesi lagti hy",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Shivam bhai ki entry ❤",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "But bhaiya agr is position me akele train kar rahe ho aur agar barbell chuta toh Dosto ko pudi khilani padegi😅",
+    "scenario": "gym_motivation_fail",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  }
+]

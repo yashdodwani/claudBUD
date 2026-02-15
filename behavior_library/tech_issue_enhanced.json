@@ -1,0 +1,2451 @@
+[
+  {
+    "text": "\"Ye Brahmin hai.. maaro..maaro ise.. Mere kapde faade... Meri video banayi.. Jab tak main behosh nahi hone lagi tab tak mujhe maarte rahe.\" - Journalist Ruchi Tiwari who was groped and attacked by pro UGC protesters in DU. source :",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "Wi-Fi on krne pe 5G ka network nahi show hota h mobile me",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "Muh se kush bol bhi le",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "Manage settings ka option chal nhi rha to",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "ye kam nahi kar raha hai it's fake",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "Wifi ka option nhi a Raha connection m jana k bad",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "Bro me ne ufone WiFi leya ha aur Abe mobile se jab connect karo tu mb nikal te ha but kam nhi karta shayad mobile ka system update horaha ha ya keya masla ha ap please mujhe bataye",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "Mera net sab net KO konect horaha h sivaie Mera mere net k",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "Tum thoda sa bkl ho kya",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "Thik pagal bnate ho bhai 😡😡😡😡😡🤬🤬🤬",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "Akh thuuuu bhai log isme comment karenge gali deke to koi faida nahi sab log report misleading ya spam karke",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "Thank you sir mera problem solve ho gya hai",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "Bhai thanks a lot for that very helpful",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "Useful video❤ 2 minute me thik ho gya thank u 😊",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "Love you Bhai thanx ❤",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "Bhai ek kaam karo Aap apne phone mein LTE only select karlo, iski video aati h YT pe aap dekh skte ho, mera 8mbps tha ab 40mbps touch kr rha h",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "Network full pe nhi he 😢",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "Kuch nahi hota kar k dekh liya",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "Nhi hua bhai abhi bhi",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "Internet nhi chal rha hai",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "Bar bar phir se not registretion dikha ne ka kyu hora mobile me kya problm aai hogi 1 saal se ase hi hora mere sath kiya krna hoga pls reply me ?",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "Network provited ka option nahi dikha raha hain",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "Bhai fir nahi ro Raha hai",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "Mera abhi bhi waise hi h ahi nhi ho rha😢",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "Ohh BHAi hackr king bro",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "Ohh BHAi hackr king bro",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "Ohh BHAi hackr king bro",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "Bar bar time change ho ja raha hai 😫😫",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "Thanks thanks bhai😅 mera WiFi ab kam.karne laga hai Mai is problem se bohot pareshan thi lekin ab nai Hu thank you bhaiyaaaa😊☺️",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "Me hi budu tha mene time date ko change Kiya tha😅",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "Tecno ka mobile Mai ! yah yishu a raha hai ise kaise theek Karen",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "Time ho gya par date nhi ho rhi",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "Thank you bhai it's working ❤❤",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "Thankyou bhai teri vajah se mera Wi-Fi kam chal raha hai abhi",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "Kaam nhi kar rha ye Karne ke Baad bhi",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "Jab Ham Kisi ka Wi-Fi connect karte hain to use pata chal jata hai",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "Mere phone me nahi ho Raha h 👇",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "Isliye airtel,jio slow hai kuch dino se",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "To Recharge ke price kyu badha rahe ho",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "Mera bhi slow ho gya ha",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "Wi-Fi on krne pe 5G ka network nahi show hota h mobile me",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "Muh se kush bol bhi le",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "Manage settings ka option chal nhi rha to",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "ye kam nahi kar raha hai it's fake",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "Wifi ka option nhi a Raha connection m jana k bad",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "Bro me ne ufone WiFi leya ha aur Abe mobile se jab connect karo tu mb nikal te ha but kam nhi karta shayad mobile ka system update horaha ha ya keya masla ha ap please mujhe bataye",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "Mera net sab net KO konect horaha h sivaie Mera mere net k",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "Tum thoda sa bkl ho kya",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "Thik pagal bnate ho bhai 😡😡😡😡😡🤬🤬🤬",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "Akh thuuuu bhai log isme comment karenge gali deke to koi faida nahi sab log report misleading ya spam karke",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "Thank you sir mera problem solve ho gya hai",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "Bhai thanks a lot for that very helpful",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "Useful video❤ 2 minute me thik ho gya thank u 😊",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "Love you Bhai thanx ❤",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "Bhai ek kaam karo Aap apne phone mein LTE only select karlo, iski video aati h YT pe aap dekh skte ho, mera 8mbps tha ab 40mbps touch kr rha h",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "Network full pe nhi he 😢",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "Kuch nahi hota kar k dekh liya",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "Nhi hua bhai abhi bhi",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "Internet nhi chal rha hai",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "Bar bar phir se not registretion dikha ne ka kyu hora mobile me kya problm aai hogi 1 saal se ase hi hora mere sath kiya krna hoga pls reply me ?",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "Network provited ka option nahi dikha raha hain",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "Bhai fir nahi ro Raha hai",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "Mera abhi bhi waise hi h ahi nhi ho rha😢",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "Ohh BHAi hackr king bro",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "Ohh BHAi hackr king bro",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "Ohh BHAi hackr king bro",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "Bar bar time change ho ja raha hai 😫😫",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "Thanks thanks bhai😅 mera WiFi ab kam.karne laga hai Mai is problem se bohot pareshan thi lekin ab nai Hu thank you bhaiyaaaa😊☺️",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "Me hi budu tha mene time date ko change Kiya tha😅",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "Tecno ka mobile Mai ! yah yishu a raha hai ise kaise theek Karen",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "Time ho gya par date nhi ho rhi",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "Thank you bhai it's working ❤❤",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "Thankyou bhai teri vajah se mera Wi-Fi kam chal raha hai abhi",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "Kaam nhi kar rha ye Karne ke Baad bhi",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "Jab Ham Kisi ka Wi-Fi connect karte hain to use pata chal jata hai",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "Mere phone me nahi ho Raha h 👇",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "Isliye airtel,jio slow hai kuch dino se",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "To Recharge ke price kyu badha rahe ho",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  },
+  {
+    "text": "Mera bhi slow ho gya ha",
+    "scenario": "tech_issue",
+    "typical_emotions": [
+      "frustrated",
+      "annoyed",
+      "confused",
+      "angry",
+      "helpless"
+    ],
+    "do": [
+      "Validate tech frustration",
+      "Offer solutions if you know",
+      "Use relatable tech humor",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'just restart it' condescendingly",
+      "Blame them",
+      "Be overly technical",
+      "Dismiss the issue"
+    ],
+    "tone": "understanding friend - helpful and relatable",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Offer tech help",
+      "Share troubleshooting tips",
+      "Commiserate about tech fails",
+      "Share tech memes"
+    ]
+  }
+]

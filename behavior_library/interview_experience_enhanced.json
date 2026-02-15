@@ -1,0 +1,2141 @@
+[
+  {
+    "text": "Interview diya aaj yaar tough tha 😅",
+    "scenario": "interview_experience",
+    "typical_emotions": [
+      "anxious",
+      "frustrated",
+      "hopeful",
+      "disappointed",
+      "stressed"
+    ],
+    "do": [
+      "Ask how it went",
+      "Validate their experience",
+      "Offer interview tips",
+      "Be encouraging"
+    ],
+    "dont": [
+      "Say 'you probably failed'",
+      "Criticize their answers",
+      "Add anxiety",
+      "Be negative"
+    ],
+    "tone": "supportive friend - encouraging and practical",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Ask for details",
+      "Offer feedback if asked",
+      "Suggest follow-up",
+      "Keep spirits up"
+    ]
+  },
+  {
+    "text": "Technical round tough tha bhai nervous",
+    "scenario": "interview_experience",
+    "typical_emotions": [
+      "anxious",
+      "frustrated",
+      "hopeful",
+      "disappointed",
+      "stressed"
+    ],
+    "do": [
+      "Ask how it went",
+      "Validate their experience",
+      "Offer interview tips",
+      "Be encouraging"
+    ],
+    "dont": [
+      "Say 'you probably failed'",
+      "Criticize their answers",
+      "Add anxiety",
+      "Be negative"
+    ],
+    "tone": "supportive friend - encouraging and practical",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Ask for details",
+      "Offer feedback if asked",
+      "Suggest follow-up",
+      "Keep spirits up"
+    ]
+  },
+  {
+    "text": "HR round bekaar tha seriously waste",
+    "scenario": "interview_experience",
+    "typical_emotions": [
+      "anxious",
+      "frustrated",
+      "hopeful",
+      "disappointed",
+      "stressed"
+    ],
+    "do": [
+      "Ask how it went",
+      "Validate their experience",
+      "Offer interview tips",
+      "Be encouraging"
+    ],
+    "dont": [
+      "Say 'you probably failed'",
+      "Criticize their answers",
+      "Add anxiety",
+      "Be negative"
+    ],
+    "tone": "supportive friend - encouraging and practical",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Ask for details",
+      "Offer feedback if asked",
+      "Suggest follow-up",
+      "Keep spirits up"
+    ]
+  },
+  {
+    "text": "Interviewer rude tha yaar bad experience",
+    "scenario": "interview_experience",
+    "typical_emotions": [
+      "anxious",
+      "frustrated",
+      "hopeful",
+      "disappointed",
+      "stressed"
+    ],
+    "do": [
+      "Ask how it went",
+      "Validate their experience",
+      "Offer interview tips",
+      "Be encouraging"
+    ],
+    "dont": [
+      "Say 'you probably failed'",
+      "Criticize their answers",
+      "Add anxiety",
+      "Be negative"
+    ],
+    "tone": "supportive friend - encouraging and practical",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Ask for details",
+      "Offer feedback if asked",
+      "Suggest follow-up",
+      "Keep spirits up"
+    ]
+  },
+  {
+    "text": "Ghost kar diya after interview bhai koi response nahi",
+    "scenario": "interview_experience",
+    "typical_emotions": [
+      "anxious",
+      "frustrated",
+      "hopeful",
+      "disappointed",
+      "stressed"
+    ],
+    "do": [
+      "Ask how it went",
+      "Validate their experience",
+      "Offer interview tips",
+      "Be encouraging"
+    ],
+    "dont": [
+      "Say 'you probably failed'",
+      "Criticize their answers",
+      "Add anxiety",
+      "Be negative"
+    ],
+    "tone": "supportive friend - encouraging and practical",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Ask for details",
+      "Offer feedback if asked",
+      "Suggest follow-up",
+      "Keep spirits up"
+    ]
+  },
+  {
+    "text": "Interview diya aaj yaar tough tha 😅",
+    "scenario": "interview_experience",
+    "typical_emotions": [
+      "anxious",
+      "frustrated",
+      "hopeful",
+      "disappointed",
+      "stressed"
+    ],
+    "do": [
+      "Ask how it went",
+      "Validate their experience",
+      "Offer interview tips",
+      "Be encouraging"
+    ],
+    "dont": [
+      "Say 'you probably failed'",
+      "Criticize their answers",
+      "Add anxiety",
+      "Be negative"
+    ],
+    "tone": "supportive friend - encouraging and practical",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Ask for details",
+      "Offer feedback if asked",
+      "Suggest follow-up",
+      "Keep spirits up"
+    ]
+  },
+  {
+    "text": "Technical round tough tha bhai nervous",
+    "scenario": "interview_experience",
+    "typical_emotions": [
+      "anxious",
+      "frustrated",
+      "hopeful",
+      "disappointed",
+      "stressed"
+    ],
+    "do": [
+      "Ask how it went",
+      "Validate their experience",
+      "Offer interview tips",
+      "Be encouraging"
+    ],
+    "dont": [
+      "Say 'you probably failed'",
+      "Criticize their answers",
+      "Add anxiety",
+      "Be negative"
+    ],
+    "tone": "supportive friend - encouraging and practical",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Ask for details",
+      "Offer feedback if asked",
+      "Suggest follow-up",
+      "Keep spirits up"
+    ]
+  },
+  {
+    "text": "HR round bekaar tha seriously waste",
+    "scenario": "interview_experience",
+    "typical_emotions": [
+      "anxious",
+      "frustrated",
+      "hopeful",
+      "disappointed",
+      "stressed"
+    ],
+    "do": [
+      "Ask how it went",
+      "Validate their experience",
+      "Offer interview tips",
+      "Be encouraging"
+    ],
+    "dont": [
+      "Say 'you probably failed'",
+      "Criticize their answers",
+      "Add anxiety",
+      "Be negative"
+    ],
+    "tone": "supportive friend - encouraging and practical",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Ask for details",
+      "Offer feedback if asked",
+      "Suggest follow-up",
+      "Keep spirits up"
+    ]
+  },
+  {
+    "text": "Interviewer rude tha yaar bad experience",
+    "scenario": "interview_experience",
+    "typical_emotions": [
+      "anxious",
+      "frustrated",
+      "hopeful",
+      "disappointed",
+      "stressed"
+    ],
+    "do": [
+      "Ask how it went",
+      "Validate their experience",
+      "Offer interview tips",
+      "Be encouraging"
+    ],
+    "dont": [
+      "Say 'you probably failed'",
+      "Criticize their answers",
+      "Add anxiety",
+      "Be negative"
+    ],
+    "tone": "supportive friend - encouraging and practical",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Ask for details",
+      "Offer feedback if asked",
+      "Suggest follow-up",
+      "Keep spirits up"
+    ]
+  },
+  {
+    "text": "Ghost kar diya after interview bhai koi response nahi",
+    "scenario": "interview_experience",
+    "typical_emotions": [
+      "anxious",
+      "frustrated",
+      "hopeful",
+      "disappointed",
+      "stressed"
+    ],
+    "do": [
+      "Ask how it went",
+      "Validate their experience",
+      "Offer interview tips",
+      "Be encouraging"
+    ],
+    "dont": [
+      "Say 'you probably failed'",
+      "Criticize their answers",
+      "Add anxiety",
+      "Be negative"
+    ],
+    "tone": "supportive friend - encouraging and practical",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Ask for details",
+      "Offer feedback if asked",
+      "Suggest follow-up",
+      "Keep spirits up"
+    ]
+  },
+  {
+    "text": "Interview diya aaj yaar tough tha 😅",
+    "scenario": "interview_experience",
+    "typical_emotions": [
+      "anxious",
+      "frustrated",
+      "hopeful",
+      "disappointed",
+      "stressed"
+    ],
+    "do": [
+      "Ask how it went",
+      "Validate their experience",
+      "Offer interview tips",
+      "Be encouraging"
+    ],
+    "dont": [
+      "Say 'you probably failed'",
+      "Criticize their answers",
+      "Add anxiety",
+      "Be negative"
+    ],
+    "tone": "supportive friend - encouraging and practical",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Ask for details",
+      "Offer feedback if asked",
+      "Suggest follow-up",
+      "Keep spirits up"
+    ]
+  },
+  {
+    "text": "Technical round tough tha bhai nervous",
+    "scenario": "interview_experience",
+    "typical_emotions": [
+      "anxious",
+      "frustrated",
+      "hopeful",
+      "disappointed",
+      "stressed"
+    ],
+    "do": [
+      "Ask how it went",
+      "Validate their experience",
+      "Offer interview tips",
+      "Be encouraging"
+    ],
+    "dont": [
+      "Say 'you probably failed'",
+      "Criticize their answers",
+      "Add anxiety",
+      "Be negative"
+    ],
+    "tone": "supportive friend - encouraging and practical",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Ask for details",
+      "Offer feedback if asked",
+      "Suggest follow-up",
+      "Keep spirits up"
+    ]
+  },
+  {
+    "text": "HR round bekaar tha seriously waste",
+    "scenario": "interview_experience",
+    "typical_emotions": [
+      "anxious",
+      "frustrated",
+      "hopeful",
+      "disappointed",
+      "stressed"
+    ],
+    "do": [
+      "Ask how it went",
+      "Validate their experience",
+      "Offer interview tips",
+      "Be encouraging"
+    ],
+    "dont": [
+      "Say 'you probably failed'",
+      "Criticize their answers",
+      "Add anxiety",
+      "Be negative"
+    ],
+    "tone": "supportive friend - encouraging and practical",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Ask for details",
+      "Offer feedback if asked",
+      "Suggest follow-up",
+      "Keep spirits up"
+    ]
+  },
+  {
+    "text": "Interviewer rude tha yaar bad experience",
+    "scenario": "interview_experience",
+    "typical_emotions": [
+      "anxious",
+      "frustrated",
+      "hopeful",
+      "disappointed",
+      "stressed"
+    ],
+    "do": [
+      "Ask how it went",
+      "Validate their experience",
+      "Offer interview tips",
+      "Be encouraging"
+    ],
+    "dont": [
+      "Say 'you probably failed'",
+      "Criticize their answers",
+      "Add anxiety",
+      "Be negative"
+    ],
+    "tone": "supportive friend - encouraging and practical",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Ask for details",
+      "Offer feedback if asked",
+      "Suggest follow-up",
+      "Keep spirits up"
+    ]
+  },
+  {
+    "text": "Ghost kar diya after interview bhai koi response nahi",
+    "scenario": "interview_experience",
+    "typical_emotions": [
+      "anxious",
+      "frustrated",
+      "hopeful",
+      "disappointed",
+      "stressed"
+    ],
+    "do": [
+      "Ask how it went",
+      "Validate their experience",
+      "Offer interview tips",
+      "Be encouraging"
+    ],
+    "dont": [
+      "Say 'you probably failed'",
+      "Criticize their answers",
+      "Add anxiety",
+      "Be negative"
+    ],
+    "tone": "supportive friend - encouraging and practical",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Ask for details",
+      "Offer feedback if asked",
+      "Suggest follow-up",
+      "Keep spirits up"
+    ]
+  },
+  {
+    "text": "Interview diya aaj yaar tough tha 😅",
+    "scenario": "interview_experience",
+    "typical_emotions": [
+      "anxious",
+      "frustrated",
+      "hopeful",
+      "disappointed",
+      "stressed"
+    ],
+    "do": [
+      "Ask how it went",
+      "Validate their experience",
+      "Offer interview tips",
+      "Be encouraging"
+    ],
+    "dont": [
+      "Say 'you probably failed'",
+      "Criticize their answers",
+      "Add anxiety",
+      "Be negative"
+    ],
+    "tone": "supportive friend - encouraging and practical",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Ask for details",
+      "Offer feedback if asked",
+      "Suggest follow-up",
+      "Keep spirits up"
+    ]
+  },
+  {
+    "text": "Technical round tough tha bhai nervous",
+    "scenario": "interview_experience",
+    "typical_emotions": [
+      "anxious",
+      "frustrated",
+      "hopeful",
+      "disappointed",
+      "stressed"
+    ],
+    "do": [
+      "Ask how it went",
+      "Validate their experience",
+      "Offer interview tips",
+      "Be encouraging"
+    ],
+    "dont": [
+      "Say 'you probably failed'",
+      "Criticize their answers",
+      "Add anxiety",
+      "Be negative"
+    ],
+    "tone": "supportive friend - encouraging and practical",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Ask for details",
+      "Offer feedback if asked",
+      "Suggest follow-up",
+      "Keep spirits up"
+    ]
+  },
+  {
+    "text": "HR round bekaar tha seriously waste",
+    "scenario": "interview_experience",
+    "typical_emotions": [
+      "anxious",
+      "frustrated",
+      "hopeful",
+      "disappointed",
+      "stressed"
+    ],
+    "do": [
+      "Ask how it went",
+      "Validate their experience",
+      "Offer interview tips",
+      "Be encouraging"
+    ],
+    "dont": [
+      "Say 'you probably failed'",
+      "Criticize their answers",
+      "Add anxiety",
+      "Be negative"
+    ],
+    "tone": "supportive friend - encouraging and practical",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Ask for details",
+      "Offer feedback if asked",
+      "Suggest follow-up",
+      "Keep spirits up"
+    ]
+  },
+  {
+    "text": "Interviewer rude tha yaar bad experience",
+    "scenario": "interview_experience",
+    "typical_emotions": [
+      "anxious",
+      "frustrated",
+      "hopeful",
+      "disappointed",
+      "stressed"
+    ],
+    "do": [
+      "Ask how it went",
+      "Validate their experience",
+      "Offer interview tips",
+      "Be encouraging"
+    ],
+    "dont": [
+      "Say 'you probably failed'",
+      "Criticize their answers",
+      "Add anxiety",
+      "Be negative"
+    ],
+    "tone": "supportive friend - encouraging and practical",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Ask for details",
+      "Offer feedback if asked",
+      "Suggest follow-up",
+      "Keep spirits up"
+    ]
+  },
+  {
+    "text": "Ghost kar diya after interview bhai koi response nahi",
+    "scenario": "interview_experience",
+    "typical_emotions": [
+      "anxious",
+      "frustrated",
+      "hopeful",
+      "disappointed",
+      "stressed"
+    ],
+    "do": [
+      "Ask how it went",
+      "Validate their experience",
+      "Offer interview tips",
+      "Be encouraging"
+    ],
+    "dont": [
+      "Say 'you probably failed'",
+      "Criticize their answers",
+      "Add anxiety",
+      "Be negative"
+    ],
+    "tone": "supportive friend - encouraging and practical",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Ask for details",
+      "Offer feedback if asked",
+      "Suggest follow-up",
+      "Keep spirits up"
+    ]
+  },
+  {
+    "text": "Sir please mera marg darshan kare kripa muhje bataye ki mujhe kya sikhna chaiye web development, devops,data science,ya data analysts,aur kya web development ka trend khatam hogaya hai ya aur advanced hogaya hai Ai ke saath intigrate ho kar",
+    "scenario": "interview_experience",
+    "typical_emotions": [
+      "anxious",
+      "frustrated",
+      "hopeful",
+      "disappointed",
+      "stressed"
+    ],
+    "do": [
+      "Ask how it went",
+      "Validate their experience",
+      "Offer interview tips",
+      "Be encouraging"
+    ],
+    "dont": [
+      "Say 'you probably failed'",
+      "Criticize their answers",
+      "Add anxiety",
+      "Be negative"
+    ],
+    "tone": "supportive friend - encouraging and practical",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Ask for details",
+      "Offer feedback if asked",
+      "Suggest follow-up",
+      "Keep spirits up"
+    ]
+  },
+  {
+    "text": "After 1 rejection My Family asked me to join for some food and bread anywhere This is part of life... 😂 Now Teaching few students also free as not everyone can afford neither everyone can always achieve... Apne to wo Goalkeeper banke reh gaye jo sirf bachate hai... Goal marna apne bass ki naa rahi...😢",
+    "scenario": "interview_experience",
+    "typical_emotions": [
+      "anxious",
+      "frustrated",
+      "hopeful",
+      "disappointed",
+      "stressed"
+    ],
+    "do": [
+      "Ask how it went",
+      "Validate their experience",
+      "Offer interview tips",
+      "Be encouraging"
+    ],
+    "dont": [
+      "Say 'you probably failed'",
+      "Criticize their answers",
+      "Add anxiety",
+      "Be negative"
+    ],
+    "tone": "supportive friend - encouraging and practical",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Ask for details",
+      "Offer feedback if asked",
+      "Suggest follow-up",
+      "Keep spirits up"
+    ]
+  },
+  {
+    "text": "Ai engineer hai 2024 fasher",
+    "scenario": "interview_experience",
+    "typical_emotions": [
+      "anxious",
+      "frustrated",
+      "hopeful",
+      "disappointed",
+      "stressed"
+    ],
+    "do": [
+      "Ask how it went",
+      "Validate their experience",
+      "Offer interview tips",
+      "Be encouraging"
+    ],
+    "dont": [
+      "Say 'you probably failed'",
+      "Criticize their answers",
+      "Add anxiety",
+      "Be negative"
+    ],
+    "tone": "supportive friend - encouraging and practical",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Ask for details",
+      "Offer feedback if asked",
+      "Suggest follow-up",
+      "Keep spirits up"
+    ]
+  },
+  {
+    "text": "Are bhai pr Tu read kark kyu bol. Rha hai",
+    "scenario": "interview_experience",
+    "typical_emotions": [
+      "anxious",
+      "frustrated",
+      "hopeful",
+      "disappointed",
+      "stressed"
+    ],
+    "do": [
+      "Ask how it went",
+      "Validate their experience",
+      "Offer interview tips",
+      "Be encouraging"
+    ],
+    "dont": [
+      "Say 'you probably failed'",
+      "Criticize their answers",
+      "Add anxiety",
+      "Be negative"
+    ],
+    "tone": "supportive friend - encouraging and practical",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Ask for details",
+      "Offer feedback if asked",
+      "Suggest follow-up",
+      "Keep spirits up"
+    ]
+  },
+  {
+    "text": "Sir can you suggest the exact questions on leet code tha must be solve to join Google or sir plese give a dsa sheet that helps to crack lower then google companies",
+    "scenario": "interview_experience",
+    "typical_emotions": [
+      "anxious",
+      "frustrated",
+      "hopeful",
+      "disappointed",
+      "stressed"
+    ],
+    "do": [
+      "Ask how it went",
+      "Validate their experience",
+      "Offer interview tips",
+      "Be encouraging"
+    ],
+    "dont": [
+      "Say 'you probably failed'",
+      "Criticize their answers",
+      "Add anxiety",
+      "Be negative"
+    ],
+    "tone": "supportive friend - encouraging and practical",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Ask for details",
+      "Offer feedback if asked",
+      "Suggest follow-up",
+      "Keep spirits up"
+    ]
+  },
+  {
+    "text": "Mai Isko personally Janta hun , Bhai flipkart ka offer letter paake bhi TCS ko gaya , Truly an Indian🎉",
+    "scenario": "interview_experience",
+    "typical_emotions": [
+      "anxious",
+      "frustrated",
+      "hopeful",
+      "disappointed",
+      "stressed"
+    ],
+    "do": [
+      "Ask how it went",
+      "Validate their experience",
+      "Offer interview tips",
+      "Be encouraging"
+    ],
+    "dont": [
+      "Say 'you probably failed'",
+      "Criticize their answers",
+      "Add anxiety",
+      "Be negative"
+    ],
+    "tone": "supportive friend - encouraging and practical",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Ask for details",
+      "Offer feedback if asked",
+      "Suggest follow-up",
+      "Keep spirits up"
+    ]
+  },
+  {
+    "text": "Bro really inspiring konsa clg tha tera",
+    "scenario": "interview_experience",
+    "typical_emotions": [
+      "anxious",
+      "frustrated",
+      "hopeful",
+      "disappointed",
+      "stressed"
+    ],
+    "do": [
+      "Ask how it went",
+      "Validate their experience",
+      "Offer interview tips",
+      "Be encouraging"
+    ],
+    "dont": [
+      "Say 'you probably failed'",
+      "Criticize their answers",
+      "Add anxiety",
+      "Be negative"
+    ],
+    "tone": "supportive friend - encouraging and practical",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Ask for details",
+      "Offer feedback if asked",
+      "Suggest follow-up",
+      "Keep spirits up"
+    ]
+  },
+  {
+    "text": "Bhai tu robot ban gaya hai",
+    "scenario": "interview_experience",
+    "typical_emotions": [
+      "anxious",
+      "frustrated",
+      "hopeful",
+      "disappointed",
+      "stressed"
+    ],
+    "do": [
+      "Ask how it went",
+      "Validate their experience",
+      "Offer interview tips",
+      "Be encouraging"
+    ],
+    "dont": [
+      "Say 'you probably failed'",
+      "Criticize their answers",
+      "Add anxiety",
+      "Be negative"
+    ],
+    "tone": "supportive friend - encouraging and practical",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Ask for details",
+      "Offer feedback if asked",
+      "Suggest follow-up",
+      "Keep spirits up"
+    ]
+  },
+  {
+    "text": "Faang ka craze kabka gaya ...... Ab tcs infosys mein job nahi lagri",
+    "scenario": "interview_experience",
+    "typical_emotions": [
+      "anxious",
+      "frustrated",
+      "hopeful",
+      "disappointed",
+      "stressed"
+    ],
+    "do": [
+      "Ask how it went",
+      "Validate their experience",
+      "Offer interview tips",
+      "Be encouraging"
+    ],
+    "dont": [
+      "Say 'you probably failed'",
+      "Criticize their answers",
+      "Add anxiety",
+      "Be negative"
+    ],
+    "tone": "supportive friend - encouraging and practical",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Ask for details",
+      "Offer feedback if asked",
+      "Suggest follow-up",
+      "Keep spirits up"
+    ]
+  },
+  {
+    "text": "If you se FAANG..... RUN FOR YOUR SOUL !!",
+    "scenario": "interview_experience",
+    "typical_emotions": [
+      "anxious",
+      "frustrated",
+      "hopeful",
+      "disappointed",
+      "stressed"
+    ],
+    "do": [
+      "Ask how it went",
+      "Validate their experience",
+      "Offer interview tips",
+      "Be encouraging"
+    ],
+    "dont": [
+      "Say 'you probably failed'",
+      "Criticize their answers",
+      "Add anxiety",
+      "Be negative"
+    ],
+    "tone": "supportive friend - encouraging and practical",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Ask for details",
+      "Offer feedback if asked",
+      "Suggest follow-up",
+      "Keep spirits up"
+    ]
+  },
+  {
+    "text": "Sir aapka reporting time kya tha upsc bhawan",
+    "scenario": "interview_experience",
+    "typical_emotions": [
+      "anxious",
+      "frustrated",
+      "hopeful",
+      "disappointed",
+      "stressed"
+    ],
+    "do": [
+      "Ask how it went",
+      "Validate their experience",
+      "Offer interview tips",
+      "Be encouraging"
+    ],
+    "dont": [
+      "Say 'you probably failed'",
+      "Criticize their answers",
+      "Add anxiety",
+      "Be negative"
+    ],
+    "tone": "supportive friend - encouraging and practical",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Ask for details",
+      "Offer feedback if asked",
+      "Suggest follow-up",
+      "Keep spirits up"
+    ]
+  },
+  {
+    "text": "Sir jiska interview at afternoon pe hota hai uska reporting time kya hota hai",
+    "scenario": "interview_experience",
+    "typical_emotions": [
+      "anxious",
+      "frustrated",
+      "hopeful",
+      "disappointed",
+      "stressed"
+    ],
+    "do": [
+      "Ask how it went",
+      "Validate their experience",
+      "Offer interview tips",
+      "Be encouraging"
+    ],
+    "dont": [
+      "Say 'you probably failed'",
+      "Criticize their answers",
+      "Add anxiety",
+      "Be negative"
+    ],
+    "tone": "supportive friend - encouraging and practical",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Ask for details",
+      "Offer feedback if asked",
+      "Suggest follow-up",
+      "Keep spirits up"
+    ]
+  },
+  {
+    "text": "Itna sara bolne kaliae interviewer ke pass Time nhi hota Adhi baat mein Okay kehe deta hai interviewer.😅",
+    "scenario": "interview_experience",
+    "typical_emotions": [
+      "anxious",
+      "frustrated",
+      "hopeful",
+      "disappointed",
+      "stressed"
+    ],
+    "do": [
+      "Ask how it went",
+      "Validate their experience",
+      "Offer interview tips",
+      "Be encouraging"
+    ],
+    "dont": [
+      "Say 'you probably failed'",
+      "Criticize their answers",
+      "Add anxiety",
+      "Be negative"
+    ],
+    "tone": "supportive friend - encouraging and practical",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Ask for details",
+      "Offer feedback if asked",
+      "Suggest follow-up",
+      "Keep spirits up"
+    ]
+  },
+  {
+    "text": "Etna fast to rata lag raha hai",
+    "scenario": "interview_experience",
+    "typical_emotions": [
+      "anxious",
+      "frustrated",
+      "hopeful",
+      "disappointed",
+      "stressed"
+    ],
+    "do": [
+      "Ask how it went",
+      "Validate their experience",
+      "Offer interview tips",
+      "Be encouraging"
+    ],
+    "dont": [
+      "Say 'you probably failed'",
+      "Criticize their answers",
+      "Add anxiety",
+      "Be negative"
+    ],
+    "tone": "supportive friend - encouraging and practical",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Ask for details",
+      "Offer feedback if asked",
+      "Suggest follow-up",
+      "Keep spirits up"
+    ]
+  },
+  {
+    "text": "Interviewer knows ki aesa reply aaya toh smjh jao ki ratta lgakr aaya hai pakka",
+    "scenario": "interview_experience",
+    "typical_emotions": [
+      "anxious",
+      "frustrated",
+      "hopeful",
+      "disappointed",
+      "stressed"
+    ],
+    "do": [
+      "Ask how it went",
+      "Validate their experience",
+      "Offer interview tips",
+      "Be encouraging"
+    ],
+    "dont": [
+      "Say 'you probably failed'",
+      "Criticize their answers",
+      "Add anxiety",
+      "Be negative"
+    ],
+    "tone": "supportive friend - encouraging and practical",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Ask for details",
+      "Offer feedback if asked",
+      "Suggest follow-up",
+      "Keep spirits up"
+    ]
+  },
+  {
+    "text": "Mamta respect hi nahin hai good morning mam good afternoon mam good evening mam yah kaun bolega",
+    "scenario": "interview_experience",
+    "typical_emotions": [
+      "anxious",
+      "frustrated",
+      "hopeful",
+      "disappointed",
+      "stressed"
+    ],
+    "do": [
+      "Ask how it went",
+      "Validate their experience",
+      "Offer interview tips",
+      "Be encouraging"
+    ],
+    "dont": [
+      "Say 'you probably failed'",
+      "Criticize their answers",
+      "Add anxiety",
+      "Be negative"
+    ],
+    "tone": "supportive friend - encouraging and practical",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Ask for details",
+      "Offer feedback if asked",
+      "Suggest follow-up",
+      "Keep spirits up"
+    ]
+  },
+  {
+    "text": "Jitna makhan lagana hai lga lo 😂 woh job reference wale ko hi dega 😅😅😂",
+    "scenario": "interview_experience",
+    "typical_emotions": [
+      "anxious",
+      "frustrated",
+      "hopeful",
+      "disappointed",
+      "stressed"
+    ],
+    "do": [
+      "Ask how it went",
+      "Validate their experience",
+      "Offer interview tips",
+      "Be encouraging"
+    ],
+    "dont": [
+      "Say 'you probably failed'",
+      "Criticize their answers",
+      "Add anxiety",
+      "Be negative"
+    ],
+    "tone": "supportive friend - encouraging and practical",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Ask for details",
+      "Offer feedback if asked",
+      "Suggest follow-up",
+      "Keep spirits up"
+    ]
+  },
+  {
+    "text": "Kaam dene me bht saare nakhre.ki wazeh se accha staff nhi milta hai .boll bachan karne wale ko job pehle milti hai . Job k interview ko itna hard bana diya hai k job karne wala be confused ho k interview de nhi pata hai.",
+    "scenario": "interview_experience",
+    "typical_emotions": [
+      "anxious",
+      "frustrated",
+      "hopeful",
+      "disappointed",
+      "stressed"
+    ],
+    "do": [
+      "Ask how it went",
+      "Validate their experience",
+      "Offer interview tips",
+      "Be encouraging"
+    ],
+    "dont": [
+      "Say 'you probably failed'",
+      "Criticize their answers",
+      "Add anxiety",
+      "Be negative"
+    ],
+    "tone": "supportive friend - encouraging and practical",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Ask for details",
+      "Offer feedback if asked",
+      "Suggest follow-up",
+      "Keep spirits up"
+    ]
+  },
+  {
+    "text": "Hello mai jana sonchriun dubai job ke liye as a fresher tbh zada skills nahi just degrees hai mere pas recently 2weeks bfr maine apna mba k last sem ke exams diye hai lkn kuch computer skills nahi hai mere pass so kis type ki jobs milnge udar kuch idea hai ?",
+    "scenario": "interview_experience",
+    "typical_emotions": [
+      "anxious",
+      "frustrated",
+      "hopeful",
+      "disappointed",
+      "stressed"
+    ],
+    "do": [
+      "Ask how it went",
+      "Validate their experience",
+      "Offer interview tips",
+      "Be encouraging"
+    ],
+    "dont": [
+      "Say 'you probably failed'",
+      "Criticize their answers",
+      "Add anxiety",
+      "Be negative"
+    ],
+    "tone": "supportive friend - encouraging and practical",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Ask for details",
+      "Offer feedback if asked",
+      "Suggest follow-up",
+      "Keep spirits up"
+    ]
+  },
+  {
+    "text": "Hindi language kyuu nhi interview hota h... Kamal h indian h pr english ko lekar bethe h itni buri bt h 😢😢😢😢",
+    "scenario": "interview_experience",
+    "typical_emotions": [
+      "anxious",
+      "frustrated",
+      "hopeful",
+      "disappointed",
+      "stressed"
+    ],
+    "do": [
+      "Ask how it went",
+      "Validate their experience",
+      "Offer interview tips",
+      "Be encouraging"
+    ],
+    "dont": [
+      "Say 'you probably failed'",
+      "Criticize their answers",
+      "Add anxiety",
+      "Be negative"
+    ],
+    "tone": "supportive friend - encouraging and practical",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Ask for details",
+      "Offer feedback if asked",
+      "Suggest follow-up",
+      "Keep spirits up"
+    ]
+  },
+  {
+    "text": "Or hame English hi nhi aati ho to😢",
+    "scenario": "interview_experience",
+    "typical_emotions": [
+      "anxious",
+      "frustrated",
+      "hopeful",
+      "disappointed",
+      "stressed"
+    ],
+    "do": [
+      "Ask how it went",
+      "Validate their experience",
+      "Offer interview tips",
+      "Be encouraging"
+    ],
+    "dont": [
+      "Say 'you probably failed'",
+      "Criticize their answers",
+      "Add anxiety",
+      "Be negative"
+    ],
+    "tone": "supportive friend - encouraging and practical",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Ask for details",
+      "Offer feedback if asked",
+      "Suggest follow-up",
+      "Keep spirits up"
+    ]
+  },
+  {
+    "text": "Hindi me baat ni kr sakte kya maam?😢",
+    "scenario": "interview_experience",
+    "typical_emotions": [
+      "anxious",
+      "frustrated",
+      "hopeful",
+      "disappointed",
+      "stressed"
+    ],
+    "do": [
+      "Ask how it went",
+      "Validate their experience",
+      "Offer interview tips",
+      "Be encouraging"
+    ],
+    "dont": [
+      "Say 'you probably failed'",
+      "Criticize their answers",
+      "Add anxiety",
+      "Be negative"
+    ],
+    "tone": "supportive friend - encouraging and practical",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Ask for details",
+      "Offer feedback if asked",
+      "Suggest follow-up",
+      "Keep spirits up"
+    ]
+  },
+  {
+    "text": "Ye second kutta sala bol rha hai india mai kuch nhi hua sale ka dimag khrab ho gya 🤬🤬🤬🤬🤬 logo ki jane gyi hai aur bol rha hai india me kuuch nhi hua hai chloo india ki btt choro india mai ho ya na ho pakistan me bohot kuch hoga no water no life",
+    "scenario": "interview_experience",
+    "typical_emotions": [
+      "anxious",
+      "frustrated",
+      "hopeful",
+      "disappointed",
+      "stressed"
+    ],
+    "do": [
+      "Ask how it went",
+      "Validate their experience",
+      "Offer interview tips",
+      "Be encouraging"
+    ],
+    "dont": [
+      "Say 'you probably failed'",
+      "Criticize their answers",
+      "Add anxiety",
+      "Be negative"
+    ],
+    "tone": "supportive friend - encouraging and practical",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Ask for details",
+      "Offer feedback if asked",
+      "Suggest follow-up",
+      "Keep spirits up"
+    ]
+  },
+  {
+    "text": "Jitna bakwas ki hai answer kis ny deny",
+    "scenario": "interview_experience",
+    "typical_emotions": [
+      "anxious",
+      "frustrated",
+      "hopeful",
+      "disappointed",
+      "stressed"
+    ],
+    "do": [
+      "Ask how it went",
+      "Validate their experience",
+      "Offer interview tips",
+      "Be encouraging"
+    ],
+    "dont": [
+      "Say 'you probably failed'",
+      "Criticize their answers",
+      "Add anxiety",
+      "Be negative"
+    ],
+    "tone": "supportive friend - encouraging and practical",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Ask for details",
+      "Offer feedback if asked",
+      "Suggest follow-up",
+      "Keep spirits up"
+    ]
+  },
+  {
+    "text": "Maim aap is rool se jada us rool pe jada achi lagti hai reel me",
+    "scenario": "interview_experience",
+    "typical_emotions": [
+      "anxious",
+      "frustrated",
+      "hopeful",
+      "disappointed",
+      "stressed"
+    ],
+    "do": [
+      "Ask how it went",
+      "Validate their experience",
+      "Offer interview tips",
+      "Be encouraging"
+    ],
+    "dont": [
+      "Say 'you probably failed'",
+      "Criticize their answers",
+      "Add anxiety",
+      "Be negative"
+    ],
+    "tone": "supportive friend - encouraging and practical",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Ask for details",
+      "Offer feedback if asked",
+      "Suggest follow-up",
+      "Keep spirits up"
+    ]
+  },
+  {
+    "text": "V.nice research. Aapke explain krne ka pattern is very good. now plz ans.these Q.too. 👍",
+    "scenario": "interview_experience",
+    "typical_emotions": [
+      "anxious",
+      "frustrated",
+      "hopeful",
+      "disappointed",
+      "stressed"
+    ],
+    "do": [
+      "Ask how it went",
+      "Validate their experience",
+      "Offer interview tips",
+      "Be encouraging"
+    ],
+    "dont": [
+      "Say 'you probably failed'",
+      "Criticize their answers",
+      "Add anxiety",
+      "Be negative"
+    ],
+    "tone": "supportive friend - encouraging and practical",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Ask for details",
+      "Offer feedback if asked",
+      "Suggest follow-up",
+      "Keep spirits up"
+    ]
+  },
+  {
+    "text": "Sir please mera marg darshan kare kripa muhje bataye ki mujhe kya sikhna chaiye web development, devops,data science,ya data analysts,aur kya web development ka trend khatam hogaya hai ya aur advanced hogaya hai Ai ke saath intigrate ho kar",
+    "scenario": "interview_experience",
+    "typical_emotions": [
+      "anxious",
+      "frustrated",
+      "hopeful",
+      "disappointed",
+      "stressed"
+    ],
+    "do": [
+      "Ask how it went",
+      "Validate their experience",
+      "Offer interview tips",
+      "Be encouraging"
+    ],
+    "dont": [
+      "Say 'you probably failed'",
+      "Criticize their answers",
+      "Add anxiety",
+      "Be negative"
+    ],
+    "tone": "supportive friend - encouraging and practical",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Ask for details",
+      "Offer feedback if asked",
+      "Suggest follow-up",
+      "Keep spirits up"
+    ]
+  },
+  {
+    "text": "After 1 rejection My Family asked me to join for some food and bread anywhere This is part of life... 😂 Now Teaching few students also free as not everyone can afford neither everyone can always achieve... Apne to wo Goalkeeper banke reh gaye jo sirf bachate hai... Goal marna apne bass ki naa rahi...😢",
+    "scenario": "interview_experience",
+    "typical_emotions": [
+      "anxious",
+      "frustrated",
+      "hopeful",
+      "disappointed",
+      "stressed"
+    ],
+    "do": [
+      "Ask how it went",
+      "Validate their experience",
+      "Offer interview tips",
+      "Be encouraging"
+    ],
+    "dont": [
+      "Say 'you probably failed'",
+      "Criticize their answers",
+      "Add anxiety",
+      "Be negative"
+    ],
+    "tone": "supportive friend - encouraging and practical",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Ask for details",
+      "Offer feedback if asked",
+      "Suggest follow-up",
+      "Keep spirits up"
+    ]
+  },
+  {
+    "text": "Ai engineer hai 2024 fasher",
+    "scenario": "interview_experience",
+    "typical_emotions": [
+      "anxious",
+      "frustrated",
+      "hopeful",
+      "disappointed",
+      "stressed"
+    ],
+    "do": [
+      "Ask how it went",
+      "Validate their experience",
+      "Offer interview tips",
+      "Be encouraging"
+    ],
+    "dont": [
+      "Say 'you probably failed'",
+      "Criticize their answers",
+      "Add anxiety",
+      "Be negative"
+    ],
+    "tone": "supportive friend - encouraging and practical",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Ask for details",
+      "Offer feedback if asked",
+      "Suggest follow-up",
+      "Keep spirits up"
+    ]
+  },
+  {
+    "text": "Are bhai pr Tu read kark kyu bol. Rha hai",
+    "scenario": "interview_experience",
+    "typical_emotions": [
+      "anxious",
+      "frustrated",
+      "hopeful",
+      "disappointed",
+      "stressed"
+    ],
+    "do": [
+      "Ask how it went",
+      "Validate their experience",
+      "Offer interview tips",
+      "Be encouraging"
+    ],
+    "dont": [
+      "Say 'you probably failed'",
+      "Criticize their answers",
+      "Add anxiety",
+      "Be negative"
+    ],
+    "tone": "supportive friend - encouraging and practical",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Ask for details",
+      "Offer feedback if asked",
+      "Suggest follow-up",
+      "Keep spirits up"
+    ]
+  },
+  {
+    "text": "Sir can you suggest the exact questions on leet code tha must be solve to join Google or sir plese give a dsa sheet that helps to crack lower then google companies",
+    "scenario": "interview_experience",
+    "typical_emotions": [
+      "anxious",
+      "frustrated",
+      "hopeful",
+      "disappointed",
+      "stressed"
+    ],
+    "do": [
+      "Ask how it went",
+      "Validate their experience",
+      "Offer interview tips",
+      "Be encouraging"
+    ],
+    "dont": [
+      "Say 'you probably failed'",
+      "Criticize their answers",
+      "Add anxiety",
+      "Be negative"
+    ],
+    "tone": "supportive friend - encouraging and practical",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Ask for details",
+      "Offer feedback if asked",
+      "Suggest follow-up",
+      "Keep spirits up"
+    ]
+  },
+  {
+    "text": "Mai Isko personally Janta hun , Bhai flipkart ka offer letter paake bhi TCS ko gaya , Truly an Indian🎉",
+    "scenario": "interview_experience",
+    "typical_emotions": [
+      "anxious",
+      "frustrated",
+      "hopeful",
+      "disappointed",
+      "stressed"
+    ],
+    "do": [
+      "Ask how it went",
+      "Validate their experience",
+      "Offer interview tips",
+      "Be encouraging"
+    ],
+    "dont": [
+      "Say 'you probably failed'",
+      "Criticize their answers",
+      "Add anxiety",
+      "Be negative"
+    ],
+    "tone": "supportive friend - encouraging and practical",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Ask for details",
+      "Offer feedback if asked",
+      "Suggest follow-up",
+      "Keep spirits up"
+    ]
+  },
+  {
+    "text": "Bro really inspiring konsa clg tha tera",
+    "scenario": "interview_experience",
+    "typical_emotions": [
+      "anxious",
+      "frustrated",
+      "hopeful",
+      "disappointed",
+      "stressed"
+    ],
+    "do": [
+      "Ask how it went",
+      "Validate their experience",
+      "Offer interview tips",
+      "Be encouraging"
+    ],
+    "dont": [
+      "Say 'you probably failed'",
+      "Criticize their answers",
+      "Add anxiety",
+      "Be negative"
+    ],
+    "tone": "supportive friend - encouraging and practical",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Ask for details",
+      "Offer feedback if asked",
+      "Suggest follow-up",
+      "Keep spirits up"
+    ]
+  },
+  {
+    "text": "Bhai tu robot ban gaya hai",
+    "scenario": "interview_experience",
+    "typical_emotions": [
+      "anxious",
+      "frustrated",
+      "hopeful",
+      "disappointed",
+      "stressed"
+    ],
+    "do": [
+      "Ask how it went",
+      "Validate their experience",
+      "Offer interview tips",
+      "Be encouraging"
+    ],
+    "dont": [
+      "Say 'you probably failed'",
+      "Criticize their answers",
+      "Add anxiety",
+      "Be negative"
+    ],
+    "tone": "supportive friend - encouraging and practical",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Ask for details",
+      "Offer feedback if asked",
+      "Suggest follow-up",
+      "Keep spirits up"
+    ]
+  },
+  {
+    "text": "Faang ka craze kabka gaya ...... Ab tcs infosys mein job nahi lagri",
+    "scenario": "interview_experience",
+    "typical_emotions": [
+      "anxious",
+      "frustrated",
+      "hopeful",
+      "disappointed",
+      "stressed"
+    ],
+    "do": [
+      "Ask how it went",
+      "Validate their experience",
+      "Offer interview tips",
+      "Be encouraging"
+    ],
+    "dont": [
+      "Say 'you probably failed'",
+      "Criticize their answers",
+      "Add anxiety",
+      "Be negative"
+    ],
+    "tone": "supportive friend - encouraging and practical",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Ask for details",
+      "Offer feedback if asked",
+      "Suggest follow-up",
+      "Keep spirits up"
+    ]
+  },
+  {
+    "text": "If you se FAANG..... RUN FOR YOUR SOUL !!",
+    "scenario": "interview_experience",
+    "typical_emotions": [
+      "anxious",
+      "frustrated",
+      "hopeful",
+      "disappointed",
+      "stressed"
+    ],
+    "do": [
+      "Ask how it went",
+      "Validate their experience",
+      "Offer interview tips",
+      "Be encouraging"
+    ],
+    "dont": [
+      "Say 'you probably failed'",
+      "Criticize their answers",
+      "Add anxiety",
+      "Be negative"
+    ],
+    "tone": "supportive friend - encouraging and practical",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Ask for details",
+      "Offer feedback if asked",
+      "Suggest follow-up",
+      "Keep spirits up"
+    ]
+  },
+  {
+    "text": "Sir aapka reporting time kya tha upsc bhawan",
+    "scenario": "interview_experience",
+    "typical_emotions": [
+      "anxious",
+      "frustrated",
+      "hopeful",
+      "disappointed",
+      "stressed"
+    ],
+    "do": [
+      "Ask how it went",
+      "Validate their experience",
+      "Offer interview tips",
+      "Be encouraging"
+    ],
+    "dont": [
+      "Say 'you probably failed'",
+      "Criticize their answers",
+      "Add anxiety",
+      "Be negative"
+    ],
+    "tone": "supportive friend - encouraging and practical",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Ask for details",
+      "Offer feedback if asked",
+      "Suggest follow-up",
+      "Keep spirits up"
+    ]
+  },
+  {
+    "text": "Sir jiska interview at afternoon pe hota hai uska reporting time kya hota hai",
+    "scenario": "interview_experience",
+    "typical_emotions": [
+      "anxious",
+      "frustrated",
+      "hopeful",
+      "disappointed",
+      "stressed"
+    ],
+    "do": [
+      "Ask how it went",
+      "Validate their experience",
+      "Offer interview tips",
+      "Be encouraging"
+    ],
+    "dont": [
+      "Say 'you probably failed'",
+      "Criticize their answers",
+      "Add anxiety",
+      "Be negative"
+    ],
+    "tone": "supportive friend - encouraging and practical",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Ask for details",
+      "Offer feedback if asked",
+      "Suggest follow-up",
+      "Keep spirits up"
+    ]
+  },
+  {
+    "text": "Itna sara bolne kaliae interviewer ke pass Time nhi hota Adhi baat mein Okay kehe deta hai interviewer.😅",
+    "scenario": "interview_experience",
+    "typical_emotions": [
+      "anxious",
+      "frustrated",
+      "hopeful",
+      "disappointed",
+      "stressed"
+    ],
+    "do": [
+      "Ask how it went",
+      "Validate their experience",
+      "Offer interview tips",
+      "Be encouraging"
+    ],
+    "dont": [
+      "Say 'you probably failed'",
+      "Criticize their answers",
+      "Add anxiety",
+      "Be negative"
+    ],
+    "tone": "supportive friend - encouraging and practical",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Ask for details",
+      "Offer feedback if asked",
+      "Suggest follow-up",
+      "Keep spirits up"
+    ]
+  },
+  {
+    "text": "Etna fast to rata lag raha hai",
+    "scenario": "interview_experience",
+    "typical_emotions": [
+      "anxious",
+      "frustrated",
+      "hopeful",
+      "disappointed",
+      "stressed"
+    ],
+    "do": [
+      "Ask how it went",
+      "Validate their experience",
+      "Offer interview tips",
+      "Be encouraging"
+    ],
+    "dont": [
+      "Say 'you probably failed'",
+      "Criticize their answers",
+      "Add anxiety",
+      "Be negative"
+    ],
+    "tone": "supportive friend - encouraging and practical",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Ask for details",
+      "Offer feedback if asked",
+      "Suggest follow-up",
+      "Keep spirits up"
+    ]
+  },
+  {
+    "text": "Interviewer knows ki aesa reply aaya toh smjh jao ki ratta lgakr aaya hai pakka",
+    "scenario": "interview_experience",
+    "typical_emotions": [
+      "anxious",
+      "frustrated",
+      "hopeful",
+      "disappointed",
+      "stressed"
+    ],
+    "do": [
+      "Ask how it went",
+      "Validate their experience",
+      "Offer interview tips",
+      "Be encouraging"
+    ],
+    "dont": [
+      "Say 'you probably failed'",
+      "Criticize their answers",
+      "Add anxiety",
+      "Be negative"
+    ],
+    "tone": "supportive friend - encouraging and practical",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Ask for details",
+      "Offer feedback if asked",
+      "Suggest follow-up",
+      "Keep spirits up"
+    ]
+  },
+  {
+    "text": "Mamta respect hi nahin hai good morning mam good afternoon mam good evening mam yah kaun bolega",
+    "scenario": "interview_experience",
+    "typical_emotions": [
+      "anxious",
+      "frustrated",
+      "hopeful",
+      "disappointed",
+      "stressed"
+    ],
+    "do": [
+      "Ask how it went",
+      "Validate their experience",
+      "Offer interview tips",
+      "Be encouraging"
+    ],
+    "dont": [
+      "Say 'you probably failed'",
+      "Criticize their answers",
+      "Add anxiety",
+      "Be negative"
+    ],
+    "tone": "supportive friend - encouraging and practical",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Ask for details",
+      "Offer feedback if asked",
+      "Suggest follow-up",
+      "Keep spirits up"
+    ]
+  },
+  {
+    "text": "Jitna makhan lagana hai lga lo 😂 woh job reference wale ko hi dega 😅😅😂",
+    "scenario": "interview_experience",
+    "typical_emotions": [
+      "anxious",
+      "frustrated",
+      "hopeful",
+      "disappointed",
+      "stressed"
+    ],
+    "do": [
+      "Ask how it went",
+      "Validate their experience",
+      "Offer interview tips",
+      "Be encouraging"
+    ],
+    "dont": [
+      "Say 'you probably failed'",
+      "Criticize their answers",
+      "Add anxiety",
+      "Be negative"
+    ],
+    "tone": "supportive friend - encouraging and practical",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Ask for details",
+      "Offer feedback if asked",
+      "Suggest follow-up",
+      "Keep spirits up"
+    ]
+  },
+  {
+    "text": "Kaam dene me bht saare nakhre.ki wazeh se accha staff nhi milta hai .boll bachan karne wale ko job pehle milti hai . Job k interview ko itna hard bana diya hai k job karne wala be confused ho k interview de nhi pata hai.",
+    "scenario": "interview_experience",
+    "typical_emotions": [
+      "anxious",
+      "frustrated",
+      "hopeful",
+      "disappointed",
+      "stressed"
+    ],
+    "do": [
+      "Ask how it went",
+      "Validate their experience",
+      "Offer interview tips",
+      "Be encouraging"
+    ],
+    "dont": [
+      "Say 'you probably failed'",
+      "Criticize their answers",
+      "Add anxiety",
+      "Be negative"
+    ],
+    "tone": "supportive friend - encouraging and practical",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Ask for details",
+      "Offer feedback if asked",
+      "Suggest follow-up",
+      "Keep spirits up"
+    ]
+  },
+  {
+    "text": "Hello mai jana sonchriun dubai job ke liye as a fresher tbh zada skills nahi just degrees hai mere pas recently 2weeks bfr maine apna mba k last sem ke exams diye hai lkn kuch computer skills nahi hai mere pass so kis type ki jobs milnge udar kuch idea hai ?",
+    "scenario": "interview_experience",
+    "typical_emotions": [
+      "anxious",
+      "frustrated",
+      "hopeful",
+      "disappointed",
+      "stressed"
+    ],
+    "do": [
+      "Ask how it went",
+      "Validate their experience",
+      "Offer interview tips",
+      "Be encouraging"
+    ],
+    "dont": [
+      "Say 'you probably failed'",
+      "Criticize their answers",
+      "Add anxiety",
+      "Be negative"
+    ],
+    "tone": "supportive friend - encouraging and practical",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Ask for details",
+      "Offer feedback if asked",
+      "Suggest follow-up",
+      "Keep spirits up"
+    ]
+  },
+  {
+    "text": "Hindi language kyuu nhi interview hota h... Kamal h indian h pr english ko lekar bethe h itni buri bt h 😢😢😢😢",
+    "scenario": "interview_experience",
+    "typical_emotions": [
+      "anxious",
+      "frustrated",
+      "hopeful",
+      "disappointed",
+      "stressed"
+    ],
+    "do": [
+      "Ask how it went",
+      "Validate their experience",
+      "Offer interview tips",
+      "Be encouraging"
+    ],
+    "dont": [
+      "Say 'you probably failed'",
+      "Criticize their answers",
+      "Add anxiety",
+      "Be negative"
+    ],
+    "tone": "supportive friend - encouraging and practical",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Ask for details",
+      "Offer feedback if asked",
+      "Suggest follow-up",
+      "Keep spirits up"
+    ]
+  },
+  {
+    "text": "Or hame English hi nhi aati ho to😢",
+    "scenario": "interview_experience",
+    "typical_emotions": [
+      "anxious",
+      "frustrated",
+      "hopeful",
+      "disappointed",
+      "stressed"
+    ],
+    "do": [
+      "Ask how it went",
+      "Validate their experience",
+      "Offer interview tips",
+      "Be encouraging"
+    ],
+    "dont": [
+      "Say 'you probably failed'",
+      "Criticize their answers",
+      "Add anxiety",
+      "Be negative"
+    ],
+    "tone": "supportive friend - encouraging and practical",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Ask for details",
+      "Offer feedback if asked",
+      "Suggest follow-up",
+      "Keep spirits up"
+    ]
+  },
+  {
+    "text": "Hindi me baat ni kr sakte kya maam?😢",
+    "scenario": "interview_experience",
+    "typical_emotions": [
+      "anxious",
+      "frustrated",
+      "hopeful",
+      "disappointed",
+      "stressed"
+    ],
+    "do": [
+      "Ask how it went",
+      "Validate their experience",
+      "Offer interview tips",
+      "Be encouraging"
+    ],
+    "dont": [
+      "Say 'you probably failed'",
+      "Criticize their answers",
+      "Add anxiety",
+      "Be negative"
+    ],
+    "tone": "supportive friend - encouraging and practical",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Ask for details",
+      "Offer feedback if asked",
+      "Suggest follow-up",
+      "Keep spirits up"
+    ]
+  },
+  {
+    "text": "Ye second kutta sala bol rha hai india mai kuch nhi hua sale ka dimag khrab ho gya 🤬🤬🤬🤬🤬 logo ki jane gyi hai aur bol rha hai india me kuuch nhi hua hai chloo india ki btt choro india mai ho ya na ho pakistan me bohot kuch hoga no water no life",
+    "scenario": "interview_experience",
+    "typical_emotions": [
+      "anxious",
+      "frustrated",
+      "hopeful",
+      "disappointed",
+      "stressed"
+    ],
+    "do": [
+      "Ask how it went",
+      "Validate their experience",
+      "Offer interview tips",
+      "Be encouraging"
+    ],
+    "dont": [
+      "Say 'you probably failed'",
+      "Criticize their answers",
+      "Add anxiety",
+      "Be negative"
+    ],
+    "tone": "supportive friend - encouraging and practical",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Ask for details",
+      "Offer feedback if asked",
+      "Suggest follow-up",
+      "Keep spirits up"
+    ]
+  }
+]

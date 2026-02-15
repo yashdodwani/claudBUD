@@ -1,0 +1,3660 @@
+[
+  {
+    "text": "Hackathon jeet gaye yaar! First prize 🏆",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "First prize mil gaya bhai bohot khushi hui",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Judges impressed ho gaye yaar proud moment",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Final round clear ho gaya seriously happy",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Hackathon jeet gaye bhai team effort tha",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Hackathon jeet gaye yaar! First prize 🏆",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "First prize mil gaya bhai bohot khushi hui",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Judges impressed ho gaye yaar proud moment",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Final round clear ho gaya seriously happy",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Hackathon jeet gaye bhai team effort tha",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Hackathon jeet gaye yaar! First prize 🏆",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "First prize mil gaya bhai bohot khushi hui",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Judges impressed ho gaye yaar proud moment",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Final round clear ho gaya seriously happy",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Hackathon jeet gaye bhai team effort tha",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Hackathon jeet gaye yaar! First prize 🏆",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "First prize mil gaya bhai bohot khushi hui",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Judges impressed ho gaye yaar proud moment",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Final round clear ho gaya seriously happy",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Hackathon jeet gaye bhai team effort tha",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Pagkatapos, sinabi niya sa kanila, “Ano ang tamang gawin kapag Sabbath: gumawa ng mabuti o ng masama, magligtas ng buhay* o pumatay?” Pero hindi sila kumibo. Marcos 3:4 ang sabbath ay isang batas ng Mosaico sa pagpahinga isang araw bawat linggo...mag-isip ng mga salita ng Diyos at mga batas... parang batas ay gumawa ng mabuti o magligtas ng buhay.. o ginawa ang pera para gumawa ng mabuti o magligtas ng buhay at hindi gumawa ng masama at hindi pagpuksa.. ang pera kapag nakuha mo sa patayan ay pat",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Link nahi aaya na Bhai Maine subscribe Kiya hai follow nahi",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Bhaiya hackathon ki jab pitch dete hai to vo puri english me dena padhta hai ya thodi hindi bhi bol saktein hai judges ke samne",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Aap kon sa laptop used karta ho",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Agya idea calculator banate hai",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "bhai me class 10th me school ki taraf se hackathon me participate kar rha hu",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Kon sa clg hai bro",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "bro bca walo ke liye jagah hai ?",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Last wala project mere aukaat me hai bana sakta hu bas funds nahi hoga usme",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Bhai ek bhit achha project hai ki women apne bra size jhan le sirf scan karke",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Bhai Last wale bro na sahi bola 😅😅😅",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Bhai code to chodo idea ve chtgpt se he likhata hu 😂",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "bhai me bhi tha SGT university hackathon me 2024 me",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Hlo bhai how i can contact you",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Bhai hackathon ke machine learning idea ke liye dataset kaha se laye",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Mere bhai ko mila 1st price aur ipad 10 gen mila❤",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Bro konse year k ho ap or kis course k ho m bhi meri college m hu",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Link nahi aaya na Bhai Maine subscribe Kiya hai follow nahi",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Bhai kya aise competition aage aayenge",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "bhai teri qualification ke hisab se gyan kam choda kar tier 4 bca vale bandar",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "aur ek iit hyderabad wale ladke ko competitive progr ki wajah se 20 lakh / month mil rha h...",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Bandar kyaa jaane andrak ka swaad",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Tab nahi lagna dihadi par will go for CP",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "bahi yr yeh aadmi kitna bewakooof hai kisi cheez ke bare me pta na ho toh chalo we can say its normal but kisi cheez ka pta na ho tab bhi us cheez pe bhasan dena yeh toh bhai serious nautanki hai.",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Bhaiya aapne Webd kara hai it doesn't mean ki yahi ek rasta hai paise kamane ka, google microsoft jaisi companies sirf dsa dsa aur dsa hi poochti hai, they don't even ask for projects if your dsa is good , because they need employees with high IQ, aur dsa IQ ka best indicator hai, whereas on the other hand, webd mei itna dimaag nahi lagta, jitna dsa / cp me lagta hai , DSA bhi har doosra banda kar raha hai, WEBD bhi har dusra banda kar raha hai, fark ye hai ki sab WEBD me acche ho jate hai lekin",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Yehi hota hai jab aap hadd se jada gyaan dete ho aur khudko industry ka expert maan te ho, hate toh milega hi",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "CP value nehi hai 😂😂😂😂 Kuch bhi",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Khude level nhi CP karne ke Fir bolne ka CP ke value nhi 😏😏",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Bhai company logical bande ko dundti h issiliye thoda dsa and cpp bhi strong krlo",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "chal dihaadi pe lag... 😂",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Bhai yaha pe subs nhi hai😬",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Pagkatapos, sinabi niya sa kanila, “Ano ang tamang gawin kapag Sabbath: gumawa ng mabuti o ng masama, magligtas ng buhay* o pumatay?” Pero hindi sila kumibo. Marcos 3:4 ang sabbath ay isang batas ng Mosaico sa pagpahinga isang araw bawat linggo...mag-isip ng mga salita ng Diyos at mga batas... parang batas ay gumawa ng mabuti o magligtas ng buhay.. o ginawa ang pera para gumawa ng mabuti o magligtas ng buhay at hindi gumawa ng masama at hindi pagpuksa.. ang pera kapag nakuha mo sa patayan ay pat",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "sir web development internship kaisy dhudhy ispr b ek video bnaeye, naukri, linkedin kahi bhi search kro internahip k liye to fake compny ya faltu companies ka he internship show hota h😏🙄",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Sir freelancing pe full detailed video lekar aao sir mai apka wait kar rha hu sir 😅😅",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Sir freelancing se kaise Paisa kamate hai plz bta dijiye sir bhale aap es video ke liye paisa bhi lege to mai Dene ko taiyar hu plz 🙏🙏🙏 sir",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Bhai tension nahi ham sambhal lenge ai ko",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Chatgpt aloo khake unhe hara diya Shayad sab aloo kathe tho ai ko hara dete alooo is power😂😂😂",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Visva ka isa insan hu me jisne 100 se bhi jada aloo kaao ge comment Kiya hai",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Lekin me ne toh Chat GPT ko Maths me 2 bar haraya tha. Bhai sachi Ma Kasam",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Indians :- Mandir wahi banega, AI kehta tha kya ho tum, aaj hum kehte hai tu kya hai be, hum hai! 🤣🤣🤣",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Main toh toot Gaya bhai",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Itihaas ma chalo yr isme kya rakha hai",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "HC Verma jo question denge AI ko wo bana dega ye AI😊😊",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "'C' usme hai hi nhi to Saiko kyse bola jayega bhai 🤦‍♂️😂",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Agale sal mein a jaunga",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Aur India main Language ka contest hota hai..Marathi... Kannada....Hindi..etc😂😂",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Maine AI se baat ki wo bada bewakoof hai fact techz bhai",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Hamari sanskrit bhasa se hi sab cod bane he. Hamare veda me sab he . Paresani ye he ki bas mil nahi raha... Kisi ko mila ho itna gyan to batabhi do akhir😢 badi beijati hiti he bhai",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Mein to Roz chatgpt se aya numericals ke galat answer ko sahi kar deta huuu....matlab meine bhi ai ko beat kiya 😂😂",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Mere to kayi Question ka answer galat deta ha ai",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Mene grock bend Baja di chat gpt ki bi psychology levels check Kiya har gye bekar hai Ai abhi nai jit skta",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "In India: America kya kehta tha tu kon hai be 😂",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "mujhe aaj tak lag raha tha ye ladki hai 😭😭😭",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Vo itna kuch kar sakta hai 22 yr ka To main bank PO li exam nahi nikal sakta",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Big brother, Now i am a 1st yr student of this yr and i know only c language. I also participate the hackathon but aur kya kya sekhunga for participating in hackhaton in my 1yr । Pl guide me",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "bhai mu band krke bola kar!",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Ye laptop mere pas bhi hai. But bohot gnda performance hai😭. Bohot slow hai kaise thik kru ?",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "bro ryzen 5 7520u with 8gb ram 512gb ssd wala 35000k ke ander laptop liya hai kaisa hai ? isme coding kar sakta hu na ?",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Bhaiya ryzen 5 ka chalega hackatone ke liye suitable hai ??",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Bro mai hp pavilion lu ya apply macbook m1 lu Jo 72000 ka aata hai I am in btech cse MSIT",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Sound editor bhai earphones kharab krke hi manoge kya",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Mere se to leetcode b nhi hota😭😭",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Story based hote hain Question mera softwere engineer ke technical round me ye Question pucha tha. Wo yaad nhi aa rha hai per ek Question ye pucha tha How would you design a scalable system for handling millions of transactions on an e-commerce platform?\"",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Sir ap seperate sare courses banao na apka sabse sahi smj ata hai",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Hackerrank be like - Hum pe to hai hi 9💀",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Jaha mujhe leetcode bhi tough lagra hai 😢😅!",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Leet code ka question bhi tough lagha tho kha Jaye 😢😢😢",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Mujhe ye janna hai ki leetcode k questions kab solve kare means c language is sufficient or not",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Leetcode ka interface samajh nai aata hai, mai aapse C language seekhne ke baad C ke uper based questions solve karne liye Gaya tha leetcode per mujhe kuch aure dikh raha hai, ayse lag raha hai ki leetcode hi dark web hai😭",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "i dont think koi farak hota hai kisi me , sabme variety of questions milte hai",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Aapse accha koi nhi sikha sakta hai",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Thank you Didi Ji aap ki wajahe se meine (Python, CSS, HTML, JS) sikhi hai Thanks",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Aapki energy hi humari motivation hai. Thank you very much didi❤",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "take away form video 1. solve question with pen and paper 2. form github account to store code 3.form a group of students having similar interest in cp 4. upsolve questions apni rating se upr wale qn.",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Didi aap bataye hi nahi kon kon topic padhna hai Competitive programming keliye",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "List kaha hain topics ki? Pura channel search Kiya mila hi nahi",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Mam lucknow ki digicoder company kaise hi",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Didi ne khud kabhi CP kiya nahi, aur hume samjhane chali hai😶",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "c++ one shot mein bana de",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "4 sal se aisa vedio dhoond raha hu🇧🇩",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Pagkatapos, sinabi niya sa kanila, “Ano ang tamang gawin kapag Sabbath: gumawa ng mabuti o ng masama, magligtas ng buhay* o pumatay?” Pero hindi sila kumibo. Marcos 3:4 ang sabbath ay isang batas ng Mosaico sa pagpahinga isang araw bawat linggo...mag-isip ng mga salita ng Diyos at mga batas... parang batas ay gumawa ng mabuti o magligtas ng buhay.. o ginawa ang pera para gumawa ng mabuti o magligtas ng buhay at hindi gumawa ng masama at hindi pagpuksa.. ang pera kapag nakuha mo sa patayan ay pat",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Link nahi aaya na Bhai Maine subscribe Kiya hai follow nahi",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Bhaiya hackathon ki jab pitch dete hai to vo puri english me dena padhta hai ya thodi hindi bhi bol saktein hai judges ke samne",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Aap kon sa laptop used karta ho",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Agya idea calculator banate hai",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "bhai me class 10th me school ki taraf se hackathon me participate kar rha hu",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Kon sa clg hai bro",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "bro bca walo ke liye jagah hai ?",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Last wala project mere aukaat me hai bana sakta hu bas funds nahi hoga usme",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Bhai ek bhit achha project hai ki women apne bra size jhan le sirf scan karke",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Bhai Last wale bro na sahi bola 😅😅😅",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Bhai code to chodo idea ve chtgpt se he likhata hu 😂",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "bhai me bhi tha SGT university hackathon me 2024 me",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Hlo bhai how i can contact you",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Bhai hackathon ke machine learning idea ke liye dataset kaha se laye",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Mere bhai ko mila 1st price aur ipad 10 gen mila❤",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Bro konse year k ho ap or kis course k ho m bhi meri college m hu",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  },
+  {
+    "text": "Link nahi aaya na Bhai Maine subscribe Kiya hai follow nahi",
+    "scenario": "hackathon_win",
+    "typical_emotions": [
+      "excited",
+      "proud",
+      "accomplished",
+      "relieved",
+      "happy"
+    ],
+    "do": [
+      "Go all out with excitement",
+      "Celebrate their win",
+      "Ask about the project",
+      "Hype them up"
+    ],
+    "dont": [
+      "Downplay the achievement",
+      "Make it about yourself",
+      "Be jealous",
+      "Forget to celebrate"
+    ],
+    "tone": "hyped friend - super proud and excited",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Congratulate enthusiastically",
+      "Ask for project details",
+      "Suggest celebration",
+      "Share the news"
+    ]
+  }
+]

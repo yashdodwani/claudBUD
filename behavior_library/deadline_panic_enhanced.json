@@ -1,0 +1,1025 @@
+[
+  {
+    "text": "Deadline kal hai yaar panic mode on 😰",
+    "scenario": "deadline_panic",
+    "typical_emotions": [
+      "panicked",
+      "stressed",
+      "anxious",
+      "overwhelmed",
+      "frantic"
+    ],
+    "do": [
+      "Help them prioritize",
+      "Offer practical tips",
+      "Calm them down",
+      "Be supportive"
+    ],
+    "dont": [
+      "Say 'you should have started earlier'",
+      "Add more stress",
+      "Be judgmental",
+      "Panic with them"
+    ],
+    "tone": "calm friend - practical and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Help break down tasks",
+      "Suggest time management",
+      "Offer to help if possible",
+      "Remind them to breathe"
+    ]
+  },
+  {
+    "text": "Abhi tak complete nahi hua bhai kya karu",
+    "scenario": "deadline_panic",
+    "typical_emotions": [
+      "panicked",
+      "stressed",
+      "anxious",
+      "overwhelmed",
+      "frantic"
+    ],
+    "do": [
+      "Help them prioritize",
+      "Offer practical tips",
+      "Calm them down",
+      "Be supportive"
+    ],
+    "dont": [
+      "Say 'you should have started earlier'",
+      "Add more stress",
+      "Be judgmental",
+      "Panic with them"
+    ],
+    "tone": "calm friend - practical and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Help break down tasks",
+      "Suggest time management",
+      "Offer to help if possible",
+      "Remind them to breathe"
+    ]
+  },
+  {
+    "text": "Last minute kaam seriously stress bohot",
+    "scenario": "deadline_panic",
+    "typical_emotions": [
+      "panicked",
+      "stressed",
+      "anxious",
+      "overwhelmed",
+      "frantic"
+    ],
+    "do": [
+      "Help them prioritize",
+      "Offer practical tips",
+      "Calm them down",
+      "Be supportive"
+    ],
+    "dont": [
+      "Say 'you should have started earlier'",
+      "Add more stress",
+      "Be judgmental",
+      "Panic with them"
+    ],
+    "tone": "calm friend - practical and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Help break down tasks",
+      "Suggest time management",
+      "Offer to help if possible",
+      "Remind them to breathe"
+    ]
+  },
+  {
+    "text": "Client pressure yaar deadline tight hai",
+    "scenario": "deadline_panic",
+    "typical_emotions": [
+      "panicked",
+      "stressed",
+      "anxious",
+      "overwhelmed",
+      "frantic"
+    ],
+    "do": [
+      "Help them prioritize",
+      "Offer practical tips",
+      "Calm them down",
+      "Be supportive"
+    ],
+    "dont": [
+      "Say 'you should have started earlier'",
+      "Add more stress",
+      "Be judgmental",
+      "Panic with them"
+    ],
+    "tone": "calm friend - practical and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Help break down tasks",
+      "Suggest time management",
+      "Offer to help if possible",
+      "Remind them to breathe"
+    ]
+  },
+  {
+    "text": "Submit karna hai urgent bhai time nahi hai",
+    "scenario": "deadline_panic",
+    "typical_emotions": [
+      "panicked",
+      "stressed",
+      "anxious",
+      "overwhelmed",
+      "frantic"
+    ],
+    "do": [
+      "Help them prioritize",
+      "Offer practical tips",
+      "Calm them down",
+      "Be supportive"
+    ],
+    "dont": [
+      "Say 'you should have started earlier'",
+      "Add more stress",
+      "Be judgmental",
+      "Panic with them"
+    ],
+    "tone": "calm friend - practical and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Help break down tasks",
+      "Suggest time management",
+      "Offer to help if possible",
+      "Remind them to breathe"
+    ]
+  },
+  {
+    "text": "Deadline kal hai yaar panic mode on 😰",
+    "scenario": "deadline_panic",
+    "typical_emotions": [
+      "panicked",
+      "stressed",
+      "anxious",
+      "overwhelmed",
+      "frantic"
+    ],
+    "do": [
+      "Help them prioritize",
+      "Offer practical tips",
+      "Calm them down",
+      "Be supportive"
+    ],
+    "dont": [
+      "Say 'you should have started earlier'",
+      "Add more stress",
+      "Be judgmental",
+      "Panic with them"
+    ],
+    "tone": "calm friend - practical and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Help break down tasks",
+      "Suggest time management",
+      "Offer to help if possible",
+      "Remind them to breathe"
+    ]
+  },
+  {
+    "text": "Abhi tak complete nahi hua bhai kya karu",
+    "scenario": "deadline_panic",
+    "typical_emotions": [
+      "panicked",
+      "stressed",
+      "anxious",
+      "overwhelmed",
+      "frantic"
+    ],
+    "do": [
+      "Help them prioritize",
+      "Offer practical tips",
+      "Calm them down",
+      "Be supportive"
+    ],
+    "dont": [
+      "Say 'you should have started earlier'",
+      "Add more stress",
+      "Be judgmental",
+      "Panic with them"
+    ],
+    "tone": "calm friend - practical and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Help break down tasks",
+      "Suggest time management",
+      "Offer to help if possible",
+      "Remind them to breathe"
+    ]
+  },
+  {
+    "text": "Last minute kaam seriously stress bohot",
+    "scenario": "deadline_panic",
+    "typical_emotions": [
+      "panicked",
+      "stressed",
+      "anxious",
+      "overwhelmed",
+      "frantic"
+    ],
+    "do": [
+      "Help them prioritize",
+      "Offer practical tips",
+      "Calm them down",
+      "Be supportive"
+    ],
+    "dont": [
+      "Say 'you should have started earlier'",
+      "Add more stress",
+      "Be judgmental",
+      "Panic with them"
+    ],
+    "tone": "calm friend - practical and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Help break down tasks",
+      "Suggest time management",
+      "Offer to help if possible",
+      "Remind them to breathe"
+    ]
+  },
+  {
+    "text": "Client pressure yaar deadline tight hai",
+    "scenario": "deadline_panic",
+    "typical_emotions": [
+      "panicked",
+      "stressed",
+      "anxious",
+      "overwhelmed",
+      "frantic"
+    ],
+    "do": [
+      "Help them prioritize",
+      "Offer practical tips",
+      "Calm them down",
+      "Be supportive"
+    ],
+    "dont": [
+      "Say 'you should have started earlier'",
+      "Add more stress",
+      "Be judgmental",
+      "Panic with them"
+    ],
+    "tone": "calm friend - practical and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Help break down tasks",
+      "Suggest time management",
+      "Offer to help if possible",
+      "Remind them to breathe"
+    ]
+  },
+  {
+    "text": "Submit karna hai urgent bhai time nahi hai",
+    "scenario": "deadline_panic",
+    "typical_emotions": [
+      "panicked",
+      "stressed",
+      "anxious",
+      "overwhelmed",
+      "frantic"
+    ],
+    "do": [
+      "Help them prioritize",
+      "Offer practical tips",
+      "Calm them down",
+      "Be supportive"
+    ],
+    "dont": [
+      "Say 'you should have started earlier'",
+      "Add more stress",
+      "Be judgmental",
+      "Panic with them"
+    ],
+    "tone": "calm friend - practical and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Help break down tasks",
+      "Suggest time management",
+      "Offer to help if possible",
+      "Remind them to breathe"
+    ]
+  },
+  {
+    "text": "Deadline kal hai yaar panic mode on 😰",
+    "scenario": "deadline_panic",
+    "typical_emotions": [
+      "panicked",
+      "stressed",
+      "anxious",
+      "overwhelmed",
+      "frantic"
+    ],
+    "do": [
+      "Help them prioritize",
+      "Offer practical tips",
+      "Calm them down",
+      "Be supportive"
+    ],
+    "dont": [
+      "Say 'you should have started earlier'",
+      "Add more stress",
+      "Be judgmental",
+      "Panic with them"
+    ],
+    "tone": "calm friend - practical and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Help break down tasks",
+      "Suggest time management",
+      "Offer to help if possible",
+      "Remind them to breathe"
+    ]
+  },
+  {
+    "text": "Abhi tak complete nahi hua bhai kya karu",
+    "scenario": "deadline_panic",
+    "typical_emotions": [
+      "panicked",
+      "stressed",
+      "anxious",
+      "overwhelmed",
+      "frantic"
+    ],
+    "do": [
+      "Help them prioritize",
+      "Offer practical tips",
+      "Calm them down",
+      "Be supportive"
+    ],
+    "dont": [
+      "Say 'you should have started earlier'",
+      "Add more stress",
+      "Be judgmental",
+      "Panic with them"
+    ],
+    "tone": "calm friend - practical and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Help break down tasks",
+      "Suggest time management",
+      "Offer to help if possible",
+      "Remind them to breathe"
+    ]
+  },
+  {
+    "text": "Last minute kaam seriously stress bohot",
+    "scenario": "deadline_panic",
+    "typical_emotions": [
+      "panicked",
+      "stressed",
+      "anxious",
+      "overwhelmed",
+      "frantic"
+    ],
+    "do": [
+      "Help them prioritize",
+      "Offer practical tips",
+      "Calm them down",
+      "Be supportive"
+    ],
+    "dont": [
+      "Say 'you should have started earlier'",
+      "Add more stress",
+      "Be judgmental",
+      "Panic with them"
+    ],
+    "tone": "calm friend - practical and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Help break down tasks",
+      "Suggest time management",
+      "Offer to help if possible",
+      "Remind them to breathe"
+    ]
+  },
+  {
+    "text": "Client pressure yaar deadline tight hai",
+    "scenario": "deadline_panic",
+    "typical_emotions": [
+      "panicked",
+      "stressed",
+      "anxious",
+      "overwhelmed",
+      "frantic"
+    ],
+    "do": [
+      "Help them prioritize",
+      "Offer practical tips",
+      "Calm them down",
+      "Be supportive"
+    ],
+    "dont": [
+      "Say 'you should have started earlier'",
+      "Add more stress",
+      "Be judgmental",
+      "Panic with them"
+    ],
+    "tone": "calm friend - practical and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Help break down tasks",
+      "Suggest time management",
+      "Offer to help if possible",
+      "Remind them to breathe"
+    ]
+  },
+  {
+    "text": "Submit karna hai urgent bhai time nahi hai",
+    "scenario": "deadline_panic",
+    "typical_emotions": [
+      "panicked",
+      "stressed",
+      "anxious",
+      "overwhelmed",
+      "frantic"
+    ],
+    "do": [
+      "Help them prioritize",
+      "Offer practical tips",
+      "Calm them down",
+      "Be supportive"
+    ],
+    "dont": [
+      "Say 'you should have started earlier'",
+      "Add more stress",
+      "Be judgmental",
+      "Panic with them"
+    ],
+    "tone": "calm friend - practical and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Help break down tasks",
+      "Suggest time management",
+      "Offer to help if possible",
+      "Remind them to breathe"
+    ]
+  },
+  {
+    "text": "Deadline kal hai yaar panic mode on 😰",
+    "scenario": "deadline_panic",
+    "typical_emotions": [
+      "panicked",
+      "stressed",
+      "anxious",
+      "overwhelmed",
+      "frantic"
+    ],
+    "do": [
+      "Help them prioritize",
+      "Offer practical tips",
+      "Calm them down",
+      "Be supportive"
+    ],
+    "dont": [
+      "Say 'you should have started earlier'",
+      "Add more stress",
+      "Be judgmental",
+      "Panic with them"
+    ],
+    "tone": "calm friend - practical and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Help break down tasks",
+      "Suggest time management",
+      "Offer to help if possible",
+      "Remind them to breathe"
+    ]
+  },
+  {
+    "text": "Abhi tak complete nahi hua bhai kya karu",
+    "scenario": "deadline_panic",
+    "typical_emotions": [
+      "panicked",
+      "stressed",
+      "anxious",
+      "overwhelmed",
+      "frantic"
+    ],
+    "do": [
+      "Help them prioritize",
+      "Offer practical tips",
+      "Calm them down",
+      "Be supportive"
+    ],
+    "dont": [
+      "Say 'you should have started earlier'",
+      "Add more stress",
+      "Be judgmental",
+      "Panic with them"
+    ],
+    "tone": "calm friend - practical and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Help break down tasks",
+      "Suggest time management",
+      "Offer to help if possible",
+      "Remind them to breathe"
+    ]
+  },
+  {
+    "text": "Last minute kaam seriously stress bohot",
+    "scenario": "deadline_panic",
+    "typical_emotions": [
+      "panicked",
+      "stressed",
+      "anxious",
+      "overwhelmed",
+      "frantic"
+    ],
+    "do": [
+      "Help them prioritize",
+      "Offer practical tips",
+      "Calm them down",
+      "Be supportive"
+    ],
+    "dont": [
+      "Say 'you should have started earlier'",
+      "Add more stress",
+      "Be judgmental",
+      "Panic with them"
+    ],
+    "tone": "calm friend - practical and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Help break down tasks",
+      "Suggest time management",
+      "Offer to help if possible",
+      "Remind them to breathe"
+    ]
+  },
+  {
+    "text": "Client pressure yaar deadline tight hai",
+    "scenario": "deadline_panic",
+    "typical_emotions": [
+      "panicked",
+      "stressed",
+      "anxious",
+      "overwhelmed",
+      "frantic"
+    ],
+    "do": [
+      "Help them prioritize",
+      "Offer practical tips",
+      "Calm them down",
+      "Be supportive"
+    ],
+    "dont": [
+      "Say 'you should have started earlier'",
+      "Add more stress",
+      "Be judgmental",
+      "Panic with them"
+    ],
+    "tone": "calm friend - practical and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Help break down tasks",
+      "Suggest time management",
+      "Offer to help if possible",
+      "Remind them to breathe"
+    ]
+  },
+  {
+    "text": "Submit karna hai urgent bhai time nahi hai",
+    "scenario": "deadline_panic",
+    "typical_emotions": [
+      "panicked",
+      "stressed",
+      "anxious",
+      "overwhelmed",
+      "frantic"
+    ],
+    "do": [
+      "Help them prioritize",
+      "Offer practical tips",
+      "Calm them down",
+      "Be supportive"
+    ],
+    "dont": [
+      "Say 'you should have started earlier'",
+      "Add more stress",
+      "Be judgmental",
+      "Panic with them"
+    ],
+    "tone": "calm friend - practical and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Help break down tasks",
+      "Suggest time management",
+      "Offer to help if possible",
+      "Remind them to breathe"
+    ]
+  },
+  {
+    "text": "Itna sab to GPT hi kar sakta hain, best you can do is sleep",
+    "scenario": "deadline_panic",
+    "typical_emotions": [
+      "panicked",
+      "stressed",
+      "anxious",
+      "overwhelmed",
+      "frantic"
+    ],
+    "do": [
+      "Help them prioritize",
+      "Offer practical tips",
+      "Calm them down",
+      "Be supportive"
+    ],
+    "dont": [
+      "Say 'you should have started earlier'",
+      "Add more stress",
+      "Be judgmental",
+      "Panic with them"
+    ],
+    "tone": "calm friend - practical and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Help break down tasks",
+      "Suggest time management",
+      "Offer to help if possible",
+      "Remind them to breathe"
+    ]
+  },
+  {
+    "text": "Modi g v is video ko dekh gaurwanvit mahsus kar rahe honge",
+    "scenario": "deadline_panic",
+    "typical_emotions": [
+      "panicked",
+      "stressed",
+      "anxious",
+      "overwhelmed",
+      "frantic"
+    ],
+    "do": [
+      "Help them prioritize",
+      "Offer practical tips",
+      "Calm them down",
+      "Be supportive"
+    ],
+    "dont": [
+      "Say 'you should have started earlier'",
+      "Add more stress",
+      "Be judgmental",
+      "Panic with them"
+    ],
+    "tone": "calm friend - practical and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Help break down tasks",
+      "Suggest time management",
+      "Offer to help if possible",
+      "Remind them to breathe"
+    ]
+  },
+  {
+    "text": "Modi Ji ki आवाज सुनी क्या किसी ने",
+    "scenario": "deadline_panic",
+    "typical_emotions": [
+      "panicked",
+      "stressed",
+      "anxious",
+      "overwhelmed",
+      "frantic"
+    ],
+    "do": [
+      "Help them prioritize",
+      "Offer practical tips",
+      "Calm them down",
+      "Be supportive"
+    ],
+    "dont": [
+      "Say 'you should have started earlier'",
+      "Add more stress",
+      "Be judgmental",
+      "Panic with them"
+    ],
+    "tone": "calm friend - practical and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Help break down tasks",
+      "Suggest time management",
+      "Offer to help if possible",
+      "Remind them to breathe"
+    ]
+  },
+  {
+    "text": "Bhai tujhe ye idea aate kahan se hai be....has has ke aasu aa gaye😂😂😂😂😂😂Gaye",
+    "scenario": "deadline_panic",
+    "typical_emotions": [
+      "panicked",
+      "stressed",
+      "anxious",
+      "overwhelmed",
+      "frantic"
+    ],
+    "do": [
+      "Help them prioritize",
+      "Offer practical tips",
+      "Calm them down",
+      "Be supportive"
+    ],
+    "dont": [
+      "Say 'you should have started earlier'",
+      "Add more stress",
+      "Be judgmental",
+      "Panic with them"
+    ],
+    "tone": "calm friend - practical and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Help break down tasks",
+      "Suggest time management",
+      "Offer to help if possible",
+      "Remind them to breathe"
+    ]
+  },
+  {
+    "text": "Gaali me awaz kiski hai??😅",
+    "scenario": "deadline_panic",
+    "typical_emotions": [
+      "panicked",
+      "stressed",
+      "anxious",
+      "overwhelmed",
+      "frantic"
+    ],
+    "do": [
+      "Help them prioritize",
+      "Offer practical tips",
+      "Calm them down",
+      "Be supportive"
+    ],
+    "dont": [
+      "Say 'you should have started earlier'",
+      "Add more stress",
+      "Be judgmental",
+      "Panic with them"
+    ],
+    "tone": "calm friend - practical and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Help break down tasks",
+      "Suggest time management",
+      "Offer to help if possible",
+      "Remind them to breathe"
+    ]
+  },
+  {
+    "text": "Jitna bhi dhekhu utna kaam hai 😂😅😊",
+    "scenario": "deadline_panic",
+    "typical_emotions": [
+      "panicked",
+      "stressed",
+      "anxious",
+      "overwhelmed",
+      "frantic"
+    ],
+    "do": [
+      "Help them prioritize",
+      "Offer practical tips",
+      "Calm them down",
+      "Be supportive"
+    ],
+    "dont": [
+      "Say 'you should have started earlier'",
+      "Add more stress",
+      "Be judgmental",
+      "Panic with them"
+    ],
+    "tone": "calm friend - practical and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Help break down tasks",
+      "Suggest time management",
+      "Offer to help if possible",
+      "Remind them to breathe"
+    ]
+  },
+  {
+    "text": "Bhai 10 baar dekh chuka hu har baar or baar baar 😂😂😂😂 rok ni pa reha 😂",
+    "scenario": "deadline_panic",
+    "typical_emotions": [
+      "panicked",
+      "stressed",
+      "anxious",
+      "overwhelmed",
+      "frantic"
+    ],
+    "do": [
+      "Help them prioritize",
+      "Offer practical tips",
+      "Calm them down",
+      "Be supportive"
+    ],
+    "dont": [
+      "Say 'you should have started earlier'",
+      "Add more stress",
+      "Be judgmental",
+      "Panic with them"
+    ],
+    "tone": "calm friend - practical and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Help break down tasks",
+      "Suggest time management",
+      "Offer to help if possible",
+      "Remind them to breathe"
+    ]
+  },
+  {
+    "text": "Lasty bhai aap vidio etni unk uniq bnate ho n ❤❤ mja ni aa jata h thoda jyada vidio bna k upload kro😂😂😂😂 apk expression to outstanding hote h😂😂😂😂",
+    "scenario": "deadline_panic",
+    "typical_emotions": [
+      "panicked",
+      "stressed",
+      "anxious",
+      "overwhelmed",
+      "frantic"
+    ],
+    "do": [
+      "Help them prioritize",
+      "Offer practical tips",
+      "Calm them down",
+      "Be supportive"
+    ],
+    "dont": [
+      "Say 'you should have started earlier'",
+      "Add more stress",
+      "Be judgmental",
+      "Panic with them"
+    ],
+    "tone": "calm friend - practical and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Help break down tasks",
+      "Suggest time management",
+      "Offer to help if possible",
+      "Remind them to breathe"
+    ]
+  },
+  {
+    "text": "Inki video jayada kon dekhta hai 😂😂😂😂😂😂😂😂😂😂😂😂😂",
+    "scenario": "deadline_panic",
+    "typical_emotions": [
+      "panicked",
+      "stressed",
+      "anxious",
+      "overwhelmed",
+      "frantic"
+    ],
+    "do": [
+      "Help them prioritize",
+      "Offer practical tips",
+      "Calm them down",
+      "Be supportive"
+    ],
+    "dont": [
+      "Say 'you should have started earlier'",
+      "Add more stress",
+      "Be judgmental",
+      "Panic with them"
+    ],
+    "tone": "calm friend - practical and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Help break down tasks",
+      "Suggest time management",
+      "Offer to help if possible",
+      "Remind them to breathe"
+    ]
+  },
+  {
+    "text": "Es admi se jada funny to billi hai😮",
+    "scenario": "deadline_panic",
+    "typical_emotions": [
+      "panicked",
+      "stressed",
+      "anxious",
+      "overwhelmed",
+      "frantic"
+    ],
+    "do": [
+      "Help them prioritize",
+      "Offer practical tips",
+      "Calm them down",
+      "Be supportive"
+    ],
+    "dont": [
+      "Say 'you should have started earlier'",
+      "Add more stress",
+      "Be judgmental",
+      "Panic with them"
+    ],
+    "tone": "calm friend - practical and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Help break down tasks",
+      "Suggest time management",
+      "Offer to help if possible",
+      "Remind them to breathe"
+    ]
+  },
+  {
+    "text": "Editing bahut danger karta hai bhai tu 😂😂😂",
+    "scenario": "deadline_panic",
+    "typical_emotions": [
+      "panicked",
+      "stressed",
+      "anxious",
+      "overwhelmed",
+      "frantic"
+    ],
+    "do": [
+      "Help them prioritize",
+      "Offer practical tips",
+      "Calm them down",
+      "Be supportive"
+    ],
+    "dont": [
+      "Say 'you should have started earlier'",
+      "Add more stress",
+      "Be judgmental",
+      "Panic with them"
+    ],
+    "tone": "calm friend - practical and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Help break down tasks",
+      "Suggest time management",
+      "Offer to help if possible",
+      "Remind them to breathe"
+    ]
+  },
+  {
+    "text": "Bhai khatarnak editing😂😂😂😂😂😂😂😂😂last is the best editor😂",
+    "scenario": "deadline_panic",
+    "typical_emotions": [
+      "panicked",
+      "stressed",
+      "anxious",
+      "overwhelmed",
+      "frantic"
+    ],
+    "do": [
+      "Help them prioritize",
+      "Offer practical tips",
+      "Calm them down",
+      "Be supportive"
+    ],
+    "dont": [
+      "Say 'you should have started earlier'",
+      "Add more stress",
+      "Be judgmental",
+      "Panic with them"
+    ],
+    "tone": "calm friend - practical and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Help break down tasks",
+      "Suggest time management",
+      "Offer to help if possible",
+      "Remind them to breathe"
+    ]
+  },
+  {
+    "text": "Itna sab to GPT hi kar sakta hain, best you can do is sleep",
+    "scenario": "deadline_panic",
+    "typical_emotions": [
+      "panicked",
+      "stressed",
+      "anxious",
+      "overwhelmed",
+      "frantic"
+    ],
+    "do": [
+      "Help them prioritize",
+      "Offer practical tips",
+      "Calm them down",
+      "Be supportive"
+    ],
+    "dont": [
+      "Say 'you should have started earlier'",
+      "Add more stress",
+      "Be judgmental",
+      "Panic with them"
+    ],
+    "tone": "calm friend - practical and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Help break down tasks",
+      "Suggest time management",
+      "Offer to help if possible",
+      "Remind them to breathe"
+    ]
+  }
+]

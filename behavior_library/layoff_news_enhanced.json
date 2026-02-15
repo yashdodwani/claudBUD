@@ -1,0 +1,5210 @@
+[
+  {
+    "text": "Layoff ho gaya yaar job chali gayi 💔",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Company ne nikal diya bhai shocked hu",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Team dissolve ho gayi seriously sad news",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Job chali gayi yaar uncertain future",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Downsizing ho rahi hai bhai tension",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Layoff ho gaya yaar job chali gayi 💔",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Company ne nikal diya bhai shocked hu",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Team dissolve ho gayi seriously sad news",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Job chali gayi yaar uncertain future",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Downsizing ho rahi hai bhai tension",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Layoff ho gaya yaar job chali gayi 💔",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Company ne nikal diya bhai shocked hu",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Team dissolve ho gayi seriously sad news",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Job chali gayi yaar uncertain future",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Downsizing ho rahi hai bhai tension",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Layoff ho gaya yaar job chali gayi 💔",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Company ne nikal diya bhai shocked hu",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Team dissolve ho gayi seriously sad news",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Job chali gayi yaar uncertain future",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Downsizing ho rahi hai bhai tension",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Bhai tum dono kon ho jo gyan pel rhe ho😅😅",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Chatgpt se batcha bhi easy coding kar sakta he abhi 😂",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Ai ki vajah se paise bachte hain yeh companies bevcud banayi hain hum ko hamari govt ka bhi fault",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Late ho gaye batane me.2022 se pata hai jo Dr.Ankit Shah ko sunte hai",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "5:24 China me log sabhi menial jobs, farming, handi jobs kyon karte hai ab logo ko pata chalega...jo log ye sab kar rahe hai china me voh bhi achchi life ji rahe hai(kamana aur spend karna), shayad yaha bhi aese hi hoga.",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "I m confused. Mere pahachan me kisi bhi software engineer ki job nahi gayi...",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Sir kay emergency situation aa gaya hai IT sector mein",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Ab india me coding introduce ki gayi hai , jab tak woh graduate honge it will be worthless skill",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Right when India was about to use ut manpower to grow.. AI ne band baja di..",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Mein toh abhi se Farm land kharidne ka plan kar raha hu.",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "In sare company ekdin AI ki wajah se NIFTY 50 list se bhi bahar jayenge 😂",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Bhai logo ke pass paise nahi to kya ghanta economy badhega",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Agar productivity badhegi aur employment kam hoga to ye sab consume kon karega? Slow down aa jayega",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "jobs bahot hain problem ye h ki ab soft engineer bhi bahot ho gaye h",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "me khud layoff hogya company se kismat hi karab h",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "4 sal ka experience hai in QA, smj nh aarha kya kru, shadi k umr hogyi hai, krunga to fs jaunga hib gyi to. Parents bhi hai. Skill upgrade krke koe fayda lg nhi rha",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Ye jo gcc aa rahe hai wo Pakistan government ki vajah se aa rahe hai 😂😂😂..... Pagal aadmi",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Core branch walo me Khushi ki lahar 😂 let's dance 😂",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Ye BJP wale bahut badmash hai , Ai bana ke chamchon 🥄 ko beRozgaar kar diya 🤣",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Govt should close all skill India courses related to IT industry. Itna jobless engineers pehle se ghum rahe hain, aur jobless log kyun create karna.",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Bhaiya Bokaro kb aa rhe ho. Ekk meetup rakh lijiye🙂",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "2nd year ma hu 20 hajar ki job kar raha hu. i think thik thak start ha And in my company, hamara pas claude, Gemini, lovable etc ka tagda subscription ha fir bhi roj hame bugs face karna padta ha jisko solve karna ma dimag kharab ho jata ha.",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Bhai aap youtube alorithms ke bharose mat rahiye. Mindless nachgana will always win over mindful content. You can directly open an option for monetary contribution for people who wish to contribute who got benefitted.",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "or 2 3 sal mai wev dev to gaya . jo jo kuch kehe le apne courses ko bechne keliye.",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Yahan skilled hoke bhi 5000 Rs per month ki job nahi mil rahi hai.😢",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Ab service class ko chaiye ladli behena...",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "1 saal phle tak log bol rhe the ai se kuch nhi hoga sab faltu ke hype h 😂",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Hrr 2 min pe government ko kosne lge ho, kya tum Ravish Kumar ko dekhne lge ho",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "i m software architect , toh aapke hisaab se , saari it company ka revenue aadha ho jaega agar AI hi sab karega toh, what about responsibilities and trust in prod 😂😂",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "yaar bhai ek to ye darra ker rakhata hai job jaa rahi hai",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Ham Bihar Se Hai Bhaiya",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Fear Mongering .. thumbnail se chalu ..",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Bhai jobloss par aur kitna content banayega? Your every second video is about this. Sadly, you are using the same click bait. Bhaiyya: any new ai tool in the market= jobloss content. Others: Let's showcase this new ai tools ability.",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Sir I am from dhanbad app se kaie mil sakte hai",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Late ho gaye batane me.2022 se pata hai jo Dr.Ankit Shah ko sunte hai",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "5:24 China me log sabhi menial jobs, farming, handi jobs kyon karte hai ab logo ko pata chalega...jo log ye sab kar rahe hai china me voh bhi achchi life ji rahe hai(kamana aur spend karna), shayad yaha bhi aese hi hoga.",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "I m confused. Mere pahachan me kisi bhi software engineer ki job nahi gayi...",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Sir kay emergency situation aa gaya hai IT sector mein",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Ab india me coding introduce ki gayi hai , jab tak woh graduate honge it will be worthless skill",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Right when India was about to use ut manpower to grow.. AI ne band baja di..",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Mein toh abhi se Farm land kharidne ka plan kar raha hu.",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "In sare company ekdin AI ki wajah se NIFTY 50 list se bhi bahar jayenge 😂",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Bhai logo ke pass paise nahi to kya ghanta economy badhega",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Agar productivity badhegi aur employment kam hoga to ye sab consume kon karega? Slow down aa jayega",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "jobs bahot hain problem ye h ki ab soft engineer bhi bahot ho gaye h",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Tab to study Kar baykar hai",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Ye bat right hai bhai ye mere saath hua hai bhai 😢😢😢😢",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "🤣🤣🤣 Narendra Modi ki kya Jarurat hai AI ko hi PM bana do🤣🤣🤣. Politician ki Jagah AI ko replace kar do phir dekhi Bharat kaha se kaha tak pahunch jayega.",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Bhai achha hi haina call centers band hua toh Bohut saare online scams fraud calls bohut saare call centers ke wajah se hi hora hain",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Bhai ki khusi too dekho......... Uneducated",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Yeh kabhi bhi nahi ho sakta hai",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "❤👍🙏🌹 very nice aapko Dil se salam hai bhai gajab hai esi jankari wali video dikhana badiya hai lajawab hai ❤🌹👍🙏",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Bharat me bacha paida krna band kro gareeb log 100 crore unke khilaf an action hoga encounter ka agar baccha paida kia toh Degree lene ka koi fyda wyda nai bs dukan khol lo jaldi s koi bhi policy s kuch nai ho paega",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Ai kab deshbhakt ko replace 😂kare ga",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Aapna hall tu townhall hai.",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Hum bhi ussi berojgar 15 lakh logo ka hissa hein 🥲",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Engineers ko aur kitne jhatke milenge😂😂",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Ham to fakeer aadmi hai Jhola leke chal bpadenge",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Bhai tum jaise YouTube content creator aur baad Jaye to 10 saal me news channel to replace kar denge - lag raha koi news reporter prime time me news de raha hai - no research just stealing content from news channel and reporting it like a news anchor -",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "AI KO GALI DENE MAJA NAI AYE GA 😂",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Humara Vikshit aur Aatma Nirbhar Bharat. Swachch Bharat mein aapka swagat hai.",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Ghanta koi job open nhi ho raha. Faltu ki batein hai ye. For the last 7 months I have been looking for a job. Hardly one or two calls come in a month. I am a senior java developer. Don't gaslight people.",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Very true ❤️❤️❤️ because of poor education system and college hai",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Jab kitabon ke andar hi Premchand ke phate joote Surdas ka jhopada Babli Akbar ke yuddh ek Raja aaya dusra Raja Ko maar ke Chala Gaya aisi useless chijen padenge to Aisa hi hoga janab Hindustan ka education system sabse ghatiya gira hua Ganda Hai iske andar aapko vah chijen sikhai jaati Hai Jo aapke liye Life mein kahin use nahin aati",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "that's because of over population man. Now here the IT or corporate companies can't hire too many. They simply don't have to. They will hire only to fulfill their requirements. Ab population hi jada hai toh kya kar sakte hai",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Kyu ki vo engineering krte wakt engineering ko chhod ke sab kar rahe the unhone apne skills nahi badaye unhone programing languages nahi sukhi Me lnct का student hu aur mere batch me 170 student the aaj sabhi achi placement pe hai",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "BHAI AUR JAM KE PAIDA KARO SAB .........ABHI HAMARI ABADI BAHUT KAM HAI .....OUR GOAL SHOULD BE 200 CR IN COMING 10 YEARS ......TAB JAKE SAB KO NAUKRI MILEGI",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Agar grad hoke ghar bethe hai…to khud se sawal puchna chahiye ki kuch kaam aata bhi hai",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Yaha sirf college TAG se chalta hai kaam If two person are equally skilled and equally good at every aspect but one is from tier 1 college and second from tier 2 Tier 1 guy will be selected",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Zindagi se kuch expectations matt rakho bass krte jao you will start enjoying the life",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Reservation hatao nhi toh or beda garg hoga desh ka... Ya rona band karo kyu India se bahar chala jata hai talent 😢",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Ye wohai hai na Jo सबको ladwana Chahata hai",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "In future doctor bhi same path pe honge 😢",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Apke jayse Gyan to nahi hain😢 Par sir iye jarur kehna chahunga ki B tech karke first of All skills update nahi ho raha kyu ki college mein Thik se parai nahi jata or Students bhi parna nahi chata Mahol hain hi nahi college mein parne layek Kuch Chuninda Colleges Ko chorke Baki sab college me hal ak hi hain Dosh 60/40 hain",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Bhai tum dono kon ho jo gyan pel rhe ho😅😅",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Chatgpt se batcha bhi easy coding kar sakta he abhi 😂",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Ai ki vajah se paise bachte hain yeh companies bevcud banayi hain hum ko hamari govt ka bhi fault",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Late ho gaye batane me.2022 se pata hai jo Dr.Ankit Shah ko sunte hai",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "5:24 China me log sabhi menial jobs, farming, handi jobs kyon karte hai ab logo ko pata chalega...jo log ye sab kar rahe hai china me voh bhi achchi life ji rahe hai(kamana aur spend karna), shayad yaha bhi aese hi hoga.",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "I m confused. Mere pahachan me kisi bhi software engineer ki job nahi gayi...",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Sir kay emergency situation aa gaya hai IT sector mein",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Ab india me coding introduce ki gayi hai , jab tak woh graduate honge it will be worthless skill",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Right when India was about to use ut manpower to grow.. AI ne band baja di..",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Mein toh abhi se Farm land kharidne ka plan kar raha hu.",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "In sare company ekdin AI ki wajah se NIFTY 50 list se bhi bahar jayenge 😂",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Bhai logo ke pass paise nahi to kya ghanta economy badhega",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Agar productivity badhegi aur employment kam hoga to ye sab consume kon karega? Slow down aa jayega",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "jobs bahot hain problem ye h ki ab soft engineer bhi bahot ho gaye h",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "me khud layoff hogya company se kismat hi karab h",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "4 sal ka experience hai in QA, smj nh aarha kya kru, shadi k umr hogyi hai, krunga to fs jaunga hib gyi to. Parents bhi hai. Skill upgrade krke koe fayda lg nhi rha",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Ye jo gcc aa rahe hai wo Pakistan government ki vajah se aa rahe hai 😂😂😂..... Pagal aadmi",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Core branch walo me Khushi ki lahar 😂 let's dance 😂",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Ye BJP wale bahut badmash hai , Ai bana ke chamchon 🥄 ko beRozgaar kar diya 🤣",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Govt should close all skill India courses related to IT industry. Itna jobless engineers pehle se ghum rahe hain, aur jobless log kyun create karna.",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Bhaiya Bokaro kb aa rhe ho. Ekk meetup rakh lijiye🙂",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "2nd year ma hu 20 hajar ki job kar raha hu. i think thik thak start ha And in my company, hamara pas claude, Gemini, lovable etc ka tagda subscription ha fir bhi roj hame bugs face karna padta ha jisko solve karna ma dimag kharab ho jata ha.",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Bhai aap youtube alorithms ke bharose mat rahiye. Mindless nachgana will always win over mindful content. You can directly open an option for monetary contribution for people who wish to contribute who got benefitted.",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "or 2 3 sal mai wev dev to gaya . jo jo kuch kehe le apne courses ko bechne keliye.",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Yahan skilled hoke bhi 5000 Rs per month ki job nahi mil rahi hai.😢",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Ab service class ko chaiye ladli behena...",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "1 saal phle tak log bol rhe the ai se kuch nhi hoga sab faltu ke hype h 😂",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Hrr 2 min pe government ko kosne lge ho, kya tum Ravish Kumar ko dekhne lge ho",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "i m software architect , toh aapke hisaab se , saari it company ka revenue aadha ho jaega agar AI hi sab karega toh, what about responsibilities and trust in prod 😂😂",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "yaar bhai ek to ye darra ker rakhata hai job jaa rahi hai",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Ham Bihar Se Hai Bhaiya",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Fear Mongering .. thumbnail se chalu ..",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Bhai jobloss par aur kitna content banayega? Your every second video is about this. Sadly, you are using the same click bait. Bhaiyya: any new ai tool in the market= jobloss content. Others: Let's showcase this new ai tools ability.",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Sir I am from dhanbad app se kaie mil sakte hai",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Late ho gaye batane me.2022 se pata hai jo Dr.Ankit Shah ko sunte hai",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "5:24 China me log sabhi menial jobs, farming, handi jobs kyon karte hai ab logo ko pata chalega...jo log ye sab kar rahe hai china me voh bhi achchi life ji rahe hai(kamana aur spend karna), shayad yaha bhi aese hi hoga.",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "I m confused. Mere pahachan me kisi bhi software engineer ki job nahi gayi...",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Sir kay emergency situation aa gaya hai IT sector mein",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Ab india me coding introduce ki gayi hai , jab tak woh graduate honge it will be worthless skill",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Right when India was about to use ut manpower to grow.. AI ne band baja di..",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Mein toh abhi se Farm land kharidne ka plan kar raha hu.",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "In sare company ekdin AI ki wajah se NIFTY 50 list se bhi bahar jayenge 😂",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Bhai logo ke pass paise nahi to kya ghanta economy badhega",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Agar productivity badhegi aur employment kam hoga to ye sab consume kon karega? Slow down aa jayega",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "jobs bahot hain problem ye h ki ab soft engineer bhi bahot ho gaye h",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Tab to study Kar baykar hai",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Ye bat right hai bhai ye mere saath hua hai bhai 😢😢😢😢",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "🤣🤣🤣 Narendra Modi ki kya Jarurat hai AI ko hi PM bana do🤣🤣🤣. Politician ki Jagah AI ko replace kar do phir dekhi Bharat kaha se kaha tak pahunch jayega.",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Bhai achha hi haina call centers band hua toh Bohut saare online scams fraud calls bohut saare call centers ke wajah se hi hora hain",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Bhai ki khusi too dekho......... Uneducated",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Yeh kabhi bhi nahi ho sakta hai",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "❤👍🙏🌹 very nice aapko Dil se salam hai bhai gajab hai esi jankari wali video dikhana badiya hai lajawab hai ❤🌹👍🙏",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Bharat me bacha paida krna band kro gareeb log 100 crore unke khilaf an action hoga encounter ka agar baccha paida kia toh Degree lene ka koi fyda wyda nai bs dukan khol lo jaldi s koi bhi policy s kuch nai ho paega",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Ai kab deshbhakt ko replace 😂kare ga",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Aapna hall tu townhall hai.",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Hum bhi ussi berojgar 15 lakh logo ka hissa hein 🥲",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Engineers ko aur kitne jhatke milenge😂😂",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Ham to fakeer aadmi hai Jhola leke chal bpadenge",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Bhai tum jaise YouTube content creator aur baad Jaye to 10 saal me news channel to replace kar denge - lag raha koi news reporter prime time me news de raha hai - no research just stealing content from news channel and reporting it like a news anchor -",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "AI KO GALI DENE MAJA NAI AYE GA 😂",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Humara Vikshit aur Aatma Nirbhar Bharat. Swachch Bharat mein aapka swagat hai.",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Ghanta koi job open nhi ho raha. Faltu ki batein hai ye. For the last 7 months I have been looking for a job. Hardly one or two calls come in a month. I am a senior java developer. Don't gaslight people.",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Very true ❤️❤️❤️ because of poor education system and college hai",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Jab kitabon ke andar hi Premchand ke phate joote Surdas ka jhopada Babli Akbar ke yuddh ek Raja aaya dusra Raja Ko maar ke Chala Gaya aisi useless chijen padenge to Aisa hi hoga janab Hindustan ka education system sabse ghatiya gira hua Ganda Hai iske andar aapko vah chijen sikhai jaati Hai Jo aapke liye Life mein kahin use nahin aati",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "that's because of over population man. Now here the IT or corporate companies can't hire too many. They simply don't have to. They will hire only to fulfill their requirements. Ab population hi jada hai toh kya kar sakte hai",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Kyu ki vo engineering krte wakt engineering ko chhod ke sab kar rahe the unhone apne skills nahi badaye unhone programing languages nahi sukhi Me lnct का student hu aur mere batch me 170 student the aaj sabhi achi placement pe hai",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "BHAI AUR JAM KE PAIDA KARO SAB .........ABHI HAMARI ABADI BAHUT KAM HAI .....OUR GOAL SHOULD BE 200 CR IN COMING 10 YEARS ......TAB JAKE SAB KO NAUKRI MILEGI",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Agar grad hoke ghar bethe hai…to khud se sawal puchna chahiye ki kuch kaam aata bhi hai",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Yaha sirf college TAG se chalta hai kaam If two person are equally skilled and equally good at every aspect but one is from tier 1 college and second from tier 2 Tier 1 guy will be selected",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Zindagi se kuch expectations matt rakho bass krte jao you will start enjoying the life",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Reservation hatao nhi toh or beda garg hoga desh ka... Ya rona band karo kyu India se bahar chala jata hai talent 😢",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Ye wohai hai na Jo सबको ladwana Chahata hai",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "In future doctor bhi same path pe honge 😢",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  },
+  {
+    "text": "Apke jayse Gyan to nahi hain😢 Par sir iye jarur kehna chahunga ki B tech karke first of All skills update nahi ho raha kyu ki college mein Thik se parai nahi jata or Students bhi parna nahi chata Mahol hain hi nahi college mein parne layek Kuch Chuninda Colleges Ko chorke Baki sab college me hal ak hi hain Dosh 60/40 hain",
+    "scenario": "layoff_news",
+    "typical_emotions": [
+      "shocked",
+      "sad",
+      "worried",
+      "angry",
+      "uncertain"
+    ],
+    "do": [
+      "Show genuine empathy",
+      "Offer practical support",
+      "Be there to listen",
+      "Help with next steps"
+    ],
+    "dont": [
+      "Say 'you'll find something better'",
+      "Minimize the loss",
+      "Give unsolicited advice",
+      "Make it about yourself"
+    ],
+    "tone": "caring friend - empathetic and supportive",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Offer resume help",
+      "Share job leads",
+      "Provide emotional support",
+      "Help with networking"
+    ]
+  }
+]

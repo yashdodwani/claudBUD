@@ -1,0 +1,42 @@
+[
+  {
+    "text": "Entender o conceito de base é fundamental para resolver conflitos de mesclagem. O novo editor de mesclagem do Visual Studio Code permite visualizar as alterações atuais, as alterações recebidas e a base, facilitando a resolução dos conflitos. momentos-chave: 00:00 As fusões de código podem ser confusas, mas ao entender o conceito de ancestral comum, torna-se mais fácil resolver conflitos de mesclagem. Vamos explorar o editor de mesclagem no Visual Studio Code juntos. -Entendendo a estrutura de u",
+    "scenario": "git_conflict",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Khana kaise banate Jaise banate hai😂😂😂",
+    "scenario": "git_conflict",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Thank you so much bhai",
+    "scenario": "git_conflict",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "The video that actually deserves to be viewed, a true lifesaver, video tha compelled me to comment on",
+    "scenario": "git_conflict",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  }
+]

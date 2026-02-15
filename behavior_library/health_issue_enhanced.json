@@ -1,0 +1,3567 @@
+[
+  {
+    "text": "\"Ye Brahmin hai.. maaro..maaro ise.. Mere kapde faade... Meri video banayi.. Jab tak main behosh nahi hone lagi tab tak mujhe maarte rahe.\" - Journalist Ruchi Tiwari who was groped and attacked by pro UGC protesters in DU. source :",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Ye video Non medicos ko bhi dekhna chahiye",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "BA student lakin ye kya pdna pdh rha h iss sey acha farmacy ker lete 😅",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Sir environment issue in public health pe vedío bano",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Bohot acche se padha te hai aap ❤",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Ham aap se devet kr skte h",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Peopletion Se nhi h sir",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Sar aapki class se kab tak Chalti Hai",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Doctor milne se kya hota hai. Where are the resources, infrastructure, management, beds, medicines, staff. And direct specialist dr milke bhi kya hoga. It should be the GP who should decide whether we need a specialist really. A GP ( mbbs) can manage 75% of the cases. Because of this specialist ka bolbala we hardly find a good GP nowadays nearby in our societies.",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "So basically isme government ka issue nahi isme logo ka issue he khas kar ye private ya sarkari doctors ka ye log health ko business samajte he",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Our health system is far better than USA… i lived in USA and came back to India just for better health care .. trust ne",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Youtuber ko sun sun kar aur unhealthy hote ja re h.",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Sir kuch aisa vitamin suggest kar dejiye jo 18+ male kha sake or protein or other vitamins ko puri kar sake",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "uric acid pe video banaye and solution",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Bilkul sir ham to chote se farm me kaam karte hayn ji sir January ke mahine me v paina aata hay,kyunki kaam thoda aesa hi hay sir 50 kg ka bora uthana padta hay aur v bahut se kaam karta hun sir 🙏",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "mutth maarne ki vajah se",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Milawat itna hai wo kaun dekhenga",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Indian unhealthy hei kiyu ki doctor logo ko aware karne ki jagah logo ko anab sanab khana ko support karte hei.",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Sbse badi baat bhai tum bi unhealthy hi ho aur dikh bi rhe ho",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Indian khana bhut acha hai, gaon k logo ko jakar dekh lo jo shirf Indian khana khate hai, aaj k log fast food khate hai bhut or yha k log physical activity kam karte oh problem hai bs",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "India me koi obese nahi h bas jo skinny h vo kamjor h 😂",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Mai to underweight hu pr koi bimaari nhi h mujhe... Pr log itna sunaate h.... Underweight hone ki vjeh se.... Jbki unko 70 bimaari lgi hui h or mujhe ek bhi ni h",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Bhai jo sabko pata hai wahi bata rahe ho. Koi solution ya proper diet in low budget batate to log follow karte. Solution kuchh nahi bas problems bata rahe ho jo sabko pata hai. India me poori diet ki wajah finance hai. Low budget me kuchh achhi diet batao to logo ka bhala hoga",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Main problem hai stress or depression iski wajah se bhi kai bimariya jo ho nahi sakti woh bhi ho rahi hai",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Tabhi toh thelaa walaa crorepati ho rahe hein😅",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Aur ye sab karke hamlog amar ho jayenge 😂😂😂😂",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Bhai thoda smile bhi kiya kro",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Contact number Mera bhi karna hai surgery",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Sister mujhe Ot ke baare me bata dijiye aap ne kaise padha",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Lap coll colostomy hi hua hai dad ka nair hospital me 😢and aaj hi yeh vedio reel me aya ❤",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "11th ke questions nhi aayenge kya sir",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "App kitne Aachi lagti ho😊😊😊",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Di OT kitne year ka course hota h please reply",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "OT best hai ya nursing for girl",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Aap ot course kha se kiya",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Please tell me ot course mai injections , cannula etc ye sb seekthi haitlb syllabus mai hai",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Apka.man padhai m nhi lag rha hai,😢",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Kitna Pisa lagta hai ot technician course dii",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "OT ka paper hindi me aata hai ya english me please reply me",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Aapne kis college se kiye ho OT course",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Monthly salary kinta milta hai",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Yrr tum lgti bhut mst ho ❤❤❤",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Ot kitne time ka hota hai . Kon kon es course ko kr skte hai",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Bechara patient itna bada surgery ho raha hai",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Ahana ji ot or bsc nursing me kya better hai",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Aap ne kon se exam clear Kiya hai government job for OTT bale",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Didi aap kaha se ho kon sí colig se OT krrhi hó",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Didi...kalyani aiims e ki uterine fibroid er surgery korano hoi...ektu janale help hoi",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Apne kone college se bsc ott kiya",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Hlo didi aap ka government job mil gayi hai OT me ya abhi hospital in pravte job kar rahe ho please reply",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Bhai aapke balls be cricket ball nahi lagi kya kabhi. That pain is a million times more than any pain. I've seen it . A brother got hit by a cork ball and he fell down. Even his eyes rolled up 😬😬😐😰😨",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "bhiya age kitni hai aap ki",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Ap kis college me ho?",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Bhaiya up ms kar rahe kea?",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Bhut hi axi hai video ❤",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Bhai sake gossip ka Japan volg dekh rhe the kya",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Mummy mujhe kyu paida kiya yar 😭 pr ab koi nhi ho gayi to ho gayi",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Bhai tumhare clg me final year me dikhate toh hein hamare yahan baas ignore bahut muskil se koi milta hey kuch pratical padhane ko",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Man hi hai jo 9 mahine garbh mein rakhti hai❤❤❤❤❤❤❤❤❤",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Aapka video bahut acha lagta hai because kuch sikhne ko milta hai hamesha 😊",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Bhai plzz contact me plzzz I want you to meet someone my brother face is same as your face",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Dada..ap kon se college me ho? Name batao please...aur ye govt. hai ya private.? Pls reply Karo....",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Bhaiya neet ki taiyari kaise kre",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Bro meri crush bhi neet kar rehi hai dekh raha hu kaya kamine bachhe hai 😂😂😂😂 just joking 😃😃",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Tu dr bnke nikl fir dekhta hu kya seekha be tune",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Bhai tum aiims delhi se hina❤",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Ye video Non medicos ko bhi dekhna chahiye",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "BA student lakin ye kya pdna pdh rha h iss sey acha farmacy ker lete 😅",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Sir environment issue in public health pe vedío bano",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Bohot acche se padha te hai aap ❤",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Ham aap se devet kr skte h",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Peopletion Se nhi h sir",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Sar aapki class se kab tak Chalti Hai",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Doctor milne se kya hota hai. Where are the resources, infrastructure, management, beds, medicines, staff. And direct specialist dr milke bhi kya hoga. It should be the GP who should decide whether we need a specialist really. A GP ( mbbs) can manage 75% of the cases. Because of this specialist ka bolbala we hardly find a good GP nowadays nearby in our societies.",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "So basically isme government ka issue nahi isme logo ka issue he khas kar ye private ya sarkari doctors ka ye log health ko business samajte he",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Our health system is far better than USA… i lived in USA and came back to India just for better health care .. trust ne",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Youtuber ko sun sun kar aur unhealthy hote ja re h.",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Sir kuch aisa vitamin suggest kar dejiye jo 18+ male kha sake or protein or other vitamins ko puri kar sake",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "uric acid pe video banaye and solution",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Bilkul sir ham to chote se farm me kaam karte hayn ji sir January ke mahine me v paina aata hay,kyunki kaam thoda aesa hi hay sir 50 kg ka bora uthana padta hay aur v bahut se kaam karta hun sir 🙏",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "mutth maarne ki vajah se",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Milawat itna hai wo kaun dekhenga",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Indian unhealthy hei kiyu ki doctor logo ko aware karne ki jagah logo ko anab sanab khana ko support karte hei.",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Sbse badi baat bhai tum bi unhealthy hi ho aur dikh bi rhe ho",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Indian khana bhut acha hai, gaon k logo ko jakar dekh lo jo shirf Indian khana khate hai, aaj k log fast food khate hai bhut or yha k log physical activity kam karte oh problem hai bs",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "India me koi obese nahi h bas jo skinny h vo kamjor h 😂",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Mai to underweight hu pr koi bimaari nhi h mujhe... Pr log itna sunaate h.... Underweight hone ki vjeh se.... Jbki unko 70 bimaari lgi hui h or mujhe ek bhi ni h",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Bhai jo sabko pata hai wahi bata rahe ho. Koi solution ya proper diet in low budget batate to log follow karte. Solution kuchh nahi bas problems bata rahe ho jo sabko pata hai. India me poori diet ki wajah finance hai. Low budget me kuchh achhi diet batao to logo ka bhala hoga",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Main problem hai stress or depression iski wajah se bhi kai bimariya jo ho nahi sakti woh bhi ho rahi hai",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Tabhi toh thelaa walaa crorepati ho rahe hein😅",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Aur ye sab karke hamlog amar ho jayenge 😂😂😂😂",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Bhai thoda smile bhi kiya kro",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Contact number Mera bhi karna hai surgery",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Sister mujhe Ot ke baare me bata dijiye aap ne kaise padha",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Lap coll colostomy hi hua hai dad ka nair hospital me 😢and aaj hi yeh vedio reel me aya ❤",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "11th ke questions nhi aayenge kya sir",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "App kitne Aachi lagti ho😊😊😊",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Di OT kitne year ka course hota h please reply",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "OT best hai ya nursing for girl",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Aap ot course kha se kiya",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Please tell me ot course mai injections , cannula etc ye sb seekthi haitlb syllabus mai hai",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Apka.man padhai m nhi lag rha hai,😢",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Kitna Pisa lagta hai ot technician course dii",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "OT ka paper hindi me aata hai ya english me please reply me",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Aapne kis college se kiye ho OT course",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Monthly salary kinta milta hai",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Yrr tum lgti bhut mst ho ❤❤❤",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Ot kitne time ka hota hai . Kon kon es course ko kr skte hai",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Bechara patient itna bada surgery ho raha hai",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Ahana ji ot or bsc nursing me kya better hai",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Aap ne kon se exam clear Kiya hai government job for OTT bale",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Didi aap kaha se ho kon sí colig se OT krrhi hó",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Didi...kalyani aiims e ki uterine fibroid er surgery korano hoi...ektu janale help hoi",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Apne kone college se bsc ott kiya",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  },
+  {
+    "text": "Hlo didi aap ka government job mil gayi hai OT me ya abhi hospital in pravte job kar rahe ho please reply",
+    "scenario": "health_issue",
+    "typical_emotions": [
+      "worried",
+      "sick",
+      "tired",
+      "anxious",
+      "uncomfortable"
+    ],
+    "do": [
+      "Show genuine concern",
+      "Offer practical help",
+      "Suggest rest/doctor",
+      "Check in on them"
+    ],
+    "dont": [
+      "Diagnose or give medical advice",
+      "Minimize their illness",
+      "Make them feel guilty",
+      "Be overly dramatic"
+    ],
+    "tone": "caring friend - concerned and helpful",
+    "humor_allowed": false,
+    "action_suggestions": [
+      "Wish speedy recovery",
+      "Offer to bring food/medicine",
+      "Suggest doctor visit",
+      "Check in regularly"
+    ]
+  }
+]

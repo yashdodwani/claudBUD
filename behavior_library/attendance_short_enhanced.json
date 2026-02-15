@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Failed to connect to proxy. Iska kya Mtlb hai",
+    "scenario": "attendance_short",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Sir, no proxy is shown on my iPhone. I am using SE.",
+    "scenario": "attendance_short",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Plz bhai proxy da do plz ❤❤",
+    "scenario": "attendance_short",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Ye karne se kya hota h",
+    "scenario": "attendance_short",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Ager kia laptop main wifi lgi hvi hai to os main sy Kesy port or adress Nikal sakty hain",
+    "scenario": "attendance_short",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  },
+  {
+    "text": "Bhai yeh nikalty Kesy hain kisi system sy yeh btao",
+    "scenario": "attendance_short",
+    "typical_emotions": [],
+    "do": [],
+    "dont": [],
+    "tone": "neutral",
+    "humor_allowed": false,
+    "action_suggestions": []
+  }
+]
