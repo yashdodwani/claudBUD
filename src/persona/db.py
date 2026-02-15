@@ -43,21 +43,18 @@ class MongoDB:
         if not uri:
             raise ValueError("MONGO_URI not found in environment")
 
-        # Connect with proper SSL/TLS configuration for MongoDB Atlas
-        # These settings handle SSL handshake issues in production environments
+        # Connect with proper configuration for MongoDB Atlas
         try:
-            import ssl
-
             cls._client = MongoClient(
                 uri,
-                tls=True,
-                tlsAllowInvalidCertificates=True,
                 serverSelectionTimeoutMS=5000,
                 connectTimeoutMS=5000,
-                socketTimeoutMS=5000,
-                # Disable SSL certificate verification for compatibility
-                ssl_cert_reqs=ssl.CERT_NONE
+                socketTimeoutMS=5000
             )
+
+            # Test connection
+            cls._client.admin.command('ping')
+
         except Exception as e:
             print(f"MongoDB connection error: {e}")
             # Don't raise - let app work without MongoDB
@@ -69,9 +66,16 @@ class MongoDB:
         if cls._client:
             try:
                 cls._db = cls._client.get_database()  # Uses default database from URI
-            except:
+            except Exception as e:
+                print(f"Database selection error: {e}")
                 # If no database in URI, use default name
-                cls._db = cls._client["buddy_ai"]
+                try:
+                    cls._db = cls._client["buddy_ai"]
+                except Exception as e:
+                    print(f"Failed to create default database: {e}")
+                    cls._client = None
+                    cls._db = None
+                    return None
 
         return cls._db
 
