@@ -1,0 +1,4559 @@
+[
+  {
+    "text": "\"Ye Brahmin hai.. maaro..maaro ise.. Mere kapde faade... Meri video banayi.. Jab tak main behosh nahi hone lagi tab tak mujhe maarte rahe.\" - Journalist Ruchi Tiwari who was groped and attacked by pro UGC protesters in DU. source :",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Tu mujhe se pyar karte ya nahi karti 😅😂yeh batao 🤣😂",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "akka suvi ki makeup ekkuva aindi akkq",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Shikshak ka very super Deepavali",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Aapki bahut bada wala dance dikhao happy Diwali 🎇🎇🎇🎇🎇🎇🎇🎇🎇🎇🎇🪔🪔🪔🪔🪔🪔🪔🪔🪔🪔🪔",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "😅😅😅😅😅😅😅😅 ipop Hai mast mast",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Bhai sahab ke to alag hi hote hain na kya baat kar rahe ho",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Kaun se colour ki chaddi pahne Hue didi",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Jai Mata di, 🙏😇last month before Diwali🎉kuch video dekhe aapki... Nice recipes seems yummy 😋too... But truly speaking try nahi kr paye.... But aaj bahut khushi hue as.. Frm Rasoi😊to home decorations specially on this pious occasion🎉🎉❤Matarani asp dono ko hamesha sath sath rakhe aur hamesha pyar bana rahe... Sath mei Rangoli banana panditji ko bhojan 😊laxmi ji ka Agman ki sajawat 🎉u both r perfect couple👌🤞💝beta ko kuch extra sekhna ki jarurat nahi padega😊... Jo bachche dekhte hai vo hee krte hai.",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Chan sundar hai dhayree Pune se hi",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Aapke bete ko kitne no. Ka chashma h meri beti ko b h",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "AAPKO CHANGE HOTE DEKH ...AAP KA PROGRESS HOTE DEKH KHUB KHUSHI HOTI HAII DEAR ❤LY",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Aek dam bahut buri kiyu ki ham muslim hai Hindu nahi😮",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "😊 Islami bahut harami apna tyohar nahin Hai",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Kyon tuti Muslim thi na Diwali mein ja rahi ho",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Sabse ganda dress pahani hai to makeup Karti Hai har roj",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Hello Maria kha se hai aap",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Abhi aap to Musalman Ho lekin aisa lagta hai ki Hindu Ho😢😢",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "muslim mein mana hai dance mena hai",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "App ye mat samjhe kids Ye galat hai parntu yeah toh inke dusre religion ko respect de Rahul hai",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Astakfirrulla aap Muslim hai tabhi bhi Diwali mnati hai😢😢",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Aap Hindu ho ya Muslim aap Hindu jaise kam karte ho mujhe to aap Hindu Hi lagti ho Muslim Nahin",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Muslim ho or diveli mena rihi ho be shetm",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Umriya appi Tum Hindu ho kya tumhen jab bhi dekhti Hun Tum hinduon ka tyohar manati firti rahti Ho",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Kitna ganda makeup kya tumne our kitna bakti ho pagal ladki tum mujhe bilkul nahi pasand",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Kya aap Hindu ho kya Diwali banaa rahi ho😮😮😮",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Ap kitne class me padhti ho",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Apke ghar bhi diwali manate hai",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Tum to umrah pr gyi thii aur ab dance kr rahii hoo khuda ka khauf kro",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Diwali hamre liye haram hai😢",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Haye tumhara school kitan aacha jis school mai mai jati hu vo itna itna itna magta hai pucho hi maat na 😅😆😆",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Aap Hindu hai ki musalman vah batao musalmanon ke Hindi",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Mare kya tum Hindu Ho😮😮😮😮😮😮😮😮🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Mariya kya tum Hindu Ho",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Sharm nahin aati tumhen Umra karne ke bad Nach gana kar rahi ho doob Maro chullu bhar pani mein jahil ladki",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Guys inlog ko chodo garib ko subscribe kro in log haram ka udte ha 😢",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Acha tu mm too muslim ho",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Tu bhaad me jaa hum log ko kyu Bata Rahi hai",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Ap muslim ho ya non muslim Kuiki ap hajj umrah bi karti ho aur divali celebration karti ho",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Maya didi aap to Muslim hai na to aap log bhi Diwali manate Hain Kya ham log to Hindu Hai ham log ka to sabse bada parv Hai per aap log ka to sabse bada parv Eid hai namaste aap Hukum ko😊",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Aap musalman ho parfeum na mara karo",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Desh Mera Jaisa tha Vaisa Hi Rahega Dekha India ka kamal❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤😂❤❤❤❤❤❤❤❤❤❤🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Kashish😂😂😂😂😂😂 Bura Na Mano Holi hai😂😂😂",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Jyada hi tarah rahi hai Kashish pagal attitude mat maar",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Aaj Kya Holi hai 8 February Sunday hai",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Meri friend ke sath bahut bura hua😢😢",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Holi per bhi Nach Rahe ho Holi per bhi Nach Rahe pakka",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Didi jitna rang aapke last tak laga tha na us se jada rang to hame starting me 1 bande se hi la😊gta he 😅😂😂😂😂",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Please apni hair style share karo aapki hair style acchi lag rahi hai aapane choti kaise banai hai please YouTube per dalo",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Plzz mishti dii aap ye wala hair style ka vedio bana dijiye please",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Ji aap apni bhabhi ko bhabhi nahi bolte ho kya",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Kafi saloon baad Holi khelne ka Mann hua?👀 Haar saal holi atti hai vese",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Bhai bacche ka face toh waise bhi dikh raha hai toh fir chupa kun rahe ho😒koi celebrity bhi apne baccho ke face ese nahi chupate jaise app log chupa rahe ho",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Aapki hairstyle ka video dalna kaise banate Ho",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Jo hairstyle bnana hai aapne es video me please aap ka video bnao na",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Bhai baache ka face to dikh hi gaya to blur marne ki kya zarrurat thi",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Puri simple dikhne ki kosis kr rhi ho lekin pura mekup ki ho acchi nhi lg rh",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Hello didi hair fall control kuch suggest kar dijiye",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Aap ye hair style ka video share kro plzzz",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Hello Misty Di aap mujhe jhalak soni ke jaise lgte ho 😅😊❤",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Aap chiku ko kyu nahi dikha ho",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Iski bhen kitni non sense hai",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "YouTube ki picture change kro",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Jatin bhai ki bhen be like rakshabandhan par or loot machungi ro ka 😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Bhi to apni ki shadi mujsa karva ❤",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Lekin bhai kutte to hai na kutte ladki ho rahi thi😅",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Apki behan meri class me hai",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Ye hamne bhi kiya hai",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Aap thode niraj bhai jaise lagte ho 😊",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Bhai meine aapka video pahle dekha tab se aaj mila hai❤❤",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Aapki voice ko kya hua 😅😊",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Meri bahen Jamin par pehli Hui hai 😂😂",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Ye Kam mujhko soop diya jata hai mai karunga 😂😂",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Bhaiya ke dost ke nail pe nailpolish lag rahi hai 😂😂 black colour ki devil's wali 👿👿",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "mujhe lagta tha ki mujhe hi holi sepehle ki raat nind ni aati",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Tu mujhe se pyar karte ya nahi karti 😅😂yeh batao 🤣😂",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "akka suvi ki makeup ekkuva aindi akkq",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Shikshak ka very super Deepavali",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Aapki bahut bada wala dance dikhao happy Diwali 🎇🎇🎇🎇🎇🎇🎇🎇🎇🎇🎇🪔🪔🪔🪔🪔🪔🪔🪔🪔🪔🪔",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "😅😅😅😅😅😅😅😅 ipop Hai mast mast",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Bhai sahab ke to alag hi hote hain na kya baat kar rahe ho",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Kaun se colour ki chaddi pahne Hue didi",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Aek dam bahut buri kiyu ki ham muslim hai Hindu nahi😮",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "😊 Islami bahut harami apna tyohar nahin Hai",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Kyon tuti Muslim thi na Diwali mein ja rahi ho",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Sabse ganda dress pahani hai to makeup Karti Hai har roj",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Hello Maria kha se hai aap",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Abhi aap to Musalman Ho lekin aisa lagta hai ki Hindu Ho😢😢",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "muslim mein mana hai dance mena hai",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "App ye mat samjhe kids Ye galat hai parntu yeah toh inke dusre religion ko respect de Rahul hai",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Astakfirrulla aap Muslim hai tabhi bhi Diwali mnati hai😢😢",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Aap Hindu ho ya Muslim aap Hindu jaise kam karte ho mujhe to aap Hindu Hi lagti ho Muslim Nahin",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Muslim ho or diveli mena rihi ho be shetm",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Umriya appi Tum Hindu ho kya tumhen jab bhi dekhti Hun Tum hinduon ka tyohar manati firti rahti Ho",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Kitna ganda makeup kya tumne our kitna bakti ho pagal ladki tum mujhe bilkul nahi pasand",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Kya aap Hindu ho kya Diwali banaa rahi ho😮😮😮",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Ap kitne class me padhti ho",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Apke ghar bhi diwali manate hai",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Tum to umrah pr gyi thii aur ab dance kr rahii hoo khuda ka khauf kro",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Diwali hamre liye haram hai😢",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Haye tumhara school kitan aacha jis school mai mai jati hu vo itna itna itna magta hai pucho hi maat na 😅😆😆",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Aap Hindu hai ki musalman vah batao musalmanon ke Hindi",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Mare kya tum Hindu Ho😮😮😮😮😮😮😮😮🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Mariya kya tum Hindu Ho",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Sharm nahin aati tumhen Umra karne ke bad Nach gana kar rahi ho doob Maro chullu bhar pani mein jahil ladki",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Guys inlog ko chodo garib ko subscribe kro in log haram ka udte ha 😢",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Acha tu mm too muslim ho",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Tu bhaad me jaa hum log ko kyu Bata Rahi hai",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Ap muslim ho ya non muslim Kuiki ap hajj umrah bi karti ho aur divali celebration karti ho",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Maya didi aap to Muslim hai na to aap log bhi Diwali manate Hain Kya ham log to Hindu Hai ham log ka to sabse bada parv Hai per aap log ka to sabse bada parv Eid hai namaste aap Hukum ko😊",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Aap musalman ho parfeum na mara karo",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Sami malish karne crackers Rajasthan mein",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Today please repu velthanu malli kadapa ki",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Desh Mera Jaisa tha Vaisa Hi Rahega Dekha India ka kamal❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤😂❤❤❤❤❤❤❤❤❤❤🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Kashish😂😂😂😂😂😂 Bura Na Mano Holi hai😂😂😂",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Jyada hi tarah rahi hai Kashish pagal attitude mat maar",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Aaj Kya Holi hai 8 February Sunday hai",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Meri friend ke sath bahut bura hua😢😢",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Holi per bhi Nach Rahe ho Holi per bhi Nach Rahe pakka",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Didi jitna rang aapke last tak laga tha na us se jada rang to hame starting me 1 bande se hi la😊gta he 😅😂😂😂😂",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Please apni hair style share karo aapki hair style acchi lag rahi hai aapane choti kaise banai hai please YouTube per dalo",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Plzz mishti dii aap ye wala hair style ka vedio bana dijiye please",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Ji aap apni bhabhi ko bhabhi nahi bolte ho kya",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Kafi saloon baad Holi khelne ka Mann hua?👀 Haar saal holi atti hai vese",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Bhai bacche ka face toh waise bhi dikh raha hai toh fir chupa kun rahe ho😒koi celebrity bhi apne baccho ke face ese nahi chupate jaise app log chupa rahe ho",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Aapki hairstyle ka video dalna kaise banate Ho",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Jo hairstyle bnana hai aapne es video me please aap ka video bnao na",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Bhai baache ka face to dikh hi gaya to blur marne ki kya zarrurat thi",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Puri simple dikhne ki kosis kr rhi ho lekin pura mekup ki ho acchi nhi lg rh",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Hello didi hair fall control kuch suggest kar dijiye",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Aap ye hair style ka video share kro plzzz",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Hello Misty Di aap mujhe jhalak soni ke jaise lgte ho 😅😊❤",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Aap chiku ko kyu nahi dikha ho",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Iski bhen kitni non sense hai",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "YouTube ki picture change kro",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Jatin bhai ki bhen be like rakshabandhan par or loot machungi ro ka 😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Bhi to apni ki shadi mujsa karva ❤",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Lekin bhai kutte to hai na kutte ladki ho rahi thi😅",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Apki behan meri class me hai",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Ye hamne bhi kiya hai",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Aap thode niraj bhai jaise lagte ho 😊",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Bhai meine aapka video pahle dekha tab se aaj mila hai❤❤",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Aapki voice ko kya hua 😅😊",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Meri bahen Jamin par pehli Hui hai 😂😂",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Ye Kam mujhko soop diya jata hai mai karunga 😂😂",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "Bhaiya ke dost ke nail pe nailpolish lag rahi hai 😂😂 black colour ki devil's wali 👿👿",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  },
+  {
+    "text": "mujhe lagta tha ki mujhe hi holi sepehle ki raat nind ni aati",
+    "scenario": "festival",
+    "typical_emotions": [
+      "happy",
+      "excited",
+      "celebratory",
+      "joyful",
+      "festive"
+    ],
+    "do": [
+      "Share festive wishes",
+      "Be culturally respectful",
+      "Match their energy",
+      "Ask about celebrations"
+    ],
+    "dont": [
+      "Be culturally insensitive",
+      "Ignore the festival",
+      "Be boring",
+      "Dismiss traditions"
+    ],
+    "tone": "festive friend - warm and celebratory",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Send festive wishes",
+      "Ask about plans",
+      "Share festival vibes",
+      "Plan celebration together"
+    ]
+  }
+]

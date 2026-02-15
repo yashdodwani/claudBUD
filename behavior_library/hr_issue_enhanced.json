@@ -1,0 +1,4218 @@
+[
+  {
+    "text": "HR ne reject kar diya yaar bina reason 😔",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "HR ka call aaya bhai nervous hu",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "HR ghost kar diya yaar koi response nahi",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Offer letter delay ho raha seriously kya scene",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Salary negotiation fail ho gaya bhai",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "HR ne reject kar diya yaar bina reason 😔",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "HR ka call aaya bhai nervous hu",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "HR ghost kar diya yaar koi response nahi",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Offer letter delay ho raha seriously kya scene",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Salary negotiation fail ho gaya bhai",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "HR ne reject kar diya yaar bina reason 😔",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "HR ka call aaya bhai nervous hu",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "HR ghost kar diya yaar koi response nahi",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Offer letter delay ho raha seriously kya scene",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Salary negotiation fail ho gaya bhai",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "HR ne reject kar diya yaar bina reason 😔",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "HR ka call aaya bhai nervous hu",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "HR ghost kar diya yaar koi response nahi",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Offer letter delay ho raha seriously kya scene",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Salary negotiation fail ho gaya bhai",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "hr hai wo college ka professor nhi jo tumhe ye sab shikhaye",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "HR as a profession shouldn't even exist 😂😂. Bakwass log bakwass job. Dub ke marr jaao tum log rangoli hi banana h toh apne ghar pe kro.",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Karta to sirf frustrate hai",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Acha chacha ? Talent Indentification agar na ho to Recruitment kaise hogi aur vo kaun karta hai? Organisation men Training & Development Department hoti hai which is invloved in talent development. Ijp ke madhyam se talent ko nurture kaun karta hai?.. Visison is not created by HR , but the founders HR does its role in communicating it .. HR ensures an environment which is free and fair for other to work upto their potential. Is chiz ko kaun ensure karta hai ki seniors apne juniors ko authority k",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "HR ke kaam Mein lunch karne ka time bhi nahi milta!! Itna bada muh kholne se pehle HR dept. Ke logo ki halat dekh aao real grounds par",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Pehle sbko atcha lgta hain ab Humse h puch lo lol Halath kharab ho jta hain HR main. . 😅",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Lala company mein to HR ki job. Helper se bhi buri hoti haih.",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Haaan bhai....tu budget sanction kra k de",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Sir ji, HR me bhi alag alag positions hain, based on that wo log apna kam karte hi hai, Pehale khud samajh lo sahi se HR dept ke bare me fir explanation dena,",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Sir may currently MBA from HR soch rhi thi.. toh please btaiye..KRU ya NAHI??",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Aalsi logo ki fav job 😁",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Right HR is useless department aur koi boss ko khubsurat ladki dikh gayi to use HR bana deta hai with higher package",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Badhiya hai bechara Jindagi Jee Raha hai apni jeene do usko Jindagi bharr to Marr hi Raha tha bechara",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Same kapde pehen ke jaoge toh kapdo se smell aayega hi na😂",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Bhai aajkal toh hr bhi roj same kapde pehen rahe hai. Bechari ko salary nahi mili hogi",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Sir Mai BA graduation 🎓 arts Urdu se hai kiya Mai kar sakte hai HR course",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Esi bhi koi HR rakhta hai, client meet me esi sales girls ki jarurat padti hai taki client competitor ke paas naa jae. Invest in the right place not in satisfaction",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Aisi HR ho to bina salary kaam kar lenge.",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Kya item hai kasam se!",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Bas itni khubsurat HR dekh ke toh ab interview dena zaruri ho gaya kab aajaun mashallah HR ma’am? 😍✨",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Hr ki salary kitni hoti h sir just dail m",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Hamara situation bhi asa hai 😅",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Mamta respect hi nahin hai good morning mam good afternoon mam good evening mam yah kaun bolega",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Jitna makhan lagana hai lga lo 😂 woh job reference wale ko hi dega 😅😅😂",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Kaam dene me bht saare nakhre.ki wazeh se accha staff nhi milta hai .boll bachan karne wale ko job pehle milti hai . Job k interview ko itna hard bana diya hai k job karne wala be confused ho k interview de nhi pata hai.",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Hello mai jana sonchriun dubai job ke liye as a fresher tbh zada skills nahi just degrees hai mere pas recently 2weeks bfr maine apna mba k last sem ke exams diye hai lkn kuch computer skills nahi hai mere pass so kis type ki jobs milnge udar kuch idea hai ?",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Hindi language kyuu nhi interview hota h... Kamal h indian h pr english ko lekar bethe h itni buri bt h 😢😢😢😢",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Or hame English hi nhi aati ho to😢",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Hindi me baat ni kr sakte kya maam?😢",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Ye second kutta sala bol rha hai india mai kuch nhi hua sale ka dimag khrab ho gya 🤬🤬🤬🤬🤬 logo ki jane gyi hai aur bol rha hai india me kuuch nhi hua hai chloo india ki btt choro india mai ho ya na ho pakistan me bohot kuch hoga no water no life",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Ki punjabi vich v bol sakte hai",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Darr lag rha he yaar ⚠️mai kya karu😱",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Jayaya eng math jar england bejdunga British se sakhth nafrath hai mujhe Chakde INDIA",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Tere ko job do or na do tu keya logo ko samne jukkar chalunga keya? Respect yourself",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Mam apka chehra thoda tedha ata hai aur apki nose bhi same yahi problem mere sath hai log bahut notice karte",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Nice english shikati ho mam...!!",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "English ka Alfaaz Nahin samajh mein😂😂😂😂 nahin aata hai didi😂😅 aap ki Ak Alfaaz Nahi samajh ma aaya ha 😅😅😅😅😅😅😅😅😅😅😅??? 🤔🤔👾😹😹😸👎👎👀👀👀👀👀🙎‍♀️🤷‍♀️🤦‍♀️",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Maine Aisi bola tha Mujhko to company se nikal Diya",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "\"agar vo apko baithne ke liye nahi puchte\" she : mai i take the seat sir ? me : 🧍‍♀️🧍‍♀️🧍‍♀️🧍‍♀️🧍‍♀️🧍‍♀️🧍‍♀️🧍‍♀️🧍‍♀️🧍‍♀️🧍‍♀️🧍‍♀️🧍‍♀️🧍‍♀️🧍‍♀️🧍‍♀️🧍‍♀️in the entire conversation😅",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Itniiiii izzat kaise dongi 😂😂😂bcz mai hr kisi ko itni izzat nhi deti ☠☠☠",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Or airhodtes ke intervew me kya pocha jaye ga",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Ab mujhe IAS banne se koi nahi rok sakta 😏😏",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Lekin me to 6 years ka hu didi",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Aap bahut achha samjhati hai",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "English gai bhad mein you very lovely",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Company me jop ka laya jop",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Itna sara bolne kaliae interviewer ke pass Time nhi hota Adhi baat mein Okay kehe deta hai interviewer.😅",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Etna fast to rata lag raha hai",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Interviewer knows ki aesa reply aaya toh smjh jao ki ratta lgakr aaya hai pakka",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Do you have any questions? Me : No, but if you have anything to tell me you can tell 🙂 ( last interview me humne ye bola tha 😂 )",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Interviewer : Do you have any questions? Me : Yes! Ye office band kitne baje hota hai....??😂😂",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Itni english muje iss janm me to nhi aayegi..... Mere bss ki baat nhi😢",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Interviewer:Why should we hire you? Me: Ek baap ke hoge toh kar loge sir 😅",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Interview me aisa nakhra hota hai jaise 4 ladki tumhar ghar se hum shaadi kar k lejane wale hai .ladki pasand karte samay be koi itna nakhra nhi deekhata hai",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Ladki pasand karte samay koi itna nakhara nhi dikhata hai jitna interview me nakhra deekhate hai .",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Interview me itne nakhre ho gaye hai k log interview face karna nhi chahte hai",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Skills matter nahi karti english aani chahiye bss , qq mother tongue me har koi interview me comfortable hi rahega na",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Interviewer be like :- saas to le , jawab to dene de , sab ek saath he rata hua nikal diya",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "hr hai wo college ka professor nhi jo tumhe ye sab shikhaye",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "HR as a profession shouldn't even exist 😂😂. Bakwass log bakwass job. Dub ke marr jaao tum log rangoli hi banana h toh apne ghar pe kro.",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Karta to sirf frustrate hai",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Acha chacha ? Talent Indentification agar na ho to Recruitment kaise hogi aur vo kaun karta hai? Organisation men Training & Development Department hoti hai which is invloved in talent development. Ijp ke madhyam se talent ko nurture kaun karta hai?.. Visison is not created by HR , but the founders HR does its role in communicating it .. HR ensures an environment which is free and fair for other to work upto their potential. Is chiz ko kaun ensure karta hai ki seniors apne juniors ko authority k",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "HR ke kaam Mein lunch karne ka time bhi nahi milta!! Itna bada muh kholne se pehle HR dept. Ke logo ki halat dekh aao real grounds par",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Pehle sbko atcha lgta hain ab Humse h puch lo lol Halath kharab ho jta hain HR main. . 😅",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Lala company mein to HR ki job. Helper se bhi buri hoti haih.",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Haaan bhai....tu budget sanction kra k de",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Sir ji, HR me bhi alag alag positions hain, based on that wo log apna kam karte hi hai, Pehale khud samajh lo sahi se HR dept ke bare me fir explanation dena,",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Sir may currently MBA from HR soch rhi thi.. toh please btaiye..KRU ya NAHI??",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Aalsi logo ki fav job 😁",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Right HR is useless department aur koi boss ko khubsurat ladki dikh gayi to use HR bana deta hai with higher package",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Badhiya hai bechara Jindagi Jee Raha hai apni jeene do usko Jindagi bharr to Marr hi Raha tha bechara",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Same kapde pehen ke jaoge toh kapdo se smell aayega hi na😂",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Bhai aajkal toh hr bhi roj same kapde pehen rahe hai. Bechari ko salary nahi mili hogi",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Sir Mai BA graduation 🎓 arts Urdu se hai kiya Mai kar sakte hai HR course",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Esi bhi koi HR rakhta hai, client meet me esi sales girls ki jarurat padti hai taki client competitor ke paas naa jae. Invest in the right place not in satisfaction",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Aisi HR ho to bina salary kaam kar lenge.",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Kya item hai kasam se!",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Bas itni khubsurat HR dekh ke toh ab interview dena zaruri ho gaya kab aajaun mashallah HR ma’am? 😍✨",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Hr ki salary kitni hoti h sir just dail m",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Hamara situation bhi asa hai 😅",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Mamta respect hi nahin hai good morning mam good afternoon mam good evening mam yah kaun bolega",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Jitna makhan lagana hai lga lo 😂 woh job reference wale ko hi dega 😅😅😂",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Kaam dene me bht saare nakhre.ki wazeh se accha staff nhi milta hai .boll bachan karne wale ko job pehle milti hai . Job k interview ko itna hard bana diya hai k job karne wala be confused ho k interview de nhi pata hai.",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Hello mai jana sonchriun dubai job ke liye as a fresher tbh zada skills nahi just degrees hai mere pas recently 2weeks bfr maine apna mba k last sem ke exams diye hai lkn kuch computer skills nahi hai mere pass so kis type ki jobs milnge udar kuch idea hai ?",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Hindi language kyuu nhi interview hota h... Kamal h indian h pr english ko lekar bethe h itni buri bt h 😢😢😢😢",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Or hame English hi nhi aati ho to😢",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Hindi me baat ni kr sakte kya maam?😢",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Ye second kutta sala bol rha hai india mai kuch nhi hua sale ka dimag khrab ho gya 🤬🤬🤬🤬🤬 logo ki jane gyi hai aur bol rha hai india me kuuch nhi hua hai chloo india ki btt choro india mai ho ya na ho pakistan me bohot kuch hoga no water no life",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Itna sara bolne kaliae interviewer ke pass Time nhi hota Adhi baat mein Okay kehe deta hai interviewer.😅",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Etna fast to rata lag raha hai",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Interviewer knows ki aesa reply aaya toh smjh jao ki ratta lgakr aaya hai pakka",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Ki punjabi vich v bol sakte hai",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Darr lag rha he yaar ⚠️mai kya karu😱",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Jayaya eng math jar england bejdunga British se sakhth nafrath hai mujhe Chakde INDIA",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Tere ko job do or na do tu keya logo ko samne jukkar chalunga keya? Respect yourself",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Mam apka chehra thoda tedha ata hai aur apki nose bhi same yahi problem mere sath hai log bahut notice karte",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Nice english shikati ho mam...!!",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "English ka Alfaaz Nahin samajh mein😂😂😂😂 nahin aata hai didi😂😅 aap ki Ak Alfaaz Nahi samajh ma aaya ha 😅😅😅😅😅😅😅😅😅😅😅??? 🤔🤔👾😹😹😸👎👎👀👀👀👀👀🙎‍♀️🤷‍♀️🤦‍♀️",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Maine Aisi bola tha Mujhko to company se nikal Diya",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "\"agar vo apko baithne ke liye nahi puchte\" she : mai i take the seat sir ? me : 🧍‍♀️🧍‍♀️🧍‍♀️🧍‍♀️🧍‍♀️🧍‍♀️🧍‍♀️🧍‍♀️🧍‍♀️🧍‍♀️🧍‍♀️🧍‍♀️🧍‍♀️🧍‍♀️🧍‍♀️🧍‍♀️🧍‍♀️in the entire conversation😅",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Itniiiii izzat kaise dongi 😂😂😂bcz mai hr kisi ko itni izzat nhi deti ☠☠☠",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Or airhodtes ke intervew me kya pocha jaye ga",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Ab mujhe IAS banne se koi nahi rok sakta 😏😏",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Lekin me to 6 years ka hu didi",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Aap bahut achha samjhati hai",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "English gai bhad mein you very lovely",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Company me jop ka laya jop",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Do you have any questions? Me : No, but if you have anything to tell me you can tell 🙂 ( last interview me humne ye bola tha 😂 )",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Interviewer : Do you have any questions? Me : Yes! Ye office band kitne baje hota hai....??😂😂",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Itni english muje iss janm me to nhi aayegi..... Mere bss ki baat nhi😢",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Interviewer:Why should we hire you? Me: Ek baap ke hoge toh kar loge sir 😅",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Interview me aisa nakhra hota hai jaise 4 ladki tumhar ghar se hum shaadi kar k lejane wale hai .ladki pasand karte samay be koi itna nakhra nhi deekhata hai",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Ladki pasand karte samay koi itna nakhara nhi dikhata hai jitna interview me nakhra deekhate hai .",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Interview me itne nakhre ho gaye hai k log interview face karna nhi chahte hai",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Skills matter nahi karti english aani chahiye bss , qq mother tongue me har koi interview me comfortable hi rahega na",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  },
+  {
+    "text": "Interviewer be like :- saas to le , jawab to dene de , sab ek saath he rata hua nikal diya",
+    "scenario": "hr_issue",
+    "typical_emotions": [
+      "frustrated",
+      "anxious",
+      "disappointed",
+      "annoyed",
+      "worried"
+    ],
+    "do": [
+      "Validate HR frustrations",
+      "Offer practical next steps",
+      "Be understanding",
+      "Share similar experiences"
+    ],
+    "dont": [
+      "Blame them",
+      "Say 'HR is always like that'",
+      "Give legal advice",
+      "Be overly negative"
+    ],
+    "tone": "supportive friend - practical and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest follow-up email",
+      "Recommend escalation if needed",
+      "Share HR horror stories",
+      "Offer moral support"
+    ]
+  }
+]

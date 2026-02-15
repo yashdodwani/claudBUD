@@ -1,0 +1,1521 @@
+[
+  {
+    "text": "Hackathon crash ho gaya yaar demo fail 😭",
+    "scenario": "hackathon_fail",
+    "typical_emotions": [
+      "disappointed",
+      "frustrated",
+      "stressed",
+      "panicked",
+      "exhausted"
+    ],
+    "do": [
+      "Acknowledge their effort",
+      "Remind them of learning",
+      "Use light humor",
+      "Encourage them"
+    ],
+    "dont": [
+      "Say 'you should have prepared better'",
+      "Minimize their disappointment",
+      "Compare to winners",
+      "Be dismissive"
+    ],
+    "tone": "supportive friend - encouraging despite failure",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Remind them it's a learning experience",
+      "Suggest celebrating the effort",
+      "Share hackathon fail stories",
+      "Encourage trying again"
+    ]
+  },
+  {
+    "text": "Demo fail ho gaya bhai bohot bura laga",
+    "scenario": "hackathon_fail",
+    "typical_emotions": [
+      "disappointed",
+      "frustrated",
+      "stressed",
+      "panicked",
+      "exhausted"
+    ],
+    "do": [
+      "Acknowledge their effort",
+      "Remind them of learning",
+      "Use light humor",
+      "Encourage them"
+    ],
+    "dont": [
+      "Say 'you should have prepared better'",
+      "Minimize their disappointment",
+      "Compare to winners",
+      "Be dismissive"
+    ],
+    "tone": "supportive friend - encouraging despite failure",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Remind them it's a learning experience",
+      "Suggest celebrating the effort",
+      "Share hackathon fail stories",
+      "Encourage trying again"
+    ]
+  },
+  {
+    "text": "Presentation nahi chal raha seriously panic",
+    "scenario": "hackathon_fail",
+    "typical_emotions": [
+      "disappointed",
+      "frustrated",
+      "stressed",
+      "panicked",
+      "exhausted"
+    ],
+    "do": [
+      "Acknowledge their effort",
+      "Remind them of learning",
+      "Use light humor",
+      "Encourage them"
+    ],
+    "dont": [
+      "Say 'you should have prepared better'",
+      "Minimize their disappointment",
+      "Compare to winners",
+      "Be dismissive"
+    ],
+    "tone": "supportive friend - encouraging despite failure",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Remind them it's a learning experience",
+      "Suggest celebrating the effort",
+      "Share hackathon fail stories",
+      "Encourage trying again"
+    ]
+  },
+  {
+    "text": "Last minute bug yaar submission nahi hua",
+    "scenario": "hackathon_fail",
+    "typical_emotions": [
+      "disappointed",
+      "frustrated",
+      "stressed",
+      "panicked",
+      "exhausted"
+    ],
+    "do": [
+      "Acknowledge their effort",
+      "Remind them of learning",
+      "Use light humor",
+      "Encourage them"
+    ],
+    "dont": [
+      "Say 'you should have prepared better'",
+      "Minimize their disappointment",
+      "Compare to winners",
+      "Be dismissive"
+    ],
+    "tone": "supportive friend - encouraging despite failure",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Remind them it's a learning experience",
+      "Suggest celebrating the effort",
+      "Share hackathon fail stories",
+      "Encourage trying again"
+    ]
+  },
+  {
+    "text": "Submission nahi hua bhai time khatam ho gaya",
+    "scenario": "hackathon_fail",
+    "typical_emotions": [
+      "disappointed",
+      "frustrated",
+      "stressed",
+      "panicked",
+      "exhausted"
+    ],
+    "do": [
+      "Acknowledge their effort",
+      "Remind them of learning",
+      "Use light humor",
+      "Encourage them"
+    ],
+    "dont": [
+      "Say 'you should have prepared better'",
+      "Minimize their disappointment",
+      "Compare to winners",
+      "Be dismissive"
+    ],
+    "tone": "supportive friend - encouraging despite failure",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Remind them it's a learning experience",
+      "Suggest celebrating the effort",
+      "Share hackathon fail stories",
+      "Encourage trying again"
+    ]
+  },
+  {
+    "text": "Hackathon crash ho gaya yaar demo fail 😭",
+    "scenario": "hackathon_fail",
+    "typical_emotions": [
+      "disappointed",
+      "frustrated",
+      "stressed",
+      "panicked",
+      "exhausted"
+    ],
+    "do": [
+      "Acknowledge their effort",
+      "Remind them of learning",
+      "Use light humor",
+      "Encourage them"
+    ],
+    "dont": [
+      "Say 'you should have prepared better'",
+      "Minimize their disappointment",
+      "Compare to winners",
+      "Be dismissive"
+    ],
+    "tone": "supportive friend - encouraging despite failure",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Remind them it's a learning experience",
+      "Suggest celebrating the effort",
+      "Share hackathon fail stories",
+      "Encourage trying again"
+    ]
+  },
+  {
+    "text": "Demo fail ho gaya bhai bohot bura laga",
+    "scenario": "hackathon_fail",
+    "typical_emotions": [
+      "disappointed",
+      "frustrated",
+      "stressed",
+      "panicked",
+      "exhausted"
+    ],
+    "do": [
+      "Acknowledge their effort",
+      "Remind them of learning",
+      "Use light humor",
+      "Encourage them"
+    ],
+    "dont": [
+      "Say 'you should have prepared better'",
+      "Minimize their disappointment",
+      "Compare to winners",
+      "Be dismissive"
+    ],
+    "tone": "supportive friend - encouraging despite failure",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Remind them it's a learning experience",
+      "Suggest celebrating the effort",
+      "Share hackathon fail stories",
+      "Encourage trying again"
+    ]
+  },
+  {
+    "text": "Presentation nahi chal raha seriously panic",
+    "scenario": "hackathon_fail",
+    "typical_emotions": [
+      "disappointed",
+      "frustrated",
+      "stressed",
+      "panicked",
+      "exhausted"
+    ],
+    "do": [
+      "Acknowledge their effort",
+      "Remind them of learning",
+      "Use light humor",
+      "Encourage them"
+    ],
+    "dont": [
+      "Say 'you should have prepared better'",
+      "Minimize their disappointment",
+      "Compare to winners",
+      "Be dismissive"
+    ],
+    "tone": "supportive friend - encouraging despite failure",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Remind them it's a learning experience",
+      "Suggest celebrating the effort",
+      "Share hackathon fail stories",
+      "Encourage trying again"
+    ]
+  },
+  {
+    "text": "Last minute bug yaar submission nahi hua",
+    "scenario": "hackathon_fail",
+    "typical_emotions": [
+      "disappointed",
+      "frustrated",
+      "stressed",
+      "panicked",
+      "exhausted"
+    ],
+    "do": [
+      "Acknowledge their effort",
+      "Remind them of learning",
+      "Use light humor",
+      "Encourage them"
+    ],
+    "dont": [
+      "Say 'you should have prepared better'",
+      "Minimize their disappointment",
+      "Compare to winners",
+      "Be dismissive"
+    ],
+    "tone": "supportive friend - encouraging despite failure",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Remind them it's a learning experience",
+      "Suggest celebrating the effort",
+      "Share hackathon fail stories",
+      "Encourage trying again"
+    ]
+  },
+  {
+    "text": "Submission nahi hua bhai time khatam ho gaya",
+    "scenario": "hackathon_fail",
+    "typical_emotions": [
+      "disappointed",
+      "frustrated",
+      "stressed",
+      "panicked",
+      "exhausted"
+    ],
+    "do": [
+      "Acknowledge their effort",
+      "Remind them of learning",
+      "Use light humor",
+      "Encourage them"
+    ],
+    "dont": [
+      "Say 'you should have prepared better'",
+      "Minimize their disappointment",
+      "Compare to winners",
+      "Be dismissive"
+    ],
+    "tone": "supportive friend - encouraging despite failure",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Remind them it's a learning experience",
+      "Suggest celebrating the effort",
+      "Share hackathon fail stories",
+      "Encourage trying again"
+    ]
+  },
+  {
+    "text": "Hackathon crash ho gaya yaar demo fail 😭",
+    "scenario": "hackathon_fail",
+    "typical_emotions": [
+      "disappointed",
+      "frustrated",
+      "stressed",
+      "panicked",
+      "exhausted"
+    ],
+    "do": [
+      "Acknowledge their effort",
+      "Remind them of learning",
+      "Use light humor",
+      "Encourage them"
+    ],
+    "dont": [
+      "Say 'you should have prepared better'",
+      "Minimize their disappointment",
+      "Compare to winners",
+      "Be dismissive"
+    ],
+    "tone": "supportive friend - encouraging despite failure",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Remind them it's a learning experience",
+      "Suggest celebrating the effort",
+      "Share hackathon fail stories",
+      "Encourage trying again"
+    ]
+  },
+  {
+    "text": "Demo fail ho gaya bhai bohot bura laga",
+    "scenario": "hackathon_fail",
+    "typical_emotions": [
+      "disappointed",
+      "frustrated",
+      "stressed",
+      "panicked",
+      "exhausted"
+    ],
+    "do": [
+      "Acknowledge their effort",
+      "Remind them of learning",
+      "Use light humor",
+      "Encourage them"
+    ],
+    "dont": [
+      "Say 'you should have prepared better'",
+      "Minimize their disappointment",
+      "Compare to winners",
+      "Be dismissive"
+    ],
+    "tone": "supportive friend - encouraging despite failure",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Remind them it's a learning experience",
+      "Suggest celebrating the effort",
+      "Share hackathon fail stories",
+      "Encourage trying again"
+    ]
+  },
+  {
+    "text": "Presentation nahi chal raha seriously panic",
+    "scenario": "hackathon_fail",
+    "typical_emotions": [
+      "disappointed",
+      "frustrated",
+      "stressed",
+      "panicked",
+      "exhausted"
+    ],
+    "do": [
+      "Acknowledge their effort",
+      "Remind them of learning",
+      "Use light humor",
+      "Encourage them"
+    ],
+    "dont": [
+      "Say 'you should have prepared better'",
+      "Minimize their disappointment",
+      "Compare to winners",
+      "Be dismissive"
+    ],
+    "tone": "supportive friend - encouraging despite failure",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Remind them it's a learning experience",
+      "Suggest celebrating the effort",
+      "Share hackathon fail stories",
+      "Encourage trying again"
+    ]
+  },
+  {
+    "text": "Last minute bug yaar submission nahi hua",
+    "scenario": "hackathon_fail",
+    "typical_emotions": [
+      "disappointed",
+      "frustrated",
+      "stressed",
+      "panicked",
+      "exhausted"
+    ],
+    "do": [
+      "Acknowledge their effort",
+      "Remind them of learning",
+      "Use light humor",
+      "Encourage them"
+    ],
+    "dont": [
+      "Say 'you should have prepared better'",
+      "Minimize their disappointment",
+      "Compare to winners",
+      "Be dismissive"
+    ],
+    "tone": "supportive friend - encouraging despite failure",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Remind them it's a learning experience",
+      "Suggest celebrating the effort",
+      "Share hackathon fail stories",
+      "Encourage trying again"
+    ]
+  },
+  {
+    "text": "Submission nahi hua bhai time khatam ho gaya",
+    "scenario": "hackathon_fail",
+    "typical_emotions": [
+      "disappointed",
+      "frustrated",
+      "stressed",
+      "panicked",
+      "exhausted"
+    ],
+    "do": [
+      "Acknowledge their effort",
+      "Remind them of learning",
+      "Use light humor",
+      "Encourage them"
+    ],
+    "dont": [
+      "Say 'you should have prepared better'",
+      "Minimize their disappointment",
+      "Compare to winners",
+      "Be dismissive"
+    ],
+    "tone": "supportive friend - encouraging despite failure",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Remind them it's a learning experience",
+      "Suggest celebrating the effort",
+      "Share hackathon fail stories",
+      "Encourage trying again"
+    ]
+  },
+  {
+    "text": "Hackathon crash ho gaya yaar demo fail 😭",
+    "scenario": "hackathon_fail",
+    "typical_emotions": [
+      "disappointed",
+      "frustrated",
+      "stressed",
+      "panicked",
+      "exhausted"
+    ],
+    "do": [
+      "Acknowledge their effort",
+      "Remind them of learning",
+      "Use light humor",
+      "Encourage them"
+    ],
+    "dont": [
+      "Say 'you should have prepared better'",
+      "Minimize their disappointment",
+      "Compare to winners",
+      "Be dismissive"
+    ],
+    "tone": "supportive friend - encouraging despite failure",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Remind them it's a learning experience",
+      "Suggest celebrating the effort",
+      "Share hackathon fail stories",
+      "Encourage trying again"
+    ]
+  },
+  {
+    "text": "Demo fail ho gaya bhai bohot bura laga",
+    "scenario": "hackathon_fail",
+    "typical_emotions": [
+      "disappointed",
+      "frustrated",
+      "stressed",
+      "panicked",
+      "exhausted"
+    ],
+    "do": [
+      "Acknowledge their effort",
+      "Remind them of learning",
+      "Use light humor",
+      "Encourage them"
+    ],
+    "dont": [
+      "Say 'you should have prepared better'",
+      "Minimize their disappointment",
+      "Compare to winners",
+      "Be dismissive"
+    ],
+    "tone": "supportive friend - encouraging despite failure",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Remind them it's a learning experience",
+      "Suggest celebrating the effort",
+      "Share hackathon fail stories",
+      "Encourage trying again"
+    ]
+  },
+  {
+    "text": "Presentation nahi chal raha seriously panic",
+    "scenario": "hackathon_fail",
+    "typical_emotions": [
+      "disappointed",
+      "frustrated",
+      "stressed",
+      "panicked",
+      "exhausted"
+    ],
+    "do": [
+      "Acknowledge their effort",
+      "Remind them of learning",
+      "Use light humor",
+      "Encourage them"
+    ],
+    "dont": [
+      "Say 'you should have prepared better'",
+      "Minimize their disappointment",
+      "Compare to winners",
+      "Be dismissive"
+    ],
+    "tone": "supportive friend - encouraging despite failure",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Remind them it's a learning experience",
+      "Suggest celebrating the effort",
+      "Share hackathon fail stories",
+      "Encourage trying again"
+    ]
+  },
+  {
+    "text": "Last minute bug yaar submission nahi hua",
+    "scenario": "hackathon_fail",
+    "typical_emotions": [
+      "disappointed",
+      "frustrated",
+      "stressed",
+      "panicked",
+      "exhausted"
+    ],
+    "do": [
+      "Acknowledge their effort",
+      "Remind them of learning",
+      "Use light humor",
+      "Encourage them"
+    ],
+    "dont": [
+      "Say 'you should have prepared better'",
+      "Minimize their disappointment",
+      "Compare to winners",
+      "Be dismissive"
+    ],
+    "tone": "supportive friend - encouraging despite failure",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Remind them it's a learning experience",
+      "Suggest celebrating the effort",
+      "Share hackathon fail stories",
+      "Encourage trying again"
+    ]
+  },
+  {
+    "text": "Submission nahi hua bhai time khatam ho gaya",
+    "scenario": "hackathon_fail",
+    "typical_emotions": [
+      "disappointed",
+      "frustrated",
+      "stressed",
+      "panicked",
+      "exhausted"
+    ],
+    "do": [
+      "Acknowledge their effort",
+      "Remind them of learning",
+      "Use light humor",
+      "Encourage them"
+    ],
+    "dont": [
+      "Say 'you should have prepared better'",
+      "Minimize their disappointment",
+      "Compare to winners",
+      "Be dismissive"
+    ],
+    "tone": "supportive friend - encouraging despite failure",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Remind them it's a learning experience",
+      "Suggest celebrating the effort",
+      "Share hackathon fail stories",
+      "Encourage trying again"
+    ]
+  },
+  {
+    "text": "Bro video to alag alag hai but clip to same hi hai 😂",
+    "scenario": "hackathon_fail",
+    "typical_emotions": [
+      "disappointed",
+      "frustrated",
+      "stressed",
+      "panicked",
+      "exhausted"
+    ],
+    "do": [
+      "Acknowledge their effort",
+      "Remind them of learning",
+      "Use light humor",
+      "Encourage them"
+    ],
+    "dont": [
+      "Say 'you should have prepared better'",
+      "Minimize their disappointment",
+      "Compare to winners",
+      "Be dismissive"
+    ],
+    "tone": "supportive friend - encouraging despite failure",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Remind them it's a learning experience",
+      "Suggest celebrating the effort",
+      "Share hackathon fail stories",
+      "Encourage trying again"
+    ]
+  },
+  {
+    "text": "Juice Pila do mosambi ka",
+    "scenario": "hackathon_fail",
+    "typical_emotions": [
+      "disappointed",
+      "frustrated",
+      "stressed",
+      "panicked",
+      "exhausted"
+    ],
+    "do": [
+      "Acknowledge their effort",
+      "Remind them of learning",
+      "Use light humor",
+      "Encourage them"
+    ],
+    "dont": [
+      "Say 'you should have prepared better'",
+      "Minimize their disappointment",
+      "Compare to winners",
+      "Be dismissive"
+    ],
+    "tone": "supportive friend - encouraging despite failure",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Remind them it's a learning experience",
+      "Suggest celebrating the effort",
+      "Share hackathon fail stories",
+      "Encourage trying again"
+    ]
+  },
+  {
+    "text": "Juice pilado magar kaise bhejoge😅 Mujhe bhi dekhna hain aap kitna bada hackar ho 😂",
+    "scenario": "hackathon_fail",
+    "typical_emotions": [
+      "disappointed",
+      "frustrated",
+      "stressed",
+      "panicked",
+      "exhausted"
+    ],
+    "do": [
+      "Acknowledge their effort",
+      "Remind them of learning",
+      "Use light humor",
+      "Encourage them"
+    ],
+    "dont": [
+      "Say 'you should have prepared better'",
+      "Minimize their disappointment",
+      "Compare to winners",
+      "Be dismissive"
+    ],
+    "tone": "supportive friend - encouraging despite failure",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Remind them it's a learning experience",
+      "Suggest celebrating the effort",
+      "Share hackathon fail stories",
+      "Encourage trying again"
+    ]
+  },
+  {
+    "text": "Participate kar rahi hun aur mujhe kuchh nahin aata aap mujhe data collect karna sikha sakte hai",
+    "scenario": "hackathon_fail",
+    "typical_emotions": [
+      "disappointed",
+      "frustrated",
+      "stressed",
+      "panicked",
+      "exhausted"
+    ],
+    "do": [
+      "Acknowledge their effort",
+      "Remind them of learning",
+      "Use light humor",
+      "Encourage them"
+    ],
+    "dont": [
+      "Say 'you should have prepared better'",
+      "Minimize their disappointment",
+      "Compare to winners",
+      "Be dismissive"
+    ],
+    "tone": "supportive friend - encouraging despite failure",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Remind them it's a learning experience",
+      "Suggest celebrating the effort",
+      "Share hackathon fail stories",
+      "Encourage trying again"
+    ]
+  },
+  {
+    "text": "Juice pila do musambi ka",
+    "scenario": "hackathon_fail",
+    "typical_emotions": [
+      "disappointed",
+      "frustrated",
+      "stressed",
+      "panicked",
+      "exhausted"
+    ],
+    "do": [
+      "Acknowledge their effort",
+      "Remind them of learning",
+      "Use light humor",
+      "Encourage them"
+    ],
+    "dont": [
+      "Say 'you should have prepared better'",
+      "Minimize their disappointment",
+      "Compare to winners",
+      "Be dismissive"
+    ],
+    "tone": "supportive friend - encouraging despite failure",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Remind them it's a learning experience",
+      "Suggest celebrating the effort",
+      "Share hackathon fail stories",
+      "Encourage trying again"
+    ]
+  },
+  {
+    "text": "Bhaiya ek glass pelado beer 🍺 ka 😅😂😂",
+    "scenario": "hackathon_fail",
+    "typical_emotions": [
+      "disappointed",
+      "frustrated",
+      "stressed",
+      "panicked",
+      "exhausted"
+    ],
+    "do": [
+      "Acknowledge their effort",
+      "Remind them of learning",
+      "Use light humor",
+      "Encourage them"
+    ],
+    "dont": [
+      "Say 'you should have prepared better'",
+      "Minimize their disappointment",
+      "Compare to winners",
+      "Be dismissive"
+    ],
+    "tone": "supportive friend - encouraging despite failure",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Remind them it's a learning experience",
+      "Suggest celebrating the effort",
+      "Share hackathon fail stories",
+      "Encourage trying again"
+    ]
+  },
+  {
+    "text": "Juice pila do mosambi ka😅😅😅",
+    "scenario": "hackathon_fail",
+    "typical_emotions": [
+      "disappointed",
+      "frustrated",
+      "stressed",
+      "panicked",
+      "exhausted"
+    ],
+    "do": [
+      "Acknowledge their effort",
+      "Remind them of learning",
+      "Use light humor",
+      "Encourage them"
+    ],
+    "dont": [
+      "Say 'you should have prepared better'",
+      "Minimize their disappointment",
+      "Compare to winners",
+      "Be dismissive"
+    ],
+    "tone": "supportive friend - encouraging despite failure",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Remind them it's a learning experience",
+      "Suggest celebrating the effort",
+      "Share hackathon fail stories",
+      "Encourage trying again"
+    ]
+  },
+  {
+    "text": "Big brother, Now i am a 1st yr student of this yr and i know only c language. I also participate the hackathon but aur kya kya sekhunga for participating in hackhaton in my 1yr । Pl guide me",
+    "scenario": "hackathon_fail",
+    "typical_emotions": [
+      "disappointed",
+      "frustrated",
+      "stressed",
+      "panicked",
+      "exhausted"
+    ],
+    "do": [
+      "Acknowledge their effort",
+      "Remind them of learning",
+      "Use light humor",
+      "Encourage them"
+    ],
+    "dont": [
+      "Say 'you should have prepared better'",
+      "Minimize their disappointment",
+      "Compare to winners",
+      "Be dismissive"
+    ],
+    "tone": "supportive friend - encouraging despite failure",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Remind them it's a learning experience",
+      "Suggest celebrating the effort",
+      "Share hackathon fail stories",
+      "Encourage trying again"
+    ]
+  },
+  {
+    "text": "bhai mu band krke bola kar!",
+    "scenario": "hackathon_fail",
+    "typical_emotions": [
+      "disappointed",
+      "frustrated",
+      "stressed",
+      "panicked",
+      "exhausted"
+    ],
+    "do": [
+      "Acknowledge their effort",
+      "Remind them of learning",
+      "Use light humor",
+      "Encourage them"
+    ],
+    "dont": [
+      "Say 'you should have prepared better'",
+      "Minimize their disappointment",
+      "Compare to winners",
+      "Be dismissive"
+    ],
+    "tone": "supportive friend - encouraging despite failure",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Remind them it's a learning experience",
+      "Suggest celebrating the effort",
+      "Share hackathon fail stories",
+      "Encourage trying again"
+    ]
+  },
+  {
+    "text": "PROMPT bhai bhej dena please",
+    "scenario": "hackathon_fail",
+    "typical_emotions": [
+      "disappointed",
+      "frustrated",
+      "stressed",
+      "panicked",
+      "exhausted"
+    ],
+    "do": [
+      "Acknowledge their effort",
+      "Remind them of learning",
+      "Use light humor",
+      "Encourage them"
+    ],
+    "dont": [
+      "Say 'you should have prepared better'",
+      "Minimize their disappointment",
+      "Compare to winners",
+      "Be dismissive"
+    ],
+    "tone": "supportive friend - encouraging despite failure",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Remind them it's a learning experience",
+      "Suggest celebrating the effort",
+      "Share hackathon fail stories",
+      "Encourage trying again"
+    ]
+  },
+  {
+    "text": "Snapshot le liye prompt ka, No thanks !!",
+    "scenario": "hackathon_fail",
+    "typical_emotions": [
+      "disappointed",
+      "frustrated",
+      "stressed",
+      "panicked",
+      "exhausted"
+    ],
+    "do": [
+      "Acknowledge their effort",
+      "Remind them of learning",
+      "Use light humor",
+      "Encourage them"
+    ],
+    "dont": [
+      "Say 'you should have prepared better'",
+      "Minimize their disappointment",
+      "Compare to winners",
+      "Be dismissive"
+    ],
+    "tone": "supportive friend - encouraging despite failure",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Remind them it's a learning experience",
+      "Suggest celebrating the effort",
+      "Share hackathon fail stories",
+      "Encourage trying again"
+    ]
+  },
+  {
+    "text": "bhai darao mat yrr, is this true? (please someone tell)",
+    "scenario": "hackathon_fail",
+    "typical_emotions": [
+      "disappointed",
+      "frustrated",
+      "stressed",
+      "panicked",
+      "exhausted"
+    ],
+    "do": [
+      "Acknowledge their effort",
+      "Remind them of learning",
+      "Use light humor",
+      "Encourage them"
+    ],
+    "dont": [
+      "Say 'you should have prepared better'",
+      "Minimize their disappointment",
+      "Compare to winners",
+      "Be dismissive"
+    ],
+    "tone": "supportive friend - encouraging despite failure",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Remind them it's a learning experience",
+      "Suggest celebrating the effort",
+      "Share hackathon fail stories",
+      "Encourage trying again"
+    ]
+  },
+  {
+    "text": "Bro video to alag alag hai but clip to same hi hai 😂",
+    "scenario": "hackathon_fail",
+    "typical_emotions": [
+      "disappointed",
+      "frustrated",
+      "stressed",
+      "panicked",
+      "exhausted"
+    ],
+    "do": [
+      "Acknowledge their effort",
+      "Remind them of learning",
+      "Use light humor",
+      "Encourage them"
+    ],
+    "dont": [
+      "Say 'you should have prepared better'",
+      "Minimize their disappointment",
+      "Compare to winners",
+      "Be dismissive"
+    ],
+    "tone": "supportive friend - encouraging despite failure",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Remind them it's a learning experience",
+      "Suggest celebrating the effort",
+      "Share hackathon fail stories",
+      "Encourage trying again"
+    ]
+  },
+  {
+    "text": "Juice Pila do mosambi ka",
+    "scenario": "hackathon_fail",
+    "typical_emotions": [
+      "disappointed",
+      "frustrated",
+      "stressed",
+      "panicked",
+      "exhausted"
+    ],
+    "do": [
+      "Acknowledge their effort",
+      "Remind them of learning",
+      "Use light humor",
+      "Encourage them"
+    ],
+    "dont": [
+      "Say 'you should have prepared better'",
+      "Minimize their disappointment",
+      "Compare to winners",
+      "Be dismissive"
+    ],
+    "tone": "supportive friend - encouraging despite failure",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Remind them it's a learning experience",
+      "Suggest celebrating the effort",
+      "Share hackathon fail stories",
+      "Encourage trying again"
+    ]
+  },
+  {
+    "text": "Juice pilado magar kaise bhejoge😅 Mujhe bhi dekhna hain aap kitna bada hackar ho 😂",
+    "scenario": "hackathon_fail",
+    "typical_emotions": [
+      "disappointed",
+      "frustrated",
+      "stressed",
+      "panicked",
+      "exhausted"
+    ],
+    "do": [
+      "Acknowledge their effort",
+      "Remind them of learning",
+      "Use light humor",
+      "Encourage them"
+    ],
+    "dont": [
+      "Say 'you should have prepared better'",
+      "Minimize their disappointment",
+      "Compare to winners",
+      "Be dismissive"
+    ],
+    "tone": "supportive friend - encouraging despite failure",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Remind them it's a learning experience",
+      "Suggest celebrating the effort",
+      "Share hackathon fail stories",
+      "Encourage trying again"
+    ]
+  },
+  {
+    "text": "Participate kar rahi hun aur mujhe kuchh nahin aata aap mujhe data collect karna sikha sakte hai",
+    "scenario": "hackathon_fail",
+    "typical_emotions": [
+      "disappointed",
+      "frustrated",
+      "stressed",
+      "panicked",
+      "exhausted"
+    ],
+    "do": [
+      "Acknowledge their effort",
+      "Remind them of learning",
+      "Use light humor",
+      "Encourage them"
+    ],
+    "dont": [
+      "Say 'you should have prepared better'",
+      "Minimize their disappointment",
+      "Compare to winners",
+      "Be dismissive"
+    ],
+    "tone": "supportive friend - encouraging despite failure",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Remind them it's a learning experience",
+      "Suggest celebrating the effort",
+      "Share hackathon fail stories",
+      "Encourage trying again"
+    ]
+  },
+  {
+    "text": "Juice pila do musambi ka",
+    "scenario": "hackathon_fail",
+    "typical_emotions": [
+      "disappointed",
+      "frustrated",
+      "stressed",
+      "panicked",
+      "exhausted"
+    ],
+    "do": [
+      "Acknowledge their effort",
+      "Remind them of learning",
+      "Use light humor",
+      "Encourage them"
+    ],
+    "dont": [
+      "Say 'you should have prepared better'",
+      "Minimize their disappointment",
+      "Compare to winners",
+      "Be dismissive"
+    ],
+    "tone": "supportive friend - encouraging despite failure",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Remind them it's a learning experience",
+      "Suggest celebrating the effort",
+      "Share hackathon fail stories",
+      "Encourage trying again"
+    ]
+  },
+  {
+    "text": "Bhaiya ek glass pelado beer 🍺 ka 😅😂😂",
+    "scenario": "hackathon_fail",
+    "typical_emotions": [
+      "disappointed",
+      "frustrated",
+      "stressed",
+      "panicked",
+      "exhausted"
+    ],
+    "do": [
+      "Acknowledge their effort",
+      "Remind them of learning",
+      "Use light humor",
+      "Encourage them"
+    ],
+    "dont": [
+      "Say 'you should have prepared better'",
+      "Minimize their disappointment",
+      "Compare to winners",
+      "Be dismissive"
+    ],
+    "tone": "supportive friend - encouraging despite failure",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Remind them it's a learning experience",
+      "Suggest celebrating the effort",
+      "Share hackathon fail stories",
+      "Encourage trying again"
+    ]
+  },
+  {
+    "text": "Juice pila do mosambi ka😅😅😅",
+    "scenario": "hackathon_fail",
+    "typical_emotions": [
+      "disappointed",
+      "frustrated",
+      "stressed",
+      "panicked",
+      "exhausted"
+    ],
+    "do": [
+      "Acknowledge their effort",
+      "Remind them of learning",
+      "Use light humor",
+      "Encourage them"
+    ],
+    "dont": [
+      "Say 'you should have prepared better'",
+      "Minimize their disappointment",
+      "Compare to winners",
+      "Be dismissive"
+    ],
+    "tone": "supportive friend - encouraging despite failure",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Remind them it's a learning experience",
+      "Suggest celebrating the effort",
+      "Share hackathon fail stories",
+      "Encourage trying again"
+    ]
+  },
+  {
+    "text": "Big brother, Now i am a 1st yr student of this yr and i know only c language. I also participate the hackathon but aur kya kya sekhunga for participating in hackhaton in my 1yr । Pl guide me",
+    "scenario": "hackathon_fail",
+    "typical_emotions": [
+      "disappointed",
+      "frustrated",
+      "stressed",
+      "panicked",
+      "exhausted"
+    ],
+    "do": [
+      "Acknowledge their effort",
+      "Remind them of learning",
+      "Use light humor",
+      "Encourage them"
+    ],
+    "dont": [
+      "Say 'you should have prepared better'",
+      "Minimize their disappointment",
+      "Compare to winners",
+      "Be dismissive"
+    ],
+    "tone": "supportive friend - encouraging despite failure",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Remind them it's a learning experience",
+      "Suggest celebrating the effort",
+      "Share hackathon fail stories",
+      "Encourage trying again"
+    ]
+  },
+  {
+    "text": "bhai mu band krke bola kar!",
+    "scenario": "hackathon_fail",
+    "typical_emotions": [
+      "disappointed",
+      "frustrated",
+      "stressed",
+      "panicked",
+      "exhausted"
+    ],
+    "do": [
+      "Acknowledge their effort",
+      "Remind them of learning",
+      "Use light humor",
+      "Encourage them"
+    ],
+    "dont": [
+      "Say 'you should have prepared better'",
+      "Minimize their disappointment",
+      "Compare to winners",
+      "Be dismissive"
+    ],
+    "tone": "supportive friend - encouraging despite failure",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Remind them it's a learning experience",
+      "Suggest celebrating the effort",
+      "Share hackathon fail stories",
+      "Encourage trying again"
+    ]
+  },
+  {
+    "text": "PROMPT bhai bhej dena please",
+    "scenario": "hackathon_fail",
+    "typical_emotions": [
+      "disappointed",
+      "frustrated",
+      "stressed",
+      "panicked",
+      "exhausted"
+    ],
+    "do": [
+      "Acknowledge their effort",
+      "Remind them of learning",
+      "Use light humor",
+      "Encourage them"
+    ],
+    "dont": [
+      "Say 'you should have prepared better'",
+      "Minimize their disappointment",
+      "Compare to winners",
+      "Be dismissive"
+    ],
+    "tone": "supportive friend - encouraging despite failure",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Remind them it's a learning experience",
+      "Suggest celebrating the effort",
+      "Share hackathon fail stories",
+      "Encourage trying again"
+    ]
+  },
+  {
+    "text": "Snapshot le liye prompt ka, No thanks !!",
+    "scenario": "hackathon_fail",
+    "typical_emotions": [
+      "disappointed",
+      "frustrated",
+      "stressed",
+      "panicked",
+      "exhausted"
+    ],
+    "do": [
+      "Acknowledge their effort",
+      "Remind them of learning",
+      "Use light humor",
+      "Encourage them"
+    ],
+    "dont": [
+      "Say 'you should have prepared better'",
+      "Minimize their disappointment",
+      "Compare to winners",
+      "Be dismissive"
+    ],
+    "tone": "supportive friend - encouraging despite failure",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Remind them it's a learning experience",
+      "Suggest celebrating the effort",
+      "Share hackathon fail stories",
+      "Encourage trying again"
+    ]
+  },
+  {
+    "text": "Ye usa se return ye sab karne aayi hai",
+    "scenario": "hackathon_fail",
+    "typical_emotions": [
+      "disappointed",
+      "frustrated",
+      "stressed",
+      "panicked",
+      "exhausted"
+    ],
+    "do": [
+      "Acknowledge their effort",
+      "Remind them of learning",
+      "Use light humor",
+      "Encourage them"
+    ],
+    "dont": [
+      "Say 'you should have prepared better'",
+      "Minimize their disappointment",
+      "Compare to winners",
+      "Be dismissive"
+    ],
+    "tone": "supportive friend - encouraging despite failure",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Remind them it's a learning experience",
+      "Suggest celebrating the effort",
+      "Share hackathon fail stories",
+      "Encourage trying again"
+    ]
+  },
+  {
+    "text": "Ye kha tha chptr mai😢",
+    "scenario": "hackathon_fail",
+    "typical_emotions": [
+      "disappointed",
+      "frustrated",
+      "stressed",
+      "panicked",
+      "exhausted"
+    ],
+    "do": [
+      "Acknowledge their effort",
+      "Remind them of learning",
+      "Use light humor",
+      "Encourage them"
+    ],
+    "dont": [
+      "Say 'you should have prepared better'",
+      "Minimize their disappointment",
+      "Compare to winners",
+      "Be dismissive"
+    ],
+    "tone": "supportive friend - encouraging despite failure",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Remind them it's a learning experience",
+      "Suggest celebrating the effort",
+      "Share hackathon fail stories",
+      "Encourage trying again"
+    ]
+  },
+  {
+    "text": "Aaj signum ka asli use pata chala gay 😂😂😂 aura farming ke liye kiya jaata hai😅",
+    "scenario": "hackathon_fail",
+    "typical_emotions": [
+      "disappointed",
+      "frustrated",
+      "stressed",
+      "panicked",
+      "exhausted"
+    ],
+    "do": [
+      "Acknowledge their effort",
+      "Remind them of learning",
+      "Use light humor",
+      "Encourage them"
+    ],
+    "dont": [
+      "Say 'you should have prepared better'",
+      "Minimize their disappointment",
+      "Compare to winners",
+      "Be dismissive"
+    ],
+    "tone": "supportive friend - encouraging despite failure",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Remind them it's a learning experience",
+      "Suggest celebrating the effort",
+      "Share hackathon fail stories",
+      "Encourage trying again"
+    ]
+  },
+  {
+    "text": "Banda Iitian hai bhai ❤❤",
+    "scenario": "hackathon_fail",
+    "typical_emotions": [
+      "disappointed",
+      "frustrated",
+      "stressed",
+      "panicked",
+      "exhausted"
+    ],
+    "do": [
+      "Acknowledge their effort",
+      "Remind them of learning",
+      "Use light humor",
+      "Encourage them"
+    ],
+    "dont": [
+      "Say 'you should have prepared better'",
+      "Minimize their disappointment",
+      "Compare to winners",
+      "Be dismissive"
+    ],
+    "tone": "supportive friend - encouraging despite failure",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Remind them it's a learning experience",
+      "Suggest celebrating the effort",
+      "Share hackathon fail stories",
+      "Encourage trying again"
+    ]
+  },
+  {
+    "text": "4!/√4 + 4/4 =13 le bhai",
+    "scenario": "hackathon_fail",
+    "typical_emotions": [
+      "disappointed",
+      "frustrated",
+      "stressed",
+      "panicked",
+      "exhausted"
+    ],
+    "do": [
+      "Acknowledge their effort",
+      "Remind them of learning",
+      "Use light humor",
+      "Encourage them"
+    ],
+    "dont": [
+      "Say 'you should have prepared better'",
+      "Minimize their disappointment",
+      "Compare to winners",
+      "Be dismissive"
+    ],
+    "tone": "supportive friend - encouraging despite failure",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Remind them it's a learning experience",
+      "Suggest celebrating the effort",
+      "Share hackathon fail stories",
+      "Encourage trying again"
+    ]
+  },
+  {
+    "text": "Lekin signum to -1 bhi to ho sakta hai to 11 ho jayega",
+    "scenario": "hackathon_fail",
+    "typical_emotions": [
+      "disappointed",
+      "frustrated",
+      "stressed",
+      "panicked",
+      "exhausted"
+    ],
+    "do": [
+      "Acknowledge their effort",
+      "Remind them of learning",
+      "Use light humor",
+      "Encourage them"
+    ],
+    "dont": [
+      "Say 'you should have prepared better'",
+      "Minimize their disappointment",
+      "Compare to winners",
+      "Be dismissive"
+    ],
+    "tone": "supportive friend - encouraging despite failure",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Remind them it's a learning experience",
+      "Suggest celebrating the effort",
+      "Share hackathon fail stories",
+      "Encourage trying again"
+    ]
+  }
+]

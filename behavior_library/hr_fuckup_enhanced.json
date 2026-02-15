@@ -1,0 +1,4249 @@
+[
+  {
+    "text": "HR ne galat offer bhej diya yaar kya scene 😡",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "HR ne salary galat mention ki bhai confusion",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "HR ka system down hai seriously kaam nahi ho raha",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "HR ka confusion yaar date galat batayi",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "HR ne date galat batayi bhai kya karu ab",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "HR ne galat offer bhej diya yaar kya scene 😡",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "HR ne salary galat mention ki bhai confusion",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "HR ka system down hai seriously kaam nahi ho raha",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "HR ka confusion yaar date galat batayi",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "HR ne date galat batayi bhai kya karu ab",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "HR ne galat offer bhej diya yaar kya scene 😡",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "HR ne salary galat mention ki bhai confusion",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "HR ka system down hai seriously kaam nahi ho raha",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "HR ka confusion yaar date galat batayi",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "HR ne date galat batayi bhai kya karu ab",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "HR ne galat offer bhej diya yaar kya scene 😡",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "HR ne salary galat mention ki bhai confusion",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "HR ka system down hai seriously kaam nahi ho raha",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "HR ka confusion yaar date galat batayi",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "HR ne date galat batayi bhai kya karu ab",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Sir compulsory english talking must & should sir nenu interview ki velanu sir valu English vundali anaru sir",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Techblocks ki hr round lo ne job poyendi , neku english sarigga ravadam ledu , neku 8yeqrs exp undi , english rakapothe ela handle chesthav work and rolls ni 😢",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "@Chandana Pavan e video naa feed lo ki okka 3 days back vachintae bagundu nenu 3.2 years experience 8lpa agida nannu reject chesaru tcs lo",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "hdfc bank mein 5din pahle mere documents rakh dia hard copy and soft copy. document mein bank se signature bhi kr dia or pdf banake bank kii ak sir ko mail kr dine bola tha to kr dia thka. baat me ak form dia employee verification request o bi sumit kr dia . o sir ne nola next step kr rha hu abhi next step kiya hoga",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Appointment ke baad govt sector me medical test hota he. Usme resect karne ka chanch ketna hota he",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Sir ji 3 milte hia LOI jisme hr pooch ke bhejta hai hum 6 hi de sakte hai. Accept karo. Fir accept karne ka baad offer aur fir appointment mila toh mila",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Pta bhi kaise chlega because aisi bahut si companies hai jinke procedure mei appointment letter hota hu nhi hai kewal offer letter se hi ho jata hai sab",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Good morning sir/ma'am, Myself Bhupender from palwal. please help me sir/ma'am mujhe ek appointment letter aaya h oman se vo 3000 omani riyal de rahe h company ka naam Oman Flour Mills Company (S.A.O.G). Please sir/ma'am help me kya ye company or appointment letter thik h???.. And please share me your contact details...",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "1 month ho gaya kam karna offer letter pe bhi sign kiya but abhi salary nhi de raha kuch response hi nhi hai toh esi situation mein ke kare sir?",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Sir please help me ak company ne moje offer cum appointment latter veja he...1month bad joining nehi diya or bola ki position is hold and cancel you contract...Kiya korna sahia legal notice bejna sahia kia",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Sir, offer letter accept krne ke baad company ne offer revoke kr dia. Even company join bhi Krli mne eske next day revoke ka mail aaya h. Please guide m isme kya kar skta hu",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Sir mani ek offer aya par 5 day work ki par par main job countinue nahi kiya aur na he offre letter sing kiya na nahi join letter par 5 day salary ki liya doc liya ha Join na karo tu resign letter dena ped ga",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "sir mujhe fb se ek jgh se mila offer later aaya dubai se wahi die paisa nhi liye visa bhi derhe to kese malom krun ki orginal hai",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Sir mene interview aur assessment test dia hai realiance mai ab offer letter kab tak milega",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Or agar appointment letter mein naah toh boss ke sign ho or naah company ka stamp toh vo illegal hai ? Plz sir help",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Appointment letter sing.. Karne ke bad Company join na kare to kya koi dikkat aati hai",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Sir agar appointment letter sign kar diya jaye aur kishi Karan wash job naa kar paye aur company notice bhaje to ish case m kya kar sakte h? Sir please help!! Mujhe koi solution bataiye?",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "PF ka pura amount company employee ki salary se le sakti ha ???? 1800+1800=3600₹",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Bichare Michael Masi ne 2021 F1 season mein offer kya de diye, uski toh naukri he chali gayi😂",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Bhai meny 1/1/2026 ko interview daiya ta ave tak offer letter nehy a chuka hn",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Sir mera offer letter aagaya but appointment letter nhi aaya almost 20 din ho gaye hai sir ya ho skta hai aayega ki nhi.",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Mera selection ho gya documents or details bhi le li baadme joining hold kar diya upcoming batches main lenge kiya karna chahiye",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Kisi company me interview hone ke bad es location me kam karne ke liye taiyar ho puche to kya mai calect samajh",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Sar Mera interview hue 20 day hua hai HR document send kiya hai na offer letter Diya aur na hi joining later",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Sir position hold hoti h tab kitna time lag jata h hr bol rhe h ki vecancy h jab meeting hogi tabhi aprubal ke liye office letter bhej diya jayega 2 months ho chuke h sir 😢",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Bhaiya maine 13 th nov,, 2024 mein wipro mein non voice process k liye interview diya tha, still now its 2 months over abhi tak unhone koi offer letter nhi diya. January ki 1st week mein ek hr ka call aya tha wipro se unhone kaha tha ki january ki end tak offer letter bhej diya jayega but abhi tak we didn't get the offer letter!! Ab kya karu wait karu ya bhi hope hi chor du yeh samajh nhi arhi.😞. Ya phir dobar phir jake 1st se interview du kya? Yeh bhi samajh nhi arhi! Pls any guys help me what ",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Sir mera same huaaa 2 technical and hr round clear hua sab salary diacusion hua ab wo bol rahe hai ki aapka profile hr ko approval ke liye sent kiya hai 8 days hue offer letter release nahi kiya what i do they will release or not im so confuse😢😢",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Koi company offer letter ya salary slip apne employee ko kyun nahi deti",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Sir mera PWC me selection ho gya lekin offer letter abhi tk nhi aaya 25 days ho gye h hr se poucha she said it is pending for approval kya kru sir",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Sir me interview me qualified Kiya tha mera date dia tha join ka but obhi hr balrhahe profile is on hold",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Mujhe latter aa gaya lekin hold ho gaya",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Dear sir my son MBA student MBA fin interview how ga co ne kit bheji hai ok or neg",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Sir... Maine reliance trend me... Interview diya... Wo log online document verification किए... Bole offer letter aayrga mail Pe.. Bt abi tk nhi aaya.. Sir kitna time lgta h offer letter aane me",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Sir mera selection ho gaya hai but aadhe ko offar letter diya hai aadhe ko nhi diya HR se kiya to ye bol rahe ki aapka hold pe rakah hai",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Publicis sapient is not releasing offer letter,first they told june me joining ka batayenge ab bol rahe august mein batayenge. I am a fresher from NIT set to join ASDE-1. In mean time I got offer from startup ,shall i join that in july, I had interned in the startup for more than a year,work is quite good.Does publicis revoke offers?",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Campus se placed hone ke baad bhi offer late h why??",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Can company cancel offer letter if the project gone agar jis project keliye hire kiya tha vo chala gya ho? Kyuki log jb current company se resign kr dete hai toi unko thodi pta hota ki project chala jaayega uski future company ka",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Mere sath hua tha aisa main wait kiya 1 week fir call kiya they said ki wo position close ho chuki no requirement",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Bhai pune Hinjewadi mai rooms milte hn rent pr, society mai na ho",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Sir kis quarter Mai project renew hota hai..kis quarter Mai rampdown hota hai,contract renewal kab hota hai, ...kaun se quarter Mai switch karna sahi rahta hai.",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Kal ko aapse bhi achchha HR mil jayega....aap bhi bahar ho sakti he.... isliye companies ko soch samjhkar offer letter dena chahiye...aur apni baat pr bane rahna chahiye....yadi ye intern ke sath play karte he to....ye galat he...",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Maine bhi jaha apply Kiya hai wo sirf offer Lett de rahe hai phir kaam Kara lege or payment bhi nahi dege",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "kisi kae muu ka niwala chin liya",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Mam please batana dubai k offer letter kitna month ka hotta hai please🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏 please please mam",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Please meri madad kariye mujhe Australian company se offer leater mila he me kese pta kru k ye shi ya nhi",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Kon h ye log kaha se aate h",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Ye to LLA wali didi hai na",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Resign email se bhej sakte hai kya",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Kya BGV me koi employee Frist company se Terminat Paya Jay to kya Second company aapni Terms and conditions ke Basis pr us ko job se nikal skti h Kya es pr koi High court ya superm cort ka Decision hai to muj ko bhi batana muj ko apne employer ko batana h Kya Kisi company se Terminat hona ek crime h jabi uska base misbehave ka reha ho es base ko Aadhaar bna kr us ko terminate Kiya gya ho",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "LLA bhai, Kya app meri madat kar sakte ho kya. Main employee nahi hun.",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Welcome kit ane k bd reject kr skte h kya ? Kit m laptop nhi h....",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Bhai ek company se yadi do har offer letter liye ho aur dono baar join na kia ho to next offer letter nikal skta hai please reply mee",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "brother bht tensed hu... aj interview acha gaya bri company k sath aur chances b zyada hain job k magr aik aur company se offer letter b aa gaya ... salary yh walay km dey rahy hain aur na itnay benefits",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Kya dobara accept bhi kr sakte h",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Aaj me bhi isi bat ko lekar udas hu, capgemini ka offer accept kar liya but ab yash technology se better offer later mil gaya, ab tension ho rahi ki pehli bali ka offer kese reject karu😢",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Agar offer letter digitally signed kiya Ho to reject kr skte hai??",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Brother maine Max life ka offer letter accept kr liya h but join nahi karna hai wahan av,kya mai 6months k baad us company me apply kar sakte Hain ya fir wo company kabhi mujhe re hire nhi ksrega",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Yeha pay ak job nahi mil rahi hame and multiple offer letters!! 😂",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Sir compulsory english talking must & should sir nenu interview ki velanu sir valu English vundali anaru sir",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Techblocks ki hr round lo ne job poyendi , neku english sarigga ravadam ledu , neku 8yeqrs exp undi , english rakapothe ela handle chesthav work and rolls ni 😢",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "@Chandana Pavan e video naa feed lo ki okka 3 days back vachintae bagundu nenu 3.2 years experience 8lpa agida nannu reject chesaru tcs lo",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Bohat zyada helpful hain magr agr senior bhi samjhdar ho to wrna hum company or candidates ka bhala krne jayenge or piche se manager or director mil k hume hi warning letter dene ki tayyari krne lag jayenge",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "hdfc bank mein 5din pahle mere documents rakh dia hard copy and soft copy. document mein bank se signature bhi kr dia or pdf banake bank kii ak sir ko mail kr dine bola tha to kr dia thka. baat me ak form dia employee verification request o bi sumit kr dia . o sir ne nola next step kr rha hu abhi next step kiya hoga",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Appointment ke baad govt sector me medical test hota he. Usme resect karne ka chanch ketna hota he",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Sir ji 3 milte hia LOI jisme hr pooch ke bhejta hai hum 6 hi de sakte hai. Accept karo. Fir accept karne ka baad offer aur fir appointment mila toh mila",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Pta bhi kaise chlega because aisi bahut si companies hai jinke procedure mei appointment letter hota hu nhi hai kewal offer letter se hi ho jata hai sab",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Good morning sir/ma'am, Myself Bhupender from palwal. please help me sir/ma'am mujhe ek appointment letter aaya h oman se vo 3000 omani riyal de rahe h company ka naam Oman Flour Mills Company (S.A.O.G). Please sir/ma'am help me kya ye company or appointment letter thik h???.. And please share me your contact details...",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "1 month ho gaya kam karna offer letter pe bhi sign kiya but abhi salary nhi de raha kuch response hi nhi hai toh esi situation mein ke kare sir?",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Sir please help me ak company ne moje offer cum appointment latter veja he...1month bad joining nehi diya or bola ki position is hold and cancel you contract...Kiya korna sahia legal notice bejna sahia kia",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Sir, offer letter accept krne ke baad company ne offer revoke kr dia. Even company join bhi Krli mne eske next day revoke ka mail aaya h. Please guide m isme kya kar skta hu",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Sir mani ek offer aya par 5 day work ki par par main job countinue nahi kiya aur na he offre letter sing kiya na nahi join letter par 5 day salary ki liya doc liya ha Join na karo tu resign letter dena ped ga",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "sir mujhe fb se ek jgh se mila offer later aaya dubai se wahi die paisa nhi liye visa bhi derhe to kese malom krun ki orginal hai",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Sir mene interview aur assessment test dia hai realiance mai ab offer letter kab tak milega",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Or agar appointment letter mein naah toh boss ke sign ho or naah company ka stamp toh vo illegal hai ? Plz sir help",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Appointment letter sing.. Karne ke bad Company join na kare to kya koi dikkat aati hai",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Sir agar appointment letter sign kar diya jaye aur kishi Karan wash job naa kar paye aur company notice bhaje to ish case m kya kar sakte h? Sir please help!! Mujhe koi solution bataiye?",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "PF ka pura amount company employee ki salary se le sakti ha ???? 1800+1800=3600₹",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Bichare Michael Masi ne 2021 F1 season mein offer kya de diye, uski toh naukri he chali gayi😂",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Kal ko aapse bhi achchha HR mil jayega....aap bhi bahar ho sakti he.... isliye companies ko soch samjhkar offer letter dena chahiye...aur apni baat pr bane rahna chahiye....yadi ye intern ke sath play karte he to....ye galat he...",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Maine bhi jaha apply Kiya hai wo sirf offer Lett de rahe hai phir kaam Kara lege or payment bhi nahi dege",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "kisi kae muu ka niwala chin liya",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Mam please batana dubai k offer letter kitna month ka hotta hai please🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏 please please mam",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Please meri madad kariye mujhe Australian company se offer leater mila he me kese pta kru k ye shi ya nhi",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Kon h ye log kaha se aate h",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Ye to LLA wali didi hai na",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Resign email se bhej sakte hai kya",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Kya BGV me koi employee Frist company se Terminat Paya Jay to kya Second company aapni Terms and conditions ke Basis pr us ko job se nikal skti h Kya es pr koi High court ya superm cort ka Decision hai to muj ko bhi batana muj ko apne employer ko batana h Kya Kisi company se Terminat hona ek crime h jabi uska base misbehave ka reha ho es base ko Aadhaar bna kr us ko terminate Kiya gya ho",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "LLA bhai, Kya app meri madat kar sakte ho kya. Main employee nahi hun.",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Bhai meny 1/1/2026 ko interview daiya ta ave tak offer letter nehy a chuka hn",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Sir mera offer letter aagaya but appointment letter nhi aaya almost 20 din ho gaye hai sir ya ho skta hai aayega ki nhi.",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Mera selection ho gya documents or details bhi le li baadme joining hold kar diya upcoming batches main lenge kiya karna chahiye",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Kisi company me interview hone ke bad es location me kam karne ke liye taiyar ho puche to kya mai calect samajh",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Sar Mera interview hue 20 day hua hai HR document send kiya hai na offer letter Diya aur na hi joining later",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Sir position hold hoti h tab kitna time lag jata h hr bol rhe h ki vecancy h jab meeting hogi tabhi aprubal ke liye office letter bhej diya jayega 2 months ho chuke h sir 😢",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Bhaiya maine 13 th nov,, 2024 mein wipro mein non voice process k liye interview diya tha, still now its 2 months over abhi tak unhone koi offer letter nhi diya. January ki 1st week mein ek hr ka call aya tha wipro se unhone kaha tha ki january ki end tak offer letter bhej diya jayega but abhi tak we didn't get the offer letter!! Ab kya karu wait karu ya bhi hope hi chor du yeh samajh nhi arhi.😞. Ya phir dobar phir jake 1st se interview du kya? Yeh bhi samajh nhi arhi! Pls any guys help me what ",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Sir mera same huaaa 2 technical and hr round clear hua sab salary diacusion hua ab wo bol rahe hai ki aapka profile hr ko approval ke liye sent kiya hai 8 days hue offer letter release nahi kiya what i do they will release or not im so confuse😢😢",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Koi company offer letter ya salary slip apne employee ko kyun nahi deti",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Sir mera PWC me selection ho gya lekin offer letter abhi tk nhi aaya 25 days ho gye h hr se poucha she said it is pending for approval kya kru sir",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Sir me interview me qualified Kiya tha mera date dia tha join ka but obhi hr balrhahe profile is on hold",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Mujhe latter aa gaya lekin hold ho gaya",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Dear sir my son MBA student MBA fin interview how ga co ne kit bheji hai ok or neg",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Sir... Maine reliance trend me... Interview diya... Wo log online document verification किए... Bole offer letter aayrga mail Pe.. Bt abi tk nhi aaya.. Sir kitna time lgta h offer letter aane me",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Sir mera selection ho gaya hai but aadhe ko offar letter diya hai aadhe ko nhi diya HR se kiya to ye bol rahe ki aapka hold pe rakah hai",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Publicis sapient is not releasing offer letter,first they told june me joining ka batayenge ab bol rahe august mein batayenge. I am a fresher from NIT set to join ASDE-1. In mean time I got offer from startup ,shall i join that in july, I had interned in the startup for more than a year,work is quite good.Does publicis revoke offers?",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Campus se placed hone ke baad bhi offer late h why??",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Can company cancel offer letter if the project gone agar jis project keliye hire kiya tha vo chala gya ho? Kyuki log jb current company se resign kr dete hai toi unko thodi pta hota ki project chala jaayega uski future company ka",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Mere sath hua tha aisa main wait kiya 1 week fir call kiya they said ki wo position close ho chuki no requirement",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Bhai pune Hinjewadi mai rooms milte hn rent pr, society mai na ho",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Sir kis quarter Mai project renew hota hai..kis quarter Mai rampdown hota hai,contract renewal kab hota hai, ...kaun se quarter Mai switch karna sahi rahta hai.",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Welcome kit ane k bd reject kr skte h kya ? Kit m laptop nhi h....",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Bhai ek company se yadi do har offer letter liye ho aur dono baar join na kia ho to next offer letter nikal skta hai please reply mee",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "brother bht tensed hu... aj interview acha gaya bri company k sath aur chances b zyada hain job k magr aik aur company se offer letter b aa gaya ... salary yh walay km dey rahy hain aur na itnay benefits",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Kya dobara accept bhi kr sakte h",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Aaj me bhi isi bat ko lekar udas hu, capgemini ka offer accept kar liya but ab yash technology se better offer later mil gaya, ab tension ho rahi ki pehli bali ka offer kese reject karu😢",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Agar offer letter digitally signed kiya Ho to reject kr skte hai??",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Brother maine Max life ka offer letter accept kr liya h but join nahi karna hai wahan av,kya mai 6months k baad us company me apply kar sakte Hain ya fir wo company kabhi mujhe re hire nhi ksrega",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  },
+  {
+    "text": "Yeha pay ak job nahi mil rahi hame and multiple offer letters!! 😂",
+    "scenario": "hr_fuckup",
+    "typical_emotions": [
+      "angry",
+      "frustrated",
+      "confused",
+      "stressed",
+      "annoyed"
+    ],
+    "do": [
+      "Validate their anger",
+      "Use humor about HR fails",
+      "Suggest immediate action",
+      "Commiserate"
+    ],
+    "dont": [
+      "Defend HR",
+      "Minimize the mistake",
+      "Say 'mistakes happen'",
+      "Be dismissive"
+    ],
+    "tone": "validating friend - understanding the chaos",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Suggest immediate clarification",
+      "Recommend getting it in writing",
+      "Share HR fail memes",
+      "Offer to help draft email"
+    ]
+  }
+]

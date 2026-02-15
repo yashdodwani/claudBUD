@@ -1,0 +1,3350 @@
+[
+  {
+    "text": "WFH mast hai yaar no commute 🏠",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "WFH bore ho gaya bhai ghar se kaam nahi ho raha",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Ghar se kaam nahi ho raha seriously distractions",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Wifi issue during meeting yaar embarrassing",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Camera on karo drama bhai lol",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "WFH mast hai yaar no commute 🏠",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "WFH bore ho gaya bhai ghar se kaam nahi ho raha",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Ghar se kaam nahi ho raha seriously distractions",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Wifi issue during meeting yaar embarrassing",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Camera on karo drama bhai lol",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "WFH mast hai yaar no commute 🏠",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "WFH bore ho gaya bhai ghar se kaam nahi ho raha",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Ghar se kaam nahi ho raha seriously distractions",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Wifi issue during meeting yaar embarrassing",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Camera on karo drama bhai lol",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "WFH mast hai yaar no commute 🏠",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "WFH bore ho gaya bhai ghar se kaam nahi ho raha",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Ghar se kaam nahi ho raha seriously distractions",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Wifi issue during meeting yaar embarrassing",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Camera on karo drama bhai lol",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Bhai software development kha lgti h remote job without experience meri lgwa do",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Graphics Designing mai sab kuch mangte hai",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "My bhi 5k daily kamta hu or next payment aa jati hai",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Mai bhi work from home karta hu daily 2k se 3k tak earning karta hu but payment weekly recieve hoti hai",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Mai bhi work from home karta hu daily 2k - 4k earn karta hu but payment weekly aati hai",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Agar bhi person ghar baith kr kaam krna chata hai work from home opportunity or acha paisa kamana chate hai toh msg kre comment me apna number share kre i will call you",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Hyy 12pass waalo ke liye achi job btaao naa bhai jo achi ho jisme ache pese please bhai aapki madad chahiye",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Kya laptop company se hi provide kiya jaega madam please reply",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Mam maine video cv upload kar diya hai google pe mail aane ke baad ab aage kya process hoga plz reply",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Form bhar hai. Abhi tak reply nahi aaya. Kaise jan sakate hai reply ke bare me",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Form to fill kaya hai ab dkhta h ka hoga",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Starts 2 months training ka pay hoga ?",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Apply link kha hai mam",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Apply toh krdiya ab iske baad kya campany wagra. Mail kb tak karenge?",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Dosto iss job ke liye kabhi apply mat karna kyuki iss company ko insaan nahi aliens chaiye kaam karne ke liye , zindigi bhar inka reply nahi ayega😂",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Sister Pakistan se apply kar sakty h ?",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Link open nhi ho raha hai mam",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Mam Plz Mujhe bhi need h job ki plz bata dijiye kase work from home kar sakta hun",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Bhai software development kha lgti h remote job without experience meri lgwa do",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Graphics Designing mai sab kuch mangte hai",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "My bhi 5k daily kamta hu or next payment aa jati hai",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Mai bhi work from home karta hu daily 2k se 3k tak earning karta hu but payment weekly recieve hoti hai",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Mai bhi work from home karta hu daily 2k - 4k earn karta hu but payment weekly aati hai",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Agar bhi person ghar baith kr kaam krna chata hai work from home opportunity or acha paisa kamana chate hai toh msg kre comment me apna number share kre i will call you",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Hyy 12pass waalo ke liye achi job btaao naa bhai jo achi ho jisme ache pese please bhai aapki madad chahiye",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Kya laptop company se hi provide kiya jaega madam please reply",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Mam maine video cv upload kar diya hai google pe mail aane ke baad ab aage kya process hoga plz reply",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Form bhar hai. Abhi tak reply nahi aaya. Kaise jan sakate hai reply ke bare me",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Form to fill kaya hai ab dkhta h ka hoga",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Starts 2 months training ka pay hoga ?",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Apply link kha hai mam",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Apply toh krdiya ab iske baad kya campany wagra. Mail kb tak karenge?",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Dosto iss job ke liye kabhi apply mat karna kyuki iss company ko insaan nahi aliens chaiye kaam karne ke liye , zindigi bhar inka reply nahi ayega😂",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Sister Pakistan se apply kar sakty h ?",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Bhai software development kha lgti h remote job without experience meri lgwa do",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Graphics Designing mai sab kuch mangte hai",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "My bhi 5k daily kamta hu or next payment aa jati hai",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Mai bhi work from home karta hu daily 2k se 3k tak earning karta hu but payment weekly recieve hoti hai",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Mai bhi work from home karta hu daily 2k - 4k earn karta hu but payment weekly aati hai",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Agar bhi person ghar baith kr kaam krna chata hai work from home opportunity or acha paisa kamana chate hai toh msg kre comment me apna number share kre i will call you",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Hyy 12pass waalo ke liye achi job btaao naa bhai jo achi ho jisme ache pese please bhai aapki madad chahiye",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Kya laptop company se hi provide kiya jaega madam please reply",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Mam maine video cv upload kar diya hai google pe mail aane ke baad ab aage kya process hoga plz reply",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Form bhar hai. Abhi tak reply nahi aaya. Kaise jan sakate hai reply ke bare me",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Form to fill kaya hai ab dkhta h ka hoga",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Starts 2 months training ka pay hoga ?",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Apply link kha hai mam",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Apply toh krdiya ab iske baad kya campany wagra. Mail kb tak karenge?",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Dosto iss job ke liye kabhi apply mat karna kyuki iss company ko insaan nahi aliens chaiye kaam karne ke liye , zindigi bhar inka reply nahi ayega😂",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Sister Pakistan se apply kar sakty h ?",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Mujhe job ki bahut jarorat hai sir😊",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Mai bhi work from home karta hu daily 3k tak earning karta hu but payment weekly recieve hoti hai",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Bhai tum kyu nhi karte remotely",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Website ke naam kaha hai ?",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Bhai software development kha lgti h remote job without experience meri lgwa do",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Graphics Designing mai sab kuch mangte hai",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "My bhi 5k daily kamta hu or next payment aa jati hai",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Mai bhi work from home karta hu daily 2k se 3k tak earning karta hu but payment weekly recieve hoti hai",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Mai bhi work from home karta hu daily 2k - 4k earn karta hu but payment weekly aati hai",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Agar bhi person ghar baith kr kaam krna chata hai work from home opportunity or acha paisa kamana chate hai toh msg kre comment me apna number share kre i will call you",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Hyy 12pass waalo ke liye achi job btaao naa bhai jo achi ho jisme ache pese please bhai aapki madad chahiye",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Kya laptop company se hi provide kiya jaega madam please reply",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Mam maine video cv upload kar diya hai google pe mail aane ke baad ab aage kya process hoga plz reply",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Form bhar hai. Abhi tak reply nahi aaya. Kaise jan sakate hai reply ke bare me",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Form to fill kaya hai ab dkhta h ka hoga",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Starts 2 months training ka pay hoga ?",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Apply link kha hai mam",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Apply toh krdiya ab iske baad kya campany wagra. Mail kb tak karenge?",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Dosto iss job ke liye kabhi apply mat karna kyuki iss company ko insaan nahi aliens chaiye kaam karne ke liye , zindigi bhar inka reply nahi ayega😂",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Sister Pakistan se apply kar sakty h ?",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "फ्रॉड नहीं ऑनलाईन नहीं करना डायरेक्ट jio office jake vancany hai kya bolo jio calling job mila hai",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Kaam koun sa hai aapne details nahi bataya......jio se commission Mila hai😊......?",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Test ka link kaise milta h",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Apply karne ke baad kitne din mein reply aata hai ?",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "aise krne se kuch nhi hota haii nearest jio centre mai jkr cv do after that wo log khud contact krnge within a week verify documents krnge and then they will give you I'd iska bd se training and all 🎉",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Form ke bad reply nii aya ... Kisi ko pta hai kyu?",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Koi work from home karta hai kya mujhe bhi batao",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Call na aaye to kya kare",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Sir can't apply WhatsApp Open ho jata hai then not working",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "bhai usme likha hai 10th wale bi apply kr skte hai but 10th walo k pass resume kha se aayega 🥲",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Koi fyda nhi h abhi tk koi response nhi mila 6month ho gya h😢",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "3 mahine se Apply kr rkha h, but application in progress dikha rha h",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Sir fill kr ne ke bad submit hi nhi hora h",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Bhai nahi ho raha 😢😢",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "2 month se zyada hogya koi call nahi aaya sir😢😢😢",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Apply krne k baad WhatsApp p msg aata h usme kya Krna h ???",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "abey isme kaam kya krna hoga vo to btaya hi nhi",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  },
+  {
+    "text": "Sir sirf video ko badhane ke liye timepass kr rhe he 😂😅",
+    "scenario": "work_from_home",
+    "typical_emotions": [
+      "relaxed",
+      "bored",
+      "frustrated",
+      "comfortable",
+      "isolated"
+    ],
+    "do": [
+      "Share WFH experiences",
+      "Use relatable humor",
+      "Offer productivity tips",
+      "Commiserate"
+    ],
+    "dont": [
+      "Say 'WFH is so easy'",
+      "Dismiss their struggles",
+      "Be preachy",
+      "Ignore isolation"
+    ],
+    "tone": "relatable friend - casual and understanding",
+    "humor_allowed": true,
+    "action_suggestions": [
+      "Share WFH memes",
+      "Suggest virtual hangouts",
+      "Offer productivity hacks",
+      "Commiserate about wifi issues"
+    ]
+  }
+]

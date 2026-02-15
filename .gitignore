@@ -24,7 +24,5 @@ build/
 .DS_Store
 Thumbs.db
 
-# Project specific
-behavior_library/*.json
-!behavior_library/example_*.json
+
 
