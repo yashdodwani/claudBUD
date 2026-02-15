@@ -1,0 +1,44 @@
+# Docker Compose for Local Development
+# Run: docker-compose up
+
+version: '3.8'
+
+services:
+  buddy-ai:
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      - ANTHROPIC_API_KEY=${ANTHROPIC_API_KEY}
+      - MONGO_URI=${MONGO_URI:-}
+      - PORT=8000
+    volumes:
+      # Mount source code for hot reload during development
+      - ./src:/app/src
+      - ./main.py:/app/main.py
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+
+  # Optional: MongoDB for local testing
+  mongodb:
+    image: mongo:7
+    ports:
+      - "27017:27017"
+    environment:
+      - MONGO_INITDB_ROOT_USERNAME=buddy
+      - MONGO_INITDB_ROOT_PASSWORD=buddypass
+      - MONGO_INITDB_DATABASE=buddy_ai
+    volumes:
+      - mongodb_data:/data/db
+    restart: unless-stopped
+    profiles:
+      - with-mongo
+
+volumes:
+  mongodb_data:
+

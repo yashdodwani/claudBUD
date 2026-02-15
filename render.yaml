@@ -1,0 +1,32 @@
+# Render Blueprint for Buddy AI
+# This file enables "Infrastructure as Code" deployment on Render
+
+services:
+  - type: web
+    name: buddy-ai
+    env: docker
+    plan: free  # Change to 'starter' or 'standard' for production
+    branch: main
+    healthCheckPath: /health
+
+    # Environment variables (set in Render dashboard)
+    envVars:
+      - key: ANTHROPIC_API_KEY
+        sync: false  # Must be set manually in dashboard
+
+      - key: MONGO_URI
+        sync: false  # Optional - set if using MongoDB
+
+      - key: PORT
+        value: 10000  # Render's default port
+
+      - key: PYTHONUNBUFFERED
+        value: 1
+
+    # Auto-deploy settings
+    autoDeploy: true  # Deploy on every push to main branch
+
+    # Scaling (for paid plans)
+    # numInstances: 1
+    # maxShutdownDelaySeconds: 30
+
