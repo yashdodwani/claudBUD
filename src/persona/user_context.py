@@ -46,13 +46,20 @@ def load_user_context(user_id: str) -> dict:
     users_collection = get_users_collection()
     memories_collection = get_memories_collection()
 
+    # If MongoDB is unavailable, return default context
+    if users_collection is None or memories_collection is None:
+        return create_default_profile(user_id)
+
     # Try to fetch user profile
     user_profile = users_collection.find_one({"user_id": user_id})
 
     # If user doesn't exist, create default profile
     if not user_profile:
         user_profile = create_default_profile(user_id)
-        users_collection.insert_one(user_profile)
+        try:
+            users_collection.insert_one(user_profile)
+        except Exception as e:
+            print(f"Warning: Could not save user profile: {e}")
 
     # Fetch memory summary
     memory_summary = get_memory_summary(user_id, memories_collection)
@@ -69,13 +76,16 @@ def load_user_context(user_id: str) -> dict:
     }
 
     # Update last interaction timestamp
-    users_collection.update_one(
-        {"user_id": user_id},
-        {
-            "$set": {"last_interaction": datetime.utcnow()},
-            "$inc": {"interaction_count": 1}
-        }
-    )
+    try:
+        users_collection.update_one(
+            {"user_id": user_id},
+            {
+                "$set": {"last_interaction": datetime.utcnow()},
+                "$inc": {"interaction_count": 1}
+            }
+        )
+    except Exception as e:
+        print(f"Warning: Could not update user interaction: {e}")
 
     return context
 
@@ -266,6 +276,11 @@ def update_user_traits(
 
     users_collection = get_users_collection()
 
+    # If MongoDB unavailable, return False
+    if users_collection is None:
+        print("Warning: MongoDB unavailable, cannot update traits")
+        return False
+
     # Extract signals
     emotion = analysis.get('primary_emotion')
     intensity = analysis.get('intensity', 5)
@@ -314,31 +329,35 @@ def update_user_traits(
     if not traits_to_add:
         return False
 
-    # Get current profile
-    profile = users_collection.find_one({"user_id": user_id})
-    if not profile:
-        # Create default profile first
-        profile = create_default_profile(user_id)
-        users_collection.insert_one(profile)
+    try:
+        # Get current profile
+        profile = users_collection.find_one({"user_id": user_id})
+        if not profile:
+            # Create default profile first
+            profile = create_default_profile(user_id)
+            users_collection.insert_one(profile)
 
-    # Get existing traits
-    existing_traits = profile.get('learned_patterns', [])
+        # Get existing traits
+        existing_traits = profile.get('learned_patterns', [])
 
-    # Add new traits (avoid duplicates)
-    for trait in traits_to_add:
-        if trait not in existing_traits:
-            existing_traits.append(trait)
+        # Add new traits (avoid duplicates)
+        for trait in traits_to_add:
+            if trait not in existing_traits:
+                existing_traits.append(trait)
 
-    # Update profile
-    users_collection.update_one(
-        {"user_id": user_id},
-        {
-            "$set": {
-                "learned_patterns": existing_traits,
-                "last_updated": datetime.utcnow()
+        # Update profile
+        users_collection.update_one(
+            {"user_id": user_id},
+            {
+                "$set": {
+                    "learned_patterns": existing_traits,
+                    "last_updated": datetime.utcnow()
+                }
             }
-        }
-    )
+        )
+    except Exception as e:
+        print(f"Error updating user traits: {e}")
+        return False
 
     # Create memory summary entry (NOT storing raw message)
     memory_entry = {

@@ -109,11 +109,15 @@ def buddy_chat(
                     'interaction_count': context.get('interaction_count', 0)
                 }
                 mongodb_available = True
+                print(f"[DEBUG] MongoDB AVAILABLE - loaded context for {user_id}")
+                print(f"[DEBUG] Current traits: {memory.get('learned_patterns', [])}")
+                print(f"[DEBUG] Interaction count: {memory.get('interaction_count', 0)}")
             except Exception as e:
                 print(f"Warning: MongoDB unavailable - {e}")
                 mongodb_available = False
         else:
             mongodb_available = False
+            print("[DEBUG] MongoDB NOT CONFIGURED - no MONGO_URI")
 
         # Step 2: Preprocess input (WhatsApp if needed)
         if source == "whatsapp":
@@ -160,14 +164,17 @@ def buddy_chat(
         if mongodb_available:
             try:
                 # Update learned traits
-                update_user_traits(
+                print(f"[DEBUG] Updating traits for user: {user_id}")
+                trait_result = update_user_traits(
                     user_id=user_id,
                     analysis=analysis.model_dump(),
                     policy=policy.model_dump()
                 )
+                print(f"[DEBUG] Trait update result: {trait_result}")
 
                 # Log interaction
-                log_interaction(
+                print(f"[DEBUG] Logging interaction for user: {user_id}")
+                log_result = log_interaction(
                     user_id=user_id,
                     scenario=knowledge.get('scenario', 'unknown') if knowledge else 'unknown',
                     emotion=analysis.primary_emotion,
@@ -178,14 +185,20 @@ def buddy_chat(
                         'source': source
                     }
                 )
+                print(f"[DEBUG] Log interaction result: {log_result}")
 
                 # Get adaptation message (Step C: Adaptation Reveal)
+                print(f"[DEBUG] Getting interaction stats for user: {user_id}")
                 stats = get_interaction_stats(user_id)
+                print(f"[DEBUG] Stats retrieved: {stats.get('total_interactions', 0)} interactions")
                 if stats.get('adaptations_learned'):
                     learning_message = stats['adaptations_learned'][-1]
+                    print(f"[DEBUG] Learning message: {learning_message}")
 
             except Exception as e:
-                print(f"Warning: Learning/logging failed - {e}")
+                print(f"ERROR: Learning/logging failed - {e}")
+                import traceback
+                traceback.print_exc()
 
         # Step 9: Return complete response
         return {

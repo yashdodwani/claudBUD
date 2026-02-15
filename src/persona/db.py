@@ -87,9 +87,11 @@ class MongoDB:
         return cls._db
 
     @classmethod
-    def get_collection(cls, collection_name: str) -> Collection:
+    def get_collection(cls, collection_name: str) -> Optional[Collection]:
         """Get a specific collection"""
         db = cls.get_db()
+        if db is None:
+            return None
         return db[collection_name]
 
     @classmethod
@@ -101,17 +103,17 @@ class MongoDB:
             cls._db = None
 
 
-def get_users_collection() -> Collection:
+def get_users_collection() -> Optional[Collection]:
     """Get users collection"""
     return MongoDB.get_collection("users")
 
 
-def get_memories_collection() -> Collection:
+def get_memories_collection() -> Optional[Collection]:
     """Get memories collection"""
     return MongoDB.get_collection("memories")
 
 
-def get_conversations_collection() -> Collection:
+def get_conversations_collection() -> Optional[Collection]:
     """Get conversations collection"""
     return MongoDB.get_collection("conversations")
 
