@@ -46,8 +46,18 @@ claudBUD/
   - [x] Android + iOS format support
   - [x] Privacy-first (no storage, memory-only)
   - [x] Integration with Phase 1 + 2
-- [ ] Phase 4: RAG behavior retrieval
-- [ ] Phase 5: Response composer
+- [x] Phase 4: RAG behavior retrieval ✅
+  - [x] retrieve_behavior_knowledge() function
+  - [x] Keyword-based matching
+  - [x] 49 real scenarios from social media
+  - [x] Indian cultural patterns
+- [x] Phase 5: Response composer ✅
+  - [x] generate_buddy_reply() function
+  - [x] Natural Hinglish responses
+  - [x] Context-aware tone matching
+  - [x] Complete system integration
+
+## 🎉 ALL PHASES COMPLETE!
 
 ## Quick Start
 
@@ -63,10 +73,18 @@ pip install -r requirements.txt
 echo "ANTHROPIC_API_KEY=your_key_here" > .env
 
 # 4. Run demos
-python demo_policy.py                # Static policy examples
-python example_policy_decider.py     # Live Claude policy generation
-python example_social_analyzer.py    # Social signal extraction
+python demo_policy.py                # Static policy examples (Phase 1)
+python example_policy_decider.py     # Live Claude policy generation (Phase 1)
+python example_social_analyzer.py    # Social signal extraction (Phase 2)
 python example_integration.py        # Phase 1 + Phase 2 together
+python example_full_pipeline.py      # Phase 1 + 2 + 3 together
+python example_complete_system.py    # 🎉 ALL 5 PHASES TOGETHER!
+
+# 5. Test components
+python tests/test_behavior_policy.py        # Phase 1 tests
+python tests/test_social_analyzer.py        # Phase 2 tests
+python tests/test_whatsapp_parser.py        # Phase 3 tests
+python tests/test_rag_retrieval.py          # Phase 4 tests
 ```
 
 ## Phase 1 Complete ✅
@@ -193,4 +211,92 @@ policy = generate_behavior_policy({
 ```
 
 See `PHASE1_COMPLETE.md`, `PHASE2_COMPLETE.md`, and `PHASE3_COMPLETE.md` for detailed documentation.
+
+## Phase 4 Complete ✅
+
+The Behavior RAG system is fully operational:
+- **retrieve_behavior_knowledge()**: Keyword-based pattern matching
+- **49 Real Scenarios**: Extracted from Indian social media
+- **Cultural Intelligence**: Do's, don'ts, and tone guidelines
+- **find_relevant_knowledge()**: Smart context-aware retrieval
+
+### Quick Usage - Phase 4
+
+```python
+from rag import retrieve_behavior_knowledge, find_relevant_knowledge
+
+# Basic retrieval
+knowledge = retrieve_behavior_knowledge("office stress work")
+print(knowledge['scenario'])      # 'office_stress'
+print(knowledge['do'])            # List of helpful patterns
+print(knowledge['dont'])          # List of things to avoid
+
+# Context-aware retrieval
+knowledge = find_relevant_knowledge(
+    user_message="Boss yelled at me",
+    social_analysis={'primary_emotion': 'anger', 'relationship': 'authority'}
+)
+```
+
+## Phase 5 Complete ✅
+
+The Response Composer is fully operational:
+- **generate_buddy_reply()**: Final response generation
+- **Natural Hinglish**: Real friend vibes, not robotic
+- **Cultural Context**: Indian communication patterns
+- **Policy-Driven**: Follows behavior policy strictly
+
+### Quick Usage - Phase 5
+
+```python
+from composer import generate_reply
+
+# Generate final response
+response = generate_reply(
+    user_input="My manager humiliated me in meeting",
+    analysis=social_analysis,     # From Phase 2
+    policy=behavior_policy,        # From Phase 1
+    rag_knowledge=retrieved_knowledge  # From Phase 4
+)
+
+print(response)  # Natural, context-aware Buddy response!
+```
+
+## Complete System - All 5 Phases
+
+```python
+from extractors import analyze_social_context
+from policy_engine import generate_behavior_policy
+from rag import find_relevant_knowledge
+from composer import generate_reply
+
+# User input
+user_input = "My boss just yelled at me in front of everyone"
+
+# Phase 2: Extract signals
+analysis = analyze_social_context(user_input)
+
+# Phase 1: Generate policy
+policy = generate_behavior_policy({
+    "user_message": user_input,
+    "emotion": analysis.primary_emotion,
+    "relationship": analysis.relationship,
+    "conflict_risk": analysis.conflict_risk
+})
+
+# Phase 4: Retrieve knowledge
+knowledge = find_relevant_knowledge(user_input, analysis.model_dump())
+
+# Phase 5: Generate response
+response = generate_reply(
+    user_input=user_input,
+    analysis=analysis,
+    policy=policy,
+    rag_knowledge=knowledge
+)
+
+print(response)  # Complete, culturally-aware Buddy response!
+```
+
+See `PHASE4_COMPLETE.md` and `PHASE5_COMPLETE.md` for detailed documentation.
 
