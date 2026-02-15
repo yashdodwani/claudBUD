@@ -183,16 +183,29 @@ async def get_learning_insights(user_id: str):
                 traits=[],
                 common_scenarios=[],
                 common_emotions=[],
-                adaptations_learned=["MongoDB not configured - no learning data available"]
+                adaptations_learned=["Learning features require MongoDB (currently unavailable)"]
             )
 
-        stats = get_interaction_stats(user_id)
+        try:
+            stats = get_interaction_stats(user_id)
+        except Exception as e:
+            # MongoDB error - return graceful response
+            print(f"MongoDB error in get_interaction_stats: {e}")
+            return LearningResponse(
+                user_id=user_id,
+                total_interactions=0,
+                traits=[],
+                common_scenarios=[],
+                common_emotions=[],
+                adaptations_learned=["Learning data temporarily unavailable"]
+            )
 
         # Get traits
         try:
             from persona import get_user_traits
             traits = get_user_traits(user_id)
-        except:
+        except Exception as e:
+            print(f"Error getting traits: {e}")
             traits = []
 
         return LearningResponse(
@@ -205,7 +218,16 @@ async def get_learning_insights(user_id: str):
         )
 
     except Exception as e:
-        raise HTTPException(status_code=500, detail=str(e))
+        # Last resort - don't crash
+        print(f"Error in learning endpoint: {e}")
+        return LearningResponse(
+            user_id=user_id,
+            total_interactions=0,
+            traits=[],
+            common_scenarios=[],
+            common_emotions=[],
+            adaptations_learned=["Learning insights temporarily unavailable"]
+        )
 
 
 @router.get("/health")

@@ -30,11 +30,21 @@ def retrieve_behavior_knowledge(scenario: str) -> dict:
         >>> print(knowledge.get('do'))  # List of helpful patterns
     """
 
-    # Get behavior library path
-    lib_path = Path(__file__).parent.parent.parent / "behavior_library"
+    # Try multiple possible paths for behavior_library
+    possible_paths = [
+        Path(__file__).parent.parent.parent / "behavior_library",  # Development
+        Path("/app/behavior_library"),  # Docker production
+        Path.cwd() / "behavior_library",  # Alternative
+    ]
 
-    if not lib_path.exists():
-        print(f"Warning: behavior_library not found at {lib_path}")
+    lib_path = None
+    for path in possible_paths:
+        if path.exists():
+            lib_path = path
+            break
+
+    if lib_path is None:
+        print(f"Warning: behavior_library not found. Tried: {[str(p) for p in possible_paths]}")
         return {}
 
     # Convert scenario to lowercase keywords

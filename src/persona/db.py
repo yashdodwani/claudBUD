@@ -43,8 +43,14 @@ class MongoDB:
         if not uri:
             raise ValueError("MONGO_URI not found in environment")
 
-        # Connect
-        cls._client = MongoClient(uri)
+        # Connect with SSL/TLS parameters for MongoDB Atlas compatibility
+        cls._client = MongoClient(
+            uri,
+            tls=True,
+            tlsAllowInvalidCertificates=True,  # For compatibility
+            serverSelectionTimeoutMS=5000,     # Faster timeout
+            connectTimeoutMS=5000
+        )
 
         # Try to get database from URI, otherwise use default name
         try:
