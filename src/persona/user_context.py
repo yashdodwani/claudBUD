@@ -228,3 +228,157 @@ def get_user_profile(user_id: str) -> Optional[Dict]:
     users_collection = get_users_collection()
     return users_collection.find_one({"user_id": user_id})
 
+
+def update_user_traits(
+    user_id: str,
+    analysis: Dict[str, Any],
+    policy: Dict[str, Any]
+) -> bool:
+    """
+    Update user traits based on behavioral signals.
+
+    Maps signals to personality traits and updates memory summaries.
+    Does NOT store raw messages - only behavioral patterns.
+
+    Signal → Trait Mapping:
+    - Authority conflict often → avoids_conflict
+    - Long venting sessions → needs_validation
+    - High intensity anxiety → reassurance_seeking
+    - Humor preference → humor_responsive
+    - Frequent practical help → solution_oriented
+
+    Args:
+        user_id: User identifier
+        analysis: Social analysis dict (emotion, relationship, intensity, etc.)
+        policy: Behavior policy dict (mode, tone, etc.)
+
+    Returns:
+        True if traits updated successfully
+
+    Example:
+        >>> update_user_traits(
+        ...     user_id="user_123",
+        ...     analysis={'primary_emotion': 'anxiety', 'intensity': 8, 'relationship': 'authority'},
+        ...     policy={'mode': 'venting_listener', 'humor_level': 0}
+        ... )
+        True
+    """
+
+    users_collection = get_users_collection()
+
+    # Extract signals
+    emotion = analysis.get('primary_emotion')
+    intensity = analysis.get('intensity', 5)
+    relationship = analysis.get('relationship')
+    conflict_risk = analysis.get('conflict_risk')
+    user_need = analysis.get('user_need')
+
+    mode = policy.get('mode')
+    humor_level = policy.get('humor_level', 1)
+
+    # Determine traits from signals
+    traits_to_add = []
+
+    # Authority conflict patterns
+    if relationship == 'authority' and conflict_risk == 'high':
+        traits_to_add.append('avoids_conflict')
+
+    # Venting patterns
+    if mode == 'venting_listener' or user_need == 'vent':
+        traits_to_add.append('needs_validation')
+
+    # Anxiety patterns
+    if emotion in ['anxiety', 'stressed'] and intensity >= 7:
+        traits_to_add.append('reassurance_seeking')
+
+    # High anxiety in general
+    if emotion == 'anxiety' and intensity >= 8:
+        traits_to_add.append('high_anxiety_baseline')
+
+    # Humor responsiveness
+    if humor_level >= 2 and emotion in ['boredom', 'neutral', 'happy']:
+        traits_to_add.append('humor_responsive')
+
+    # Solution-oriented
+    if user_need in ['advice', 'decision_help'] or mode == 'practical_helper':
+        traits_to_add.append('solution_oriented')
+
+    # Emotional support needs
+    if user_need in ['reassurance', 'validation']:
+        traits_to_add.append('needs_emotional_support')
+
+    # Workplace stress patterns
+    if relationship == 'authority' and emotion in ['frustration', 'anger', 'anxiety']:
+        traits_to_add.append('workplace_stress_prone')
+
+    if not traits_to_add:
+        return False
+
+    # Get current profile
+    profile = users_collection.find_one({"user_id": user_id})
+    if not profile:
+        # Create default profile first
+        profile = create_default_profile(user_id)
+        users_collection.insert_one(profile)
+
+    # Get existing traits
+    existing_traits = profile.get('learned_patterns', [])
+
+    # Add new traits (avoid duplicates)
+    for trait in traits_to_add:
+        if trait not in existing_traits:
+            existing_traits.append(trait)
+
+    # Update profile
+    users_collection.update_one(
+        {"user_id": user_id},
+        {
+            "$set": {
+                "learned_patterns": existing_traits,
+                "last_updated": datetime.utcnow()
+            }
+        }
+    )
+
+    # Create memory summary entry (NOT storing raw message)
+    memory_entry = {
+        "user_id": user_id,
+        "timestamp": datetime.utcnow(),
+        "traits_identified": traits_to_add,
+        "signals": {
+            "emotion": emotion,
+            "intensity": intensity,
+            "relationship": relationship,
+            "conflict_risk": conflict_risk,
+            "user_need": user_need,
+            "mode": mode
+        },
+        "type": "trait_update"
+    }
+
+    # Save to memory_summaries collection
+    db = get_users_collection().database
+    memory_summaries = db["memory_summaries"]
+    memory_summaries.insert_one(memory_entry)
+
+    return True
+
+
+def get_user_traits(user_id: str) -> list:
+    """
+    Get learned traits for a user.
+
+    Args:
+        user_id: User identifier
+
+    Returns:
+        List of learned trait strings
+    """
+
+    profile = get_user_profile(user_id)
+    if not profile:
+        return []
+
+    return profile.get('learned_patterns', [])
+
+

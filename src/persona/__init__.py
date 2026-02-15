@@ -7,7 +7,9 @@ from .user_context import (
     get_memory_summary,
     update_user_preferences,
     save_memory,
-    get_user_profile
+    get_user_profile,
+    update_user_traits,
+    get_user_traits
 )
 
 __all__ = [
@@ -19,6 +21,8 @@ __all__ = [
     "create_default_profile",
     "update_user_preferences",
     "save_memory",
-    "get_user_profile"
+    "get_user_profile",
+    "update_user_traits",
+    "get_user_traits"
 ]
 

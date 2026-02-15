@@ -45,7 +45,13 @@ class MongoDB:
 
         # Connect
         cls._client = MongoClient(uri)
-        cls._db = cls._client.get_database()  # Uses default database from URI
+
+        # Try to get database from URI, otherwise use default name
+        try:
+            cls._db = cls._client.get_database()  # Uses default database from URI
+        except:
+            # If no database in URI, use default name
+            cls._db = cls._client["buddy_ai"]
 
         return cls._db
 
