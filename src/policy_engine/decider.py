@@ -64,7 +64,7 @@ def generate_behavior_policy(context: dict) -> BehaviorPolicy:
     try:
         # Call Claude API
         message = client.messages.create(
-            model="claude-3-5-sonnet-20241022",
+            model="claude-sonnet-4-20250514",
             max_tokens=500,
             system=system_prompt,
             messages=[
@@ -169,7 +169,7 @@ class PolicyDecider:
 
         # Call Claude to decide policy
         message = self.client.messages.create(
-            model="claude-3-5-sonnet-20241022",
+            model="claude-sonnet-4-20250514",
             max_tokens=500,
             system=self.system_prompt,
             messages=[
