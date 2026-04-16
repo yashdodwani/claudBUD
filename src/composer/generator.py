@@ -9,7 +9,7 @@ import os
 import json
 from pathlib import Path
 from typing import Optional, Dict, Any
-from anthropic import Anthropic
+from openai import OpenAI
 
 
 def generate_buddy_reply(
@@ -45,6 +45,9 @@ def generate_buddy_reply(
     Returns:
         Generated response text
 
+    Raises:
+        ValueError: If OPENROUTER_API_KEY is not set
+
     Example:
         >>> reply = generate_buddy_reply(
         ...     user_input="Bhai train chut gayi",
@@ -58,12 +61,15 @@ def generate_buddy_reply(
     """
 
     # Get API key
-    api_key = os.getenv("ANTHROPIC_API_KEY")
+    api_key = os.getenv("OPENROUTER_API_KEY")
     if not api_key:
-        raise ValueError("ANTHROPIC_API_KEY not found in environment")
+        raise ValueError("OPENROUTER_API_KEY not found in environment")
 
     # Initialize client
-    client = Anthropic(api_key=api_key)
+    client = OpenAI(
+        base_url="https://openrouter.ai/api/v1",
+        api_key=api_key,
+    )
 
     # Load system prompt
     prompt_path = Path(__file__).parent / "response_prompt.txt"
@@ -181,21 +187,19 @@ def generate_buddy_reply(
     full_context = "\n".join(context_parts)
 
     try:
-        # Call Claude
-        message = client.messages.create(
-            model="claude-sonnet-4-20250514",
-            max_tokens=1000,
-            system=system_prompt,
+        # Call API
+        response = client.chat.completions.create(
+            model="nvidia/nemotron-3-super-120b-a12b:free",
             messages=[
-                {
-                    "role": "user",
-                    "content": full_context
-                }
-            ]
+                {"role": "system", "content": system_prompt},
+                {"role": "user", "content": full_context}
+            ],
+            extra_body={"reasoning": {"enabled": True}}
         )
 
         # Extract response
-        response_text = message.content[0].text.strip()
+        response_text = response.choices[0].message.content.strip()
+
         return response_text
 
     except Exception as e:
@@ -252,4 +256,3 @@ def generate_reply(
         memory=memory,
         meta=meta
     )
-

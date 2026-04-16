@@ -9,16 +9,16 @@ import os
 import json
 from pathlib import Path
 from typing import Optional
-from anthropic import Anthropic
+from openai import OpenAI
 from .models import BehaviorPolicy
 
 
 def generate_behavior_policy(context: dict) -> BehaviorPolicy:
     """
-    Generate a BehaviorPolicy from context using Claude API.
+    Generate a BehaviorPolicy from context using Gemini API.
 
     This is a standalone function that:
-    - Calls Claude API with behavior_policy_prompt.txt
+    - Calls Gemini API with behavior_policy_prompt.txt
     - Passes context as JSON
     - Parses response into BehaviorPolicy
     - Falls back to safe default if parsing fails
@@ -35,7 +35,7 @@ def generate_behavior_policy(context: dict) -> BehaviorPolicy:
         BehaviorPolicy object
 
     Raises:
-        ValueError: If ANTHROPIC_API_KEY is not set
+        ValueError: If OPENROUTER_API_KEY is not set
 
     Example:
         >>> policy = generate_behavior_policy({
@@ -46,37 +46,38 @@ def generate_behavior_policy(context: dict) -> BehaviorPolicy:
         >>> print(policy.mode)  # diplomatic_advisor
     """
     # Get API key
-    api_key = os.getenv("ANTHROPIC_API_KEY")
+    api_key = os.getenv("OPENROUTER_API_KEY")
     if not api_key:
-        raise ValueError("ANTHROPIC_API_KEY not found in environment")
+        raise ValueError("OPENROUTER_API_KEY not found in environment")
 
     # Initialize client
-    client = Anthropic(api_key=api_key)
+    client = OpenAI(
+        base_url="https://openrouter.ai/api/v1",
+        api_key=api_key,
+    )
 
     # Load system prompt
     prompt_path = Path(__file__).parent / "behavior_policy_prompt.txt"
     with open(prompt_path, "r") as f:
         system_prompt = f.read()
 
-    # Convert context dict to readable format for Claude
+    # Convert context dict to readable format for Gemini
     context_str = json.dumps(context, indent=2)
 
     try:
-        # Call Claude API
-        message = client.messages.create(
-            model="claude-sonnet-4-20250514",
-            max_tokens=500,
-            system=system_prompt,
+        # Call API
+        response = client.chat.completions.create(
+            model="nvidia/nemotron-3-super-120b-a12b:free",
             messages=[
-                {
-                    "role": "user",
-                    "content": f"Context:\n{context_str}"
-                }
-            ]
+                {"role": "system", "content": system_prompt},
+                {"role": "user", "content": f"Context:\n{context_str}"}
+            ],
+            response_format={ "type": "json_object" },
+            extra_body={"reasoning": {"enabled": True}}
         )
 
         # Parse response
-        response_text = message.content[0].text.strip()
+        response_text = response.choices[0].message.content.strip()
 
         # Handle markdown code blocks
         if response_text.startswith("```"):
@@ -106,7 +107,7 @@ def generate_behavior_policy(context: dict) -> BehaviorPolicy:
 
 class PolicyDecider:
     """
-    Decides BehaviorPolicy using Claude based on user context.
+    Decides BehaviorPolicy using Gemini based on user context.
 
     Takes in:
     - User message
@@ -119,16 +120,19 @@ class PolicyDecider:
 
     def __init__(self, api_key: Optional[str] = None):
         """
-        Initialize PolicyDecider with Anthropic API key.
+        Initialize PolicyDecider with OpenRouter API key.
 
         Args:
-            api_key: Anthropic API key. If None, reads from ANTHROPIC_API_KEY env var
+            api_key: OpenRouter API key. If None, reads from OPENROUTER_API_KEY env var
         """
-        self.api_key = api_key or os.getenv("ANTHROPIC_API_KEY")
+        self.api_key = api_key or os.getenv("OPENROUTER_API_KEY")
         if not self.api_key:
-            raise ValueError("ANTHROPIC_API_KEY not found in environment or constructor")
+            raise ValueError("OPENROUTER_API_KEY not found in environment or constructor")
 
-        self.client = Anthropic(api_key=self.api_key)
+        self.client = OpenAI(
+            base_url="https://openrouter.ai/api/v1",
+            api_key=self.api_key,
+        )
 
         # Load the behavior policy prompt
         prompt_path = Path(__file__).parent / "behavior_policy_prompt.txt"
@@ -155,7 +159,7 @@ class PolicyDecider:
             BehaviorPolicy object with decided parameters
         """
 
-        # Build context for Claude
+        # Build context for Gemini
         context_parts = [f"User message: {user_message}"]
 
         if emotion:
@@ -167,21 +171,19 @@ class PolicyDecider:
 
         user_context = "\n".join(context_parts)
 
-        # Call Claude to decide policy
-        message = self.client.messages.create(
-            model="claude-sonnet-4-20250514",
-            max_tokens=500,
-            system=self.system_prompt,
+        # Call API to decide policy
+        response = self.client.chat.completions.create(
+            model="nvidia/nemotron-3-super-120b-a12b:free",
             messages=[
-                {
-                    "role": "user",
-                    "content": user_context
-                }
-            ]
+                {"role": "system", "content": self.system_prompt},
+                {"role": "user", "content": user_context}
+            ],
+            response_format={ "type": "json_object" },
+            extra_body={"reasoning": {"enabled": True}}
         )
 
         # Parse JSON response
-        response_text = message.content[0].text.strip()
+        response_text = response.choices[0].message.content.strip()
 
         # Handle potential markdown code blocks
         if response_text.startswith("```"):
@@ -225,4 +227,3 @@ class PolicyDecider:
             relationship=relationship,
             situation=situation
         )
-

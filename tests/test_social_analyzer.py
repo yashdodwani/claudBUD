@@ -18,8 +18,8 @@ def test_analyze_social_context():
     # Load environment
     load_dotenv()
 
-    if not os.getenv("ANTHROPIC_API_KEY"):
-        print("❌ ANTHROPIC_API_KEY not found in environment")
+    if not os.getenv("OPENROUTER_API_KEY"):
+        print("❌ OPENROUTER_API_KEY not found in environment")
         return
 
     print("=" * 70)

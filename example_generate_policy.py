@@ -17,9 +17,9 @@ def main():
     # Load API key
     load_dotenv()
 
-    if not os.getenv("ANTHROPIC_API_KEY"):
-        print("⚠️  ANTHROPIC_API_KEY not set!")
-        print("   Create a .env file with: ANTHROPIC_API_KEY=your_key_here")
+    if not os.getenv("OPENROUTER_API_KEY"):
+        print("⚠️  OPENROUTER_API_KEY not set!")
+        print("   Create a .env file with: OPENROUTER_API_KEY=your_key_here")
         return
 
     print("=" * 70)

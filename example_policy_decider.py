@@ -9,7 +9,7 @@ This demonstrates Phase 1 complete implementation:
 - This policy will control how Claude responds
 
 Usage:
-1. Set ANTHROPIC_API_KEY in .env file
+1. Set OPENROUTER_API_KEY in .env file
 2. Run: python example_policy_decider.py
 """
 
@@ -25,9 +25,9 @@ def main():
     # Load API key from .env
     load_dotenv()
 
-    if not os.getenv("ANTHROPIC_API_KEY"):
-        print("⚠️  ANTHROPIC_API_KEY not set!")
-        print("   Create a .env file with: ANTHROPIC_API_KEY=your_key_here")
+    if not os.getenv("OPENROUTER_API_KEY"):
+        print("⚠️  OPENROUTER_API_KEY not set!")
+        print("   Create a .env file with: OPENROUTER_API_KEY=your_key_here")
         return
 
     print("=" * 70)

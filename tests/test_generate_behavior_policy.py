@@ -18,8 +18,8 @@ def test_generate_behavior_policy():
     # Load environment
     load_dotenv()
 
-    if not os.getenv("ANTHROPIC_API_KEY"):
-        print("❌ ANTHROPIC_API_KEY not found in environment")
+    if not os.getenv("OPENROUTER_API_KEY"):
+        print("❌ OPENROUTER_API_KEY not found in environment")
         print("   Set it in .env file to run this test")
         return
 
