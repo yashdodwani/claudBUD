@@ -93,8 +93,8 @@ def buddy_chat(
         context = None
         memory = None
 
-        # Check if MongoDB is available
-        if os.getenv("MONGO_URI"):
+        # Check if Database is available
+        if os.getenv("DATABASE_URL"):
             try:
                 from persona import (
                     load_user_context,
@@ -108,16 +108,16 @@ def buddy_chat(
                     'learned_patterns': context.get('learned_patterns', []),
                     'interaction_count': context.get('interaction_count', 0)
                 }
-                mongodb_available = True
-                print(f"[DEBUG] MongoDB AVAILABLE - loaded context for {user_id}")
+                db_available = True
+                print(f"[DEBUG] Database AVAILABLE - loaded context for {user_id}")
                 print(f"[DEBUG] Current traits: {memory.get('learned_patterns', [])}")
                 print(f"[DEBUG] Interaction count: {memory.get('interaction_count', 0)}")
             except Exception as e:
-                print(f"Warning: MongoDB unavailable - {e}")
-                mongodb_available = False
+                print(f"Warning: Database unavailable - {e}")
+                db_available = False
         else:
-            mongodb_available = False
-            print("[DEBUG] MongoDB NOT CONFIGURED - no MONGO_URI")
+            db_available = False
+            print("[DEBUG] Database NOT CONFIGURED - no DATABASE_URL")
 
         # Step 2: Preprocess input (WhatsApp if needed)
         if source == "whatsapp":
@@ -158,10 +158,10 @@ def buddy_chat(
             meta=meta  # Real-world context injection!
         )
 
-        # Step 7 & 8: Update traits and log interaction (if MongoDB available)
+        # Step 7 & 8: Update traits and log interaction (if Database available)
         learning_message = None
 
-        if mongodb_available:
+        if db_available:
             try:
                 # Update learned traits
                 print(f"[DEBUG] Updating traits for user: {user_id}")

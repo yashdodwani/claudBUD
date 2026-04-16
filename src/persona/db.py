@@ -1,119 +1,95 @@
 """
-MongoDB Connection Module
+PostgreSQL Connection Module
 
 Handles database connections for user persona and memory storage.
+Uses SQLAlchemy with Neon DB (PostgreSQL).
 """
 
 import os
 from typing import Optional
+from urllib.parse import urlparse, urlencode, parse_qs, urlunparse
 from dotenv import load_dotenv
-from pymongo import MongoClient
-from pymongo.database import Database
-from pymongo.collection import Collection
+from sqlalchemy import create_engine, text
+from sqlalchemy.orm import sessionmaker, Session
 
-# Load environment variables from .env
 load_dotenv()
 
 
-class MongoDB:
-    """MongoDB connection manager"""
+def _clean_db_url(url: str) -> str:
+    """
+    Strip connection params unsupported by psycopg2 (e.g. channel_binding).
+    Keeps sslmode and other valid params.
+    """
+    parsed = urlparse(url)
+    params = parse_qs(parsed.query, keep_blank_values=True)
+    params.pop("channel_binding", None)
+    new_query = urlencode({k: v[0] for k, v in params.items()})
+    return urlunparse(parsed._replace(query=new_query))
 
-    _client: Optional[MongoClient] = None
-    _db: Optional[Database] = None
+
+class PostgresDB:
+    """PostgreSQL connection manager (singleton)"""
+
+    _engine = None
+    _SessionLocal = None
 
     @classmethod
-    def connect(cls, mongo_uri: Optional[str] = None) -> Database:
+    def connect(cls, db_url: Optional[str] = None):
         """
-        Connect to MongoDB and return database instance.
+        Connect to PostgreSQL and set up session factory.
 
         Args:
-            mongo_uri: MongoDB connection string (if None, reads from MONGO_URI env var)
-
-        Returns:
-            MongoDB database instance
-
-        Raises:
-            ValueError: If MONGO_URI not found
+            db_url: PostgreSQL connection URL (reads DATABASE_URL from env if None)
         """
-        if cls._db is not None:
-            return cls._db
+        if cls._engine is not None:
+            return cls._engine
 
-        # Get MongoDB URI
-        uri = mongo_uri or os.getenv("MONGO_URI")
-        if not uri:
-            raise ValueError("MONGO_URI not found in environment")
+        url = db_url or os.getenv("DATABASE_URL")
+        if not url:
+            raise ValueError("DATABASE_URL not found in environment")
 
-        # Connect with proper configuration for MongoDB Atlas
+        url = _clean_db_url(url)
+
         try:
-            cls._client = MongoClient(
-                uri,
-                serverSelectionTimeoutMS=5000,
-                connectTimeoutMS=5000,
-                socketTimeoutMS=5000
+            cls._engine = create_engine(
+                url,
+                pool_pre_ping=True,
+                pool_size=5,
+                max_overflow=10,
             )
-
             # Test connection
-            cls._client.admin.command('ping')
-
+            with cls._engine.connect() as conn:
+                conn.execute(text("SELECT 1"))
+            print("[PostgreSQL] Successfully connected to Neon DB!")
+            cls._SessionLocal = sessionmaker(
+                bind=cls._engine, autocommit=False, autoflush=False
+            )
         except Exception as e:
-            print(f"MongoDB connection error: {e}")
-            # Don't raise - let app work without MongoDB
-            cls._client = None
-            cls._db = None
+            print(f"PostgreSQL connection error: {e}")
+            cls._engine = None
+            cls._SessionLocal = None
             return None
 
-        # Try to get database from URI, otherwise use default name
-        if cls._client:
-            try:
-                cls._db = cls._client.get_database()  # Uses default database from URI
-            except Exception as e:
-                print(f"Database selection error: {e}")
-                # If no database in URI, use default name
-                try:
-                    cls._db = cls._client["buddy_ai"]
-                except Exception as e:
-                    print(f"Failed to create default database: {e}")
-                    cls._client = None
-                    cls._db = None
-                    return None
-
-        return cls._db
+        return cls._engine
 
     @classmethod
-    def get_db(cls) -> Database:
-        """Get database instance (connects if not already connected)"""
-        if cls._db is None:
+    def get_session(cls) -> Optional[Session]:
+        """Get a new database session (caller must close it)"""
+        if cls._SessionLocal is None:
             cls.connect()
-        return cls._db
-
-    @classmethod
-    def get_collection(cls, collection_name: str) -> Optional[Collection]:
-        """Get a specific collection"""
-        db = cls.get_db()
-        if db is None:
+        if cls._SessionLocal is None:
             return None
-        return db[collection_name]
+        return cls._SessionLocal()
 
     @classmethod
     def close(cls):
-        """Close MongoDB connection"""
-        if cls._client:
-            cls._client.close()
-            cls._client = None
-            cls._db = None
+        """Dispose engine and clear state"""
+        if cls._engine:
+            cls._engine.dispose()
+            cls._engine = None
+            cls._SessionLocal = None
 
 
-def get_users_collection() -> Optional[Collection]:
-    """Get users collection"""
-    return MongoDB.get_collection("users")
-
-
-def get_memories_collection() -> Optional[Collection]:
-    """Get memories collection"""
-    return MongoDB.get_collection("memories")
-
-
-def get_conversations_collection() -> Optional[Collection]:
-    """Get conversations collection"""
-    return MongoDB.get_collection("conversations")
-
+def get_db_session() -> Optional[Session]:
+    """Convenience function to get a database session"""
+    return PostgresDB.get_session()

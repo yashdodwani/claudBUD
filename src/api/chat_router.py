@@ -22,9 +22,9 @@ from orchestrator import buddy_chat
 # Import stats function
 try:
     from persona import get_interaction_stats
-    mongodb_available = True
+    db_available = True
 except:
-    mongodb_available = False
+    db_available = False
 
 
 # Request/Response Models
@@ -176,21 +176,21 @@ async def get_learning_insights(user_id: str):
         }
     """
     try:
-        if not mongodb_available:
+        if not db_available:
             return LearningResponse(
                 user_id=user_id,
                 total_interactions=0,
                 traits=[],
                 common_scenarios=[],
                 common_emotions=[],
-                adaptations_learned=["Learning features require MongoDB (currently unavailable)"]
+                adaptations_learned=["Learning features require Database (currently unavailable)"]
             )
 
         try:
             stats = get_interaction_stats(user_id)
         except Exception as e:
-            # MongoDB error - return graceful response
-            print(f"MongoDB error in get_interaction_stats: {e}")
+            # Database error - return graceful response
+            print(f"Database error in get_interaction_stats: {e}")
             return LearningResponse(
                 user_id=user_id,
                 total_interactions=0,

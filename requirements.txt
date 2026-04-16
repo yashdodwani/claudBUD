@@ -9,8 +9,10 @@ python-dotenv>=1.0.0
 # Claude API
 anthropic>=0.18.0
 
-# Database (Optional - for learning features)
-pymongo>=4.6.0
+# Database - PostgreSQL
+sqlalchemy>=2.0.0
+psycopg2-binary>=2.9.9
+alembic>=1.13.0
 
 # HTTP Client (for API calls)
 httpx>=0.27.0
@@ -20,4 +22,3 @@ orjson>=3.9.0
 
 # Logging (Optional but nice)
 rich>=13.0.0
-
