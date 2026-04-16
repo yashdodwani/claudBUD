@@ -2,97 +2,92 @@
 User Context Management
 
 Loads and manages user profiles and memory for personalized responses.
+Uses PostgreSQL via SQLAlchemy (Neon DB).
 """
 
-import os
 from typing import Dict, Optional, Any
 from datetime import datetime
-from dotenv import load_dotenv
-from .db import get_users_collection, get_memories_collection
-
-# Load environment variables from .env
-load_dotenv()
+from .db import get_db_session
+from .models import User, Memory, Interaction, MemorySummary
 
 
 def load_user_context(user_id: str) -> dict:
     """
-    Load user context from MongoDB.
+    Load user context from PostgreSQL.
 
-    Fetches:
-    - User profile (preferences, communication style)
-    - Memory summary (recent interactions, learned patterns)
-
-    If user doesn't exist, creates default profile.
+    Fetches user profile and recent memory summary.
+    Creates a default profile if the user doesn't exist.
 
     Args:
         user_id: Unique user identifier
 
     Returns:
-        Compact dict usable in prompts with:
-        - user_id
-        - preferences (response style, humor level, etc.)
-        - communication_style
-        - memory_summary (recent learnings)
-        - interaction_count
-        - created_at
-        - last_interaction
-
-    Example:
-        >>> context = load_user_context("user_123")
-        >>> print(context['preferences']['humor_level'])  # 'medium'
-        >>> print(context['memory_summary'])  # Recent patterns
+        Compact dict usable in prompts with preferences, memory_summary, etc.
     """
-
-    users_collection = get_users_collection()
-    memories_collection = get_memories_collection()
-
-    # If MongoDB is unavailable, return default context
-    if users_collection is None or memories_collection is None:
+    session = get_db_session()
+    if session is None:
         return create_default_profile(user_id)
 
-    # Try to fetch user profile
-    user_profile = users_collection.find_one({"user_id": user_id})
-
-    # If user doesn't exist, create default profile
-    if not user_profile:
-        user_profile = create_default_profile(user_id)
-        try:
-            users_collection.insert_one(user_profile)
-        except Exception as e:
-            print(f"Warning: Could not save user profile: {e}")
-
-    # Fetch memory summary
-    memory_summary = get_memory_summary(user_id, memories_collection)
-
-    # Build compact context for prompts
-    context = {
-        "user_id": user_id,
-        "preferences": user_profile.get("preferences", {}),
-        "communication_style": user_profile.get("communication_style", "casual"),
-        "memory_summary": memory_summary,
-        "interaction_count": user_profile.get("interaction_count", 0),
-        "created_at": user_profile.get("created_at"),
-        "last_interaction": user_profile.get("last_interaction")
-    }
-
-    # Update last interaction timestamp
     try:
-        users_collection.update_one(
-            {"user_id": user_id},
-            {
-                "$set": {"last_interaction": datetime.utcnow()},
-                "$inc": {"interaction_count": 1}
-            }
-        )
-    except Exception as e:
-        print(f"Warning: Could not update user interaction: {e}")
+        user = session.query(User).filter_by(user_id=user_id).first()
 
-    return context
+        if not user:
+            profile = create_default_profile(user_id)
+            user = User(
+                user_id=user_id,
+                created_at=profile["created_at"],
+                last_interaction=profile["last_interaction"],
+                interaction_count=0,
+                humor_level=profile["preferences"]["humor_level"],
+                response_length=profile["preferences"]["response_length"],
+                formality=profile["preferences"]["formality"],
+                language_mix=profile["preferences"]["language_mix"],
+                emoji_usage=profile["preferences"]["emoji_usage"],
+                communication_style=profile["communication_style"],
+                learned_patterns=profile["learned_patterns"],
+                topics_of_interest=profile["topics_of_interest"],
+                emotional_baseline=profile["emotional_baseline"],
+            )
+            session.add(user)
+            session.commit()
+            session.refresh(user)
+
+        memory_summary = _get_memory_summary(user_id, session)
+
+        context = {
+            "user_id": user_id,
+            "preferences": {
+                "humor_level": user.humor_level,
+                "response_length": user.response_length,
+                "formality": user.formality,
+                "language_mix": user.language_mix,
+                "emoji_usage": user.emoji_usage,
+            },
+            "communication_style": user.communication_style,
+            "memory_summary": memory_summary,
+            "interaction_count": user.interaction_count,
+            "created_at": user.created_at,
+            "last_interaction": user.last_interaction,
+        }
+
+        # Update last interaction timestamp
+        user.last_interaction = datetime.utcnow()
+        user.interaction_count = (user.interaction_count or 0) + 1
+        session.commit()
+
+        return context
+
+    except Exception as e:
+        print(f"Warning: Could not load user context: {e}")
+        session.rollback()
+        return create_default_profile(user_id)
+    finally:
+        session.close()
 
 
 def create_default_profile(user_id: str) -> dict:
     """
-    Create default user profile.
+    Create default user profile dict (not persisted).
 
     Args:
         user_id: User identifier
@@ -101,95 +96,125 @@ def create_default_profile(user_id: str) -> dict:
         Default profile dict
     """
     now = datetime.utcnow()
-
     return {
         "user_id": user_id,
         "created_at": now,
         "last_interaction": now,
         "interaction_count": 0,
         "preferences": {
-            "humor_level": "medium",  # low, medium, high
-            "response_length": "medium",  # short, medium, long
-            "formality": "casual",  # casual, balanced, formal
-            "language_mix": "hinglish",  # hindi, hinglish, english
-            "emoji_usage": "moderate"  # none, minimal, moderate, high
+            "humor_level": "medium",
+            "response_length": "medium",
+            "formality": "casual",
+            "language_mix": "hinglish",
+            "emoji_usage": "moderate",
         },
         "communication_style": "casual",
         "learned_patterns": [],
         "topics_of_interest": [],
-        "emotional_baseline": "neutral"
+        "emotional_baseline": "neutral",
     }
 
 
-def get_memory_summary(user_id: str, memories_collection) -> str:
+def _get_memory_summary(user_id: str, session) -> str:
     """
-    Get compact memory summary for user.
-
-    Retrieves recent memories and learned patterns.
+    Build compact memory summary string from recent memories.
 
     Args:
         user_id: User identifier
-        memories_collection: MongoDB memories collection
+        session: Active SQLAlchemy session
 
     Returns:
-        Compact string summary of recent learnings
+        Summary string of recent learnings
     """
-
-    # Fetch recent memories (last 5)
-    recent_memories = list(
-        memories_collection.find(
-            {"user_id": user_id}
-        ).sort("timestamp", -1).limit(5)
+    recent_memories = (
+        session.query(Memory)
+        .filter_by(user_id=user_id)
+        .order_by(Memory.timestamp.desc())
+        .limit(5)
+        .all()
     )
 
     if not recent_memories:
         return "New user - no previous interactions"
 
-    # Build compact summary
     summary_parts = []
-
     for memory in recent_memories:
-        if "pattern" in memory:
-            summary_parts.append(f"- {memory['pattern']}")
-        elif "observation" in memory:
-            summary_parts.append(f"- {memory['observation']}")
+        if memory.pattern:
+            summary_parts.append(f"- {memory.pattern}")
+        elif memory.observation:
+            summary_parts.append(f"- {memory.observation}")
 
     if summary_parts:
         return "\n".join(summary_parts)
-    else:
-        return "Building understanding of user preferences"
+    return "Building understanding of user preferences"
 
 
-def update_user_preferences(
-    user_id: str,
-    preferences: Dict[str, Any]
-) -> bool:
+def get_memory_summary(user_id: str, _ignored=None) -> str:
+    """
+    Public wrapper for memory summary (session managed internally).
+
+    Args:
+        user_id: User identifier
+        _ignored: Kept for API compatibility (was MongoDB collection)
+
+    Returns:
+        Summary string
+    """
+    session = get_db_session()
+    if session is None:
+        return "New user - no previous interactions"
+    try:
+        return _get_memory_summary(user_id, session)
+    finally:
+        session.close()
+
+
+def update_user_preferences(user_id: str, preferences: Dict[str, Any]) -> bool:
     """
     Update user preferences.
 
     Args:
         user_id: User identifier
-        preferences: Dict of preferences to update
+        preferences: Dict with keys matching preference columns
 
     Returns:
         True if updated successfully
     """
+    session = get_db_session()
+    if session is None:
+        return False
 
-    users_collection = get_users_collection()
+    try:
+        user = session.query(User).filter_by(user_id=user_id).first()
+        if not user:
+            return False
 
-    result = users_collection.update_one(
-        {"user_id": user_id},
-        {"$set": {"preferences": preferences}}
-    )
+        if "humor_level" in preferences:
+            user.humor_level = preferences["humor_level"]
+        if "response_length" in preferences:
+            user.response_length = preferences["response_length"]
+        if "formality" in preferences:
+            user.formality = preferences["formality"]
+        if "language_mix" in preferences:
+            user.language_mix = preferences["language_mix"]
+        if "emoji_usage" in preferences:
+            user.emoji_usage = preferences["emoji_usage"]
 
-    return result.modified_count > 0
+        session.commit()
+        return True
+    except Exception as e:
+        print(f"Error updating preferences: {e}")
+        session.rollback()
+        return False
+    finally:
+        session.close()
 
 
 def save_memory(
     user_id: str,
     memory_type: str,
     content: str,
-    metadata: Optional[Dict] = None
+    metadata: Optional[Dict] = None,
 ) -> bool:
     """
     Save a memory/learning about the user.
@@ -203,30 +228,37 @@ def save_memory(
     Returns:
         True if saved successfully
     """
+    session = get_db_session()
+    if session is None:
+        return False
 
-    memories_collection = get_memories_collection()
+    try:
+        memory = Memory(
+            user_id=user_id,
+            type=memory_type,
+            content=content,
+            timestamp=datetime.utcnow(),
+            extra_metadata=metadata or {},
+        )
+        if memory_type == "pattern":
+            memory.pattern = content
+        elif memory_type == "observation":
+            memory.observation = content
 
-    memory = {
-        "user_id": user_id,
-        "type": memory_type,
-        "content": content,
-        "timestamp": datetime.utcnow(),
-        "metadata": metadata or {}
-    }
-
-    if memory_type == "pattern":
-        memory["pattern"] = content
-    elif memory_type == "observation":
-        memory["observation"] = content
-
-    result = memories_collection.insert_one(memory)
-
-    return result.acknowledged
+        session.add(memory)
+        session.commit()
+        return True
+    except Exception as e:
+        print(f"Error saving memory: {e}")
+        session.rollback()
+        return False
+    finally:
+        session.close()
 
 
 def get_user_profile(user_id: str) -> Optional[Dict]:
     """
-    Get full user profile.
+    Get full user profile as a dict.
 
     Args:
         user_id: User identifier
@@ -234,28 +266,46 @@ def get_user_profile(user_id: str) -> Optional[Dict]:
     Returns:
         User profile dict or None if not found
     """
+    session = get_db_session()
+    if session is None:
+        return None
 
-    users_collection = get_users_collection()
-    return users_collection.find_one({"user_id": user_id})
+    try:
+        user = session.query(User).filter_by(user_id=user_id).first()
+        if not user:
+            return None
+        return {
+            "user_id": user.user_id,
+            "created_at": user.created_at,
+            "last_interaction": user.last_interaction,
+            "interaction_count": user.interaction_count,
+            "total_interactions": user.total_interactions,
+            "preferences": {
+                "humor_level": user.humor_level,
+                "response_length": user.response_length,
+                "formality": user.formality,
+                "language_mix": user.language_mix,
+                "emoji_usage": user.emoji_usage,
+            },
+            "communication_style": user.communication_style,
+            "learned_patterns": user.learned_patterns or [],
+            "topics_of_interest": user.topics_of_interest or [],
+            "emotional_baseline": user.emotional_baseline,
+        }
+    finally:
+        session.close()
 
 
 def update_user_traits(
     user_id: str,
     analysis: Dict[str, Any],
-    policy: Dict[str, Any]
+    policy: Dict[str, Any],
 ) -> bool:
     """
     Update user traits based on behavioral signals.
 
-    Maps signals to personality traits and updates memory summaries.
+    Maps signals to personality traits and stores memory summaries.
     Does NOT store raw messages - only behavioral patterns.
-
-    Signal → Trait Mapping:
-    - Authority conflict often → avoids_conflict
-    - Long venting sessions → needs_validation
-    - High intensity anxiety → reassurance_seeking
-    - Humor preference → humor_responsive
-    - Frequent practical help → solution_oriented
 
     Args:
         user_id: User identifier
@@ -264,123 +314,87 @@ def update_user_traits(
 
     Returns:
         True if traits updated successfully
-
-    Example:
-        >>> update_user_traits(
-        ...     user_id="user_123",
-        ...     analysis={'primary_emotion': 'anxiety', 'intensity': 8, 'relationship': 'authority'},
-        ...     policy={'mode': 'venting_listener', 'humor_level': 0}
-        ... )
-        True
     """
-
-    users_collection = get_users_collection()
-
-    # If MongoDB unavailable, return False
-    if users_collection is None:
-        print("Warning: MongoDB unavailable, cannot update traits")
-        return False
-
-    # Extract signals
-    emotion = analysis.get('primary_emotion')
-    intensity = analysis.get('intensity', 5)
-    relationship = analysis.get('relationship')
-    conflict_risk = analysis.get('conflict_risk')
-    user_need = analysis.get('user_need')
-
-    mode = policy.get('mode')
-    humor_level = policy.get('humor_level', 1)
-
-    # Determine traits from signals
-    traits_to_add = []
-
-    # Authority conflict patterns
-    if relationship == 'authority' and conflict_risk == 'high':
-        traits_to_add.append('avoids_conflict')
-
-    # Venting patterns
-    if mode == 'venting_listener' or user_need == 'vent':
-        traits_to_add.append('needs_validation')
-
-    # Anxiety patterns
-    if emotion in ['anxiety', 'stressed'] and intensity >= 7:
-        traits_to_add.append('reassurance_seeking')
-
-    # High anxiety in general
-    if emotion == 'anxiety' and intensity >= 8:
-        traits_to_add.append('high_anxiety_baseline')
-
-    # Humor responsiveness
-    if humor_level >= 2 and emotion in ['boredom', 'neutral', 'happy']:
-        traits_to_add.append('humor_responsive')
-
-    # Solution-oriented
-    if user_need in ['advice', 'decision_help'] or mode == 'practical_helper':
-        traits_to_add.append('solution_oriented')
-
-    # Emotional support needs
-    if user_need in ['reassurance', 'validation']:
-        traits_to_add.append('needs_emotional_support')
-
-    # Workplace stress patterns
-    if relationship == 'authority' and emotion in ['frustration', 'anger', 'anxiety']:
-        traits_to_add.append('workplace_stress_prone')
-
-    if not traits_to_add:
+    session = get_db_session()
+    if session is None:
+        print("Warning: PostgreSQL unavailable, cannot update traits")
         return False
 
     try:
-        # Get current profile
-        profile = users_collection.find_one({"user_id": user_id})
-        if not profile:
-            # Create default profile first
+        emotion = analysis.get("primary_emotion")
+        intensity = analysis.get("intensity", 5)
+        relationship = analysis.get("relationship")
+        conflict_risk = analysis.get("conflict_risk")
+        user_need = analysis.get("user_need")
+        mode = policy.get("mode")
+        humor_level = policy.get("humor_level", 1)
+
+        traits_to_add = []
+
+        if relationship == "authority" and conflict_risk == "high":
+            traits_to_add.append("avoids_conflict")
+        if mode == "venting_listener" or user_need == "vent":
+            traits_to_add.append("needs_validation")
+        if emotion in ["anxiety", "stressed"] and intensity >= 7:
+            traits_to_add.append("reassurance_seeking")
+        if emotion == "anxiety" and intensity >= 8:
+            traits_to_add.append("high_anxiety_baseline")
+        if humor_level >= 2 and emotion in ["boredom", "neutral", "happy"]:
+            traits_to_add.append("humor_responsive")
+        if user_need in ["advice", "decision_help"] or mode == "practical_helper":
+            traits_to_add.append("solution_oriented")
+        if user_need in ["reassurance", "validation"]:
+            traits_to_add.append("needs_emotional_support")
+        if relationship == "authority" and emotion in ["frustration", "anger", "anxiety"]:
+            traits_to_add.append("workplace_stress_prone")
+
+        if not traits_to_add:
+            return False
+
+        user = session.query(User).filter_by(user_id=user_id).first()
+        if not user:
             profile = create_default_profile(user_id)
-            users_collection.insert_one(profile)
+            user = User(
+                user_id=user_id,
+                created_at=profile["created_at"],
+                last_interaction=profile["last_interaction"],
+            )
+            session.add(user)
+            session.flush()
 
-        # Get existing traits
-        existing_traits = profile.get('learned_patterns', [])
-
-        # Add new traits (avoid duplicates)
+        existing_traits = list(user.learned_patterns or [])
         for trait in traits_to_add:
             if trait not in existing_traits:
                 existing_traits.append(trait)
 
-        # Update profile
-        users_collection.update_one(
-            {"user_id": user_id},
-            {
-                "$set": {
-                    "learned_patterns": existing_traits,
-                    "last_updated": datetime.utcnow()
-                }
-            }
+        user.learned_patterns = existing_traits
+        user.last_updated = datetime.utcnow()
+
+        # Save memory summary
+        summary = MemorySummary(
+            user_id=user_id,
+            timestamp=datetime.utcnow(),
+            traits_identified=traits_to_add,
+            signals={
+                "emotion": emotion,
+                "intensity": intensity,
+                "relationship": relationship,
+                "conflict_risk": conflict_risk,
+                "user_need": user_need,
+                "mode": mode,
+            },
+            type="trait_update",
         )
+        session.add(summary)
+        session.commit()
+        return True
+
     except Exception as e:
         print(f"Error updating user traits: {e}")
+        session.rollback()
         return False
-
-    # Create memory summary entry (NOT storing raw message)
-    memory_entry = {
-        "user_id": user_id,
-        "timestamp": datetime.utcnow(),
-        "traits_identified": traits_to_add,
-        "signals": {
-            "emotion": emotion,
-            "intensity": intensity,
-            "relationship": relationship,
-            "conflict_risk": conflict_risk,
-            "user_need": user_need,
-            "mode": mode
-        },
-        "type": "trait_update"
-    }
-
-    # Save to memory_summaries collection
-    db = get_users_collection().database
-    memory_summaries = db["memory_summaries"]
-    memory_summaries.insert_one(memory_entry)
-
-    return True
+    finally:
+        session.close()
 
 
 def get_user_traits(user_id: str) -> list:
@@ -393,12 +407,10 @@ def get_user_traits(user_id: str) -> list:
     Returns:
         List of learned trait strings
     """
-
     profile = get_user_profile(user_id)
     if not profile:
         return []
-
-    return profile.get('learned_patterns', [])
+    return profile.get("learned_patterns", [])
 
 
 def log_interaction(
@@ -406,172 +418,151 @@ def log_interaction(
     scenario: str,
     emotion: str,
     mode: str,
-    metadata: Optional[Dict[str, Any]] = None
+    metadata: Optional[Dict[str, Any]] = None,
 ) -> bool:
     """
     Log interaction outcome for adaptive learning.
 
-    Stores interaction patterns to help Buddy learn preferences over time.
-    Does NOT store message content - only behavioral metadata.
+    Stores interaction patterns (NOT message content) for adaptation.
 
     Args:
         user_id: User identifier
         scenario: Scenario type (e.g., 'workplace_conflict', 'exam_stress')
         emotion: Detected emotion
-        mode: Response mode used (e.g., 'diplomatic_advisor', 'venting_listener')
-        metadata: Optional additional data (response_length, humor_used, etc.)
+        mode: Response mode used
+        metadata: Optional additional data
 
     Returns:
         True if logged successfully
-
-    Example:
-        >>> log_interaction(
-        ...     user_id="user_123",
-        ...     scenario="workplace_conflict",
-        ...     emotion="anxiety",
-        ...     mode="diplomatic_advisor",
-        ...     metadata={'response_length': 'medium', 'humor_level': 0}
-        ... )
-        True
     """
-
-    users_collection = get_users_collection()
-
-    # If MongoDB unavailable, return False
-    if users_collection is None:
-        print("Warning: MongoDB unavailable, cannot log interaction")
+    session = get_db_session()
+    if session is None:
+        print("Warning: PostgreSQL unavailable, cannot log interaction")
         return False
 
-    # Get interactions collection
-    db = users_collection.database
-    interactions = db["interactions"]
+    try:
+        interaction = Interaction(
+            user_id=user_id,
+            timestamp=datetime.utcnow(),
+            scenario=scenario,
+            emotion=emotion,
+            mode=mode,
+            extra_metadata=metadata or {},
+            type="interaction_log",
+        )
+        session.add(interaction)
 
-    # Create interaction log entry
-    interaction = {
-        "user_id": user_id,
-        "timestamp": datetime.utcnow(),
-        "scenario": scenario,
-        "emotion": emotion,
-        "mode": mode,
-        "metadata": metadata or {},
-        "type": "interaction_log"
-    }
+        user = session.query(User).filter_by(user_id=user_id).first()
+        if user:
+            user.total_interactions = (user.total_interactions or 0) + 1
+            user.last_interaction = datetime.utcnow()
+        else:
+            # upsert
+            profile = create_default_profile(user_id)
+            new_user = User(
+                user_id=user_id,
+                created_at=profile["created_at"],
+                last_interaction=datetime.utcnow(),
+                total_interactions=1,
+            )
+            session.add(new_user)
 
-    # Insert interaction log
-    result = interactions.insert_one(interaction)
-
-    # Update user's interaction count (already done in load_user_context, but ensure consistency)
-    users_collection.update_one(
-        {"user_id": user_id},
-        {
-            "$inc": {"total_interactions": 1},
-            "$set": {"last_interaction": datetime.utcnow()}
-        },
-        upsert=True
-    )
-
-    return result.acknowledged
+        session.commit()
+        return True
+    except Exception as e:
+        print(f"Error logging interaction: {e}")
+        session.rollback()
+        return False
+    finally:
+        session.close()
 
 
 def get_interaction_stats(user_id: str) -> Dict[str, Any]:
     """
     Get interaction statistics for a user.
 
-    Analyzes past interactions to show learning and adaptation.
-
     Args:
         user_id: User identifier
 
     Returns:
-        Dict with interaction statistics
-
-    Example:
-        >>> stats = get_interaction_stats("user_123")
-        >>> print(stats)
-        {
-            'total_interactions': 47,
-            'common_scenarios': ['workplace_conflict', 'exam_stress'],
-            'common_emotions': ['anxiety', 'frustration'],
-            'preferred_modes': ['diplomatic_advisor', 'venting_listener'],
-            'adaptations_learned': [
-                'Buddy learned you prefer short replies',
-                'Buddy adapted to your workplace stress patterns'
-            ]
-        }
+        Dict with interaction statistics and adaptation messages
     """
-
-    users_collection = get_users_collection()
-    db = users_collection.database
-    interactions = db["interactions"]
-
-    # Get all interactions for user
-    user_interactions = list(interactions.find({"user_id": user_id}))
-
-    if not user_interactions:
+    session = get_db_session()
+    if session is None:
         return {
-            'total_interactions': 0,
-            'common_scenarios': [],
-            'common_emotions': [],
-            'preferred_modes': [],
-            'adaptations_learned': []
+            "total_interactions": 0,
+            "common_scenarios": [],
+            "common_emotions": [],
+            "preferred_modes": [],
+            "adaptations_learned": [],
         }
 
-    # Analyze patterns
-    scenarios = {}
-    emotions = {}
-    modes = {}
+    try:
+        user_interactions = (
+            session.query(Interaction).filter_by(user_id=user_id).all()
+        )
 
-    for interaction in user_interactions:
-        scenario = interaction.get('scenario', 'unknown')
-        emotion = interaction.get('emotion', 'unknown')
-        mode = interaction.get('mode', 'unknown')
+        if not user_interactions:
+            return {
+                "total_interactions": 0,
+                "common_scenarios": [],
+                "common_emotions": [],
+                "preferred_modes": [],
+                "adaptations_learned": [],
+            }
 
-        scenarios[scenario] = scenarios.get(scenario, 0) + 1
-        emotions[emotion] = emotions.get(emotion, 0) + 1
-        modes[mode] = modes.get(mode, 0) + 1
+        scenarios: Dict[str, int] = {}
+        emotions: Dict[str, int] = {}
+        modes: Dict[str, int] = {}
 
-    # Get top 3 of each
-    common_scenarios = sorted(scenarios.items(), key=lambda x: x[1], reverse=True)[:3]
-    common_emotions = sorted(emotions.items(), key=lambda x: x[1], reverse=True)[:3]
-    preferred_modes = sorted(modes.items(), key=lambda x: x[1], reverse=True)[:3]
+        for interaction in user_interactions:
+            s = interaction.scenario or "unknown"
+            e = interaction.emotion or "unknown"
+            m = interaction.mode or "unknown"
+            scenarios[s] = scenarios.get(s, 0) + 1
+            emotions[e] = emotions.get(e, 0) + 1
+            modes[m] = modes.get(m, 0) + 1
 
-    # Generate adaptation messages
-    adaptations = []
+        common_scenarios = sorted(scenarios.items(), key=lambda x: x[1], reverse=True)[:3]
+        common_emotions = sorted(emotions.items(), key=lambda x: x[1], reverse=True)[:3]
+        preferred_modes = sorted(modes.items(), key=lambda x: x[1], reverse=True)[:3]
 
-    # Get learned traits
-    traits = get_user_traits(user_id)
+        adaptations = []
+        traits = get_user_traits(user_id)
 
-    if 'avoids_conflict' in traits:
-        adaptations.append("Buddy learned you prefer diplomatic approaches")
-    if 'needs_validation' in traits:
-        adaptations.append("Buddy adapted to validate your emotions first")
-    if 'solution_oriented' in traits:
-        adaptations.append("Buddy learned you prefer actionable solutions")
-    if 'reassurance_seeking' in traits:
-        adaptations.append("Buddy provides more reassurance based on your patterns")
-    if 'humor_responsive' in traits:
-        adaptations.append("Buddy uses appropriate humor when suitable")
-    if 'workplace_stress_prone' in traits:
-        adaptations.append("Buddy is extra supportive for work-related stress")
+        if "avoids_conflict" in traits:
+            adaptations.append("Buddy learned you prefer diplomatic approaches")
+        if "needs_validation" in traits:
+            adaptations.append("Buddy adapted to validate your emotions first")
+        if "solution_oriented" in traits:
+            adaptations.append("Buddy learned you prefer actionable solutions")
+        if "reassurance_seeking" in traits:
+            adaptations.append("Buddy provides more reassurance based on your patterns")
+        if "humor_responsive" in traits:
+            adaptations.append("Buddy uses appropriate humor when suitable")
+        if "workplace_stress_prone" in traits:
+            adaptations.append("Buddy is extra supportive for work-related stress")
 
-    # Check metadata for preferences
-    recent_interactions = user_interactions[-10:] if len(user_interactions) > 10 else user_interactions
-    response_lengths = [i.get('metadata', {}).get('response_length') for i in recent_interactions if i.get('metadata', {}).get('response_length')]
+        recent = user_interactions[-10:] if len(user_interactions) > 10 else user_interactions
+        response_lengths = [
+            i.extra_metadata.get("response_length")
+            for i in recent
+            if i.extra_metadata and i.extra_metadata.get("response_length")
+        ]
+        if response_lengths:
+            from collections import Counter
+            most_common = Counter(response_lengths).most_common(1)[0][0]
+            if most_common == "short":
+                adaptations.append("Buddy learned you prefer concise replies")
+            elif most_common == "long":
+                adaptations.append("Buddy learned you appreciate detailed responses")
 
-    if response_lengths:
-        from collections import Counter
-        most_common_length = Counter(response_lengths).most_common(1)[0][0]
-        if most_common_length == 'short':
-            adaptations.append("Buddy learned you prefer concise replies")
-        elif most_common_length == 'long':
-            adaptations.append("Buddy learned you appreciate detailed responses")
-
-    return {
-        'total_interactions': len(user_interactions),
-        'common_scenarios': [s[0] for s in common_scenarios],
-        'common_emotions': [e[0] for e in common_emotions],
-        'preferred_modes': [m[0] for m in preferred_modes],
-        'adaptations_learned': adaptations
-    }
-
-
+        return {
+            "total_interactions": len(user_interactions),
+            "common_scenarios": [s[0] for s in common_scenarios],
+            "common_emotions": [e[0] for e in common_emotions],
+            "preferred_modes": [m[0] for m in preferred_modes],
+            "adaptations_learned": adaptations,
+        }
+    finally:
+        session.close()

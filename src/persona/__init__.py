@@ -1,6 +1,6 @@
 """Persona module for user context and memory management"""
 
-from .db import MongoDB, get_users_collection, get_memories_collection, get_conversations_collection
+from .db import PostgresDB, get_db_session
 from .user_context import (
     load_user_context,
     create_default_profile,
@@ -15,12 +15,11 @@ from .user_context import (
 )
 
 __all__ = [
-    "MongoDB",
-    "get_users_collection",
-    "get_memories_collection",
-    "get_conversations_collection",
+    "PostgresDB",
+    "get_db_session",
     "load_user_context",
     "create_default_profile",
+    "get_memory_summary",
     "update_user_preferences",
     "save_memory",
     "get_user_profile",
@@ -29,4 +28,3 @@ __all__ = [
     "log_interaction",
     "get_interaction_stats"
 ]
-

@@ -64,13 +64,13 @@ async def health():
 
     # Check if API key is configured
     api_key_configured = bool(os.getenv("ANTHROPIC_API_KEY"))
-    mongo_configured = bool(os.getenv("MONGO_URI"))
+    db_configured = bool(os.getenv("DATABASE_URL"))
 
     return {
         "status": "healthy",
         "api_key_configured": api_key_configured,
-        "mongodb_configured": mongo_configured,
-        "learning_enabled": mongo_configured
+        "database_configured": db_configured,
+        "learning_enabled": db_configured
     }
 
 
@@ -86,7 +86,7 @@ if __name__ == "__main__":
     print(f"   URL: http://localhost:{port}")
     print(f"   Docs: http://localhost:{port}/docs")
     print(f"   API Key: {'✅ Configured' if os.getenv('ANTHROPIC_API_KEY') else '❌ Not set'}")
-    print(f"   MongoDB: {'✅ Configured' if os.getenv('MONGO_URI') else '⚠️  Not set (learning disabled)'}")
+    print(f"   Database: {'✅ Configured' if os.getenv('DATABASE_URL') else '⚠️  Not set (learning disabled)'}")
     print("=" * 70)
 
     uvicorn.run(
