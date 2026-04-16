@@ -7,7 +7,7 @@ Extracts emotional and relationship signals from user text.
 import os
 import json
 from pathlib import Path
-from anthropic import Anthropic
+from openai import OpenAI
 from .models import SocialAnalysis
 
 
@@ -28,7 +28,7 @@ def analyze_social_context(text: str) -> SocialAnalysis:
         SocialAnalysis object with structured signals
 
     Raises:
-        ValueError: If ANTHROPIC_API_KEY is not set
+        ValueError: If OPENROUTER_API_KEY is not set
 
     Example:
         >>> analysis = analyze_social_context(
@@ -39,12 +39,15 @@ def analyze_social_context(text: str) -> SocialAnalysis:
         >>> print(analysis.conflict_risk)    # "high"
     """
     # Get API key
-    api_key = os.getenv("ANTHROPIC_API_KEY")
+    api_key = os.getenv("OPENROUTER_API_KEY")
     if not api_key:
-        raise ValueError("ANTHROPIC_API_KEY not found in environment")
+        raise ValueError("OPENROUTER_API_KEY not found in environment")
 
     # Initialize client
-    client = Anthropic(api_key=api_key)
+    client = OpenAI(
+        base_url="https://openrouter.ai/api/v1",
+        api_key=api_key,
+    )
 
     # Load system prompt
     prompt_path = Path(__file__).parent / "social_analysis_prompt.txt"
@@ -52,21 +55,18 @@ def analyze_social_context(text: str) -> SocialAnalysis:
         system_prompt = f.read()
 
     try:
-        # Call Claude API
-        message = client.messages.create(
-            model="claude-sonnet-4-20250514",
-            max_tokens=300,
-            system=system_prompt,
+        # Call API
+        response = client.chat.completions.create(
+            model="nvidia/nemotron-3-super-120b-a12b:free",
             messages=[
-                {
-                    "role": "user",
-                    "content": text
-                }
-            ]
+                {"role": "system", "content": system_prompt},
+                {"role": "user", "content": text}
+            ],
+            extra_body={"reasoning": {"enabled": True}}
         )
 
         # Parse response
-        response_text = message.content[0].text.strip()
+        response_text = response.choices[0].message.content.strip()
 
         # Handle markdown code blocks
         if response_text.startswith("```"):
@@ -90,4 +90,3 @@ def analyze_social_context(text: str) -> SocialAnalysis:
             relationship="unknown",
             conflict_risk="low"
         )
-

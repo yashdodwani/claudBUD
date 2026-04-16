@@ -1,7 +1,7 @@
 """
 Test PolicyDecider - demonstrates automatic policy generation
 
-NOTE: Requires ANTHROPIC_API_KEY environment variable to be set
+NOTE: Requires OPENROUTER_API_KEY environment variable to be set
 Run: python tests/test_policy_decider.py
 """
 
@@ -19,10 +19,10 @@ def test_policy_decider():
     # Load environment variables
     load_dotenv()
 
-    if not os.getenv("ANTHROPIC_API_KEY"):
-        print("❌ ANTHROPIC_API_KEY not found in environment")
+    if not os.getenv("OPENROUTER_API_KEY"):
+        print("❌ OPENROUTER_API_KEY not found in environment")
         print("   Please create a .env file with your API key")
-        print("   Example: echo 'ANTHROPIC_API_KEY=your_key_here' > .env")
+        print("   Example: echo 'OPENROUTER_API_KEY=your_key_here' > .env")
         return
 
     print("=" * 70)

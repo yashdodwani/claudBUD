@@ -26,8 +26,8 @@ from composer import generate_reply
 def main():
     load_dotenv()
 
-    if not os.getenv("ANTHROPIC_API_KEY"):
-        print("⚠️  ANTHROPIC_API_KEY not set!")
+    if not os.getenv("OPENROUTER_API_KEY"):
+        print("⚠️  OPENROUTER_API_KEY not set!")
         return
 
     print("=" * 70)

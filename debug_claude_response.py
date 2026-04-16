@@ -26,7 +26,7 @@ context = {
     "situation": "workplace_conflict"
 }
 
-client = Anthropic(api_key=os.getenv("ANTHROPIC_API_KEY"))
+client = Anthropic(api_key=os.getenv("OPENROUTER_API_KEY"))
 
 print("=" * 70)
 print("Testing Claude Sonnet 4.5 Response")

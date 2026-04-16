@@ -63,7 +63,7 @@ async def health():
     """Health check endpoint"""
 
     # Check if API key is configured
-    api_key_configured = bool(os.getenv("ANTHROPIC_API_KEY"))
+    api_key_configured = bool(os.getenv("OPENROUTER_API_KEY"))
     db_configured = bool(os.getenv("DATABASE_URL"))
 
     return {
@@ -85,7 +85,7 @@ if __name__ == "__main__":
     print("=" * 70)
     print(f"   URL: http://localhost:{port}")
     print(f"   Docs: http://localhost:{port}/docs")
-    print(f"   API Key: {'✅ Configured' if os.getenv('ANTHROPIC_API_KEY') else '❌ Not set'}")
+    print(f"   API Key: {'✅ Configured' if os.getenv('OPENROUTER_API_KEY') else '❌ Not set'}")
     print(f"   Database: {'✅ Configured' if os.getenv('DATABASE_URL') else '⚠️  Not set (learning disabled)'}")
     print("=" * 70)
 

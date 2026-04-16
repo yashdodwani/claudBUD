@@ -97,8 +97,8 @@ def test_three_messages():
 
 
 if __name__ == "__main__":
-    if not os.getenv("ANTHROPIC_API_KEY"):
-        print("⚠️  ANTHROPIC_API_KEY not set!")
+    if not os.getenv("OPENROUTER_API_KEY"):
+        print("⚠️  OPENROUTER_API_KEY not set!")
         sys.exit(1)
 
     test_three_messages()
