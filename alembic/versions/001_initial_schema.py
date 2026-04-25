@@ -1,4 +1,4 @@
-"""Initial schema - create users, memories, interactions, memory_summaries tables
+"""Initial schema: create users, memories, interactions, memory_summaries
 
 Revision ID: 001
 Revises:
@@ -30,7 +30,8 @@ def upgrade() -> None:
         sa.Column("formality", sa.String(), nullable=True, default="casual"),
         sa.Column("language_mix", sa.String(), nullable=True, default="hinglish"),
         sa.Column("emoji_usage", sa.String(), nullable=True, default="moderate"),
-        sa.Column("communication_style", sa.String(), nullable=True, default="casual"),
+        sa.Column("communication_style", sa.String(), nullable=True,
+                  default="casual"),
         sa.Column("learned_patterns", sa.JSON(), nullable=True),
         sa.Column("topics_of_interest", sa.JSON(), nullable=True),
         sa.Column("emotional_baseline", sa.String(), nullable=True, default="neutral"),
